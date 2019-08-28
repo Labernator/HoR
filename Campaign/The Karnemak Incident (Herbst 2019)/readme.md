@@ -56,10 +56,10 @@
 
 => 36
 
-##### ===>>> 53 + 20 + 20 + 32 + 39 + 36 = 200
+### ===>>> 53 + 20 + 20 + 32 + 39 + 36 = 200
 
-##### Keywords (9)
+### Keywords (9)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, BLACKSHIELD, HELLBLASTERS, CHARACTER, APOTHECARY
 
-##### Philosophy
+### Philosophy
 Operators (2 TP) [Killteam has 3 Special Choices]
