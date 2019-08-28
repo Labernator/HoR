@@ -6,7 +6,7 @@
 ## Marius - Deathwatch
 
 ### Team Leader
-#### Veteran Sergeant (39) 
+#### Joshua Nolan - Veteran Sergeant (39) 
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Storm Bolter (4)
@@ -16,7 +16,7 @@
 => 53
 
 ### Core
-#### Intercessor (17)
+#### Jim Raynor - Intercessor (17)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -24,7 +24,7 @@
 
 => 20
 
-#### Intercessor (17)
+#### Michael Garibaldi - Intercessor (17)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -33,7 +33,7 @@
 => 20
 
 ### Special
-#### Blackshield (25)
+#### Jayne Cobb - Blackshield (25)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -41,7 +41,7 @@
 
 => 32
 
-#### Apothecary (38)
+#### John Crichton - Apothecary (38)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Bolt Pistol (1)
@@ -49,7 +49,7 @@
 
 => 39
 
-#### Hellblaster (18)
+#### Amos Burton - Hellblaster (18)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Bolt Pistol (1)
