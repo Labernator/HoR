@@ -6,6 +6,10 @@
  - Jump Pack (15)  
 => 60  
 
+**Cyberwolf** (15)  
+ - Teeth and claws (0)  
+ => 15
+
 **Swiftclaw** (23)  
  - Chainsword (0)  
  - Frag Grenade (0)  
