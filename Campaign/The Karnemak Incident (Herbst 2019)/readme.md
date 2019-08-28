@@ -1,6 +1,6 @@
 # Players
 
-Stefan - Space Wolves
+## Stefan - Space Wolves
 
 ## Marius - Deathwatch
 
