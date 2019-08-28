@@ -1,11 +1,11 @@
-## Players
+# Players
 
 Stefan - Space Wolves
 
-Marius - Deathwatch
+## Marius - Deathwatch
 
-# Team Leader
-## Veteran Sergeant (39) 
+### Team Leader
+#### Veteran Sergeant (39) 
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Storm Bolter (4)
@@ -14,8 +14,8 @@ Marius - Deathwatch
 
 => 53
 
-# Core
-## Intercessor (17)
+### Core
+#### Intercessor (17)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -23,7 +23,7 @@ Marius - Deathwatch
 
 => 20
 
-## Intercessor (17)
+#### Intercessor (17)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -31,8 +31,8 @@ Marius - Deathwatch
 
 => 20
 
-# Special
-## Blackshield (25)
+### Special
+#### Blackshield (25)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -40,7 +40,7 @@ Marius - Deathwatch
 
 => 32
 
-## Apothecary (38)
+#### Apothecary (38)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Bolt Pistol (1)
@@ -48,7 +48,7 @@ Marius - Deathwatch
 
 => 39
 
-## Hellblaster (18)
+#### Hellblaster (18)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Bolt Pistol (1)
