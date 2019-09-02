@@ -8,7 +8,7 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
 
 ### Initial Space Wolves Kill Team  
 
-__**Leader**__  
+<u>**Leader**</u>  
 **Cohen the Barbarian** (Wolf Skjald)) (45)  
  - Bolt Pistol (0)  
  - Crozius Arcanum (0)  
@@ -17,7 +17,7 @@ __**Leader**__
  - Jump Pack (15)  
 => 60  
 
-__**Core**__  
+**Core**  
 **Ronald Saveloy** (Swiftclaw) (23)  
  - Chainsword (0)  
  - Frag Grenade (0)  
@@ -32,7 +32,7 @@ __**Core**__
  - Twin Boltgun (2)  
 => 25  
 
-__**Special**__  
+**Special**  
 **Truckle the Uncivil** (Wulfen) (28)  
  - Thunder Hammer (16)  
  - Storm Shield (5)  
