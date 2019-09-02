@@ -44,7 +44,7 @@
 #### John Crichton - Apothecary (38)
 - Frag Grenade (0)
 - Krag Grenade (0)
-- Bolt Pistol (1)
+- Boltgun (1)
 - Chainsword (0)
 
 => 39
