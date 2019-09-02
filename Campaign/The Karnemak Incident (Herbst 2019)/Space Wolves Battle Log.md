@@ -7,7 +7,9 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
 *'That was all we got. No one knew what fallback point 322 zeta was, but someone had uploaded it to the navigation cogitators. I won’t say what happened there, but from that day forth, every ship had a contingent of Imperial Inquisition operating in the open on board and over a hundred agents that I know of deployed with our ground forces over the course of the campaign.'*  
 
 ### Initial Space Wolves Kill Team  
-**Wolf Skjald** (45)  
+
+__**Leader**__  
+**Cohen the Barbarian** (Wolf Skjald)) (45)  
  - Bolt Pistol (0)  
  - Crozius Arcanum (0)  
  - Frag Grenade (0)  
@@ -15,26 +17,28 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
  - Jump Pack (15)  
 => 60  
 
-**Swiftclaw** (23)  
+__**Core**__  
+**Ronald Saveloy** (Swiftclaw) (23)  
  - Chainsword (0)  
  - Frag Grenade (0)  
  - Krak Grenade (0)  
  - Twin Boltgun (2)  
 => 25  
 
-**Swiftclaw** (23)  
+**Mad Hamish** (Swiftclaw) (23)  
  - Chainsword (0)  
  - Frag Grenade (0)  
  - Krak Grenade (0)  
  - Twin Boltgun (2)  
 => 25  
 
-**Wulfen** (28)  
+__**Special**__  
+**Truckle the Uncivil** (Wulfen) (28)  
  - Thunder Hammer (16)  
  - Storm Shield (5)  
 => 49  
 
-**Aggressor** (21)  
+**Boy Willie** (Aggressor) (21)  
  - Auto Boltstorm Gauntlets (12)  
  - Fragstorm Grenade Launcher (4)
 => 37
