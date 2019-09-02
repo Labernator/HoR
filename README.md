@@ -1,4 +1,4 @@
 # HoR
-Heralds of Honor - 40k kill team campaign play
+Heralds of Ruin - 40k kill team campaign play
 
 [Regeln](http://heraldsofruin.net/download/)
