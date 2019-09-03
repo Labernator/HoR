@@ -1,6 +1,8 @@
 
 # Kill-Team
 
+Based on Build 16
+
 ## Forgeworld
 
 **Gryphonne IV - The lost Forge**
