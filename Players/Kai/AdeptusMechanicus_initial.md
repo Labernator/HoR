@@ -162,7 +162,7 @@ Rad-Saturation (enemy within 1" gain -1T)
 
 Canticles of the omnisiah  
 Fanatical Devotion (If the priest receives a wound, roll a D6, on 5+ wound is discarded - troll like)  
-Voltagheist Field (5++ InvSv, if the priest charges a enemy unit, it has do roll a D6, on 6 the target model suffers a mortal wound)  
+Voltagheist Field (5++ InvSv, if the priest charges a enemy unit, the target has do roll a D6, on 6 the target model suffers a mortal wound)  
 
 #### Equipment
 
