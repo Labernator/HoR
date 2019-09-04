@@ -166,7 +166,7 @@ Voltagheist Field (5++ InvSv, if the priest charges a enemy unit, it has do roll
 
 #### Equipment
 
-Electrostatic gauntlets **(*0pt*)**:
+2x Electrostatic gauntlets **(*0pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
