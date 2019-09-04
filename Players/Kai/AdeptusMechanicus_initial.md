@@ -130,9 +130,9 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 
 #### Rules
 
-Canticles of the omnisiah
-Bionics (6++ Inv Sv)
-Rad-Saturation (enemy within 1" gain -1T)
+Canticles of the omnisiah  
+Bionics (6++ Inv Sv)  
+Rad-Saturation (enemy within 1" gain -1T)  
 
 #### Equipment
 
