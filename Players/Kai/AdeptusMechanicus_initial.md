@@ -152,7 +152,7 @@ Rad-Saturation (enemy within 1" gain -1T)
 
 #### Cost 61pt
 
-### 2x Corpuscarii Electro-Pries **(*14pt*)**
+### 2x Corpuscarii Electro-Priest **(*14pt*)**
 
 |M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
