@@ -61,7 +61,7 @@ Galvanic caster **(*0pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Flechette burster|24"|Rapid fire 2|3|0|1||
+|Flechette burster|24"|Rapid fire 2|3|-1|1|Master crafted weapon **(*5pt*)**|
 |Igniz blaze|18"|Assault D3|3|-1|1|Master crafted weapon **(*5pt*)**; <br>This weapon can target units that are not visible to the firer.|
 |Kinetic hammershot|30"|Heavy 1|4|-2|1||
 
