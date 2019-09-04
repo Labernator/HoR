@@ -70,7 +70,7 @@ Lex Hailer (all aura ranges are increased by 3") **(*8pt*)**
 Medicae mechadendrite (3" range reanimate a dead unit or revive a unit's wound on D6=4+) **(*10pt*)**    
 Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**   
 
-#### Cost 70pt
+#### Cost 75pt
 
 ### 2x Secutarii Peltast **(*9pt*)**
 
