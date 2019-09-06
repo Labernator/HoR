@@ -67,7 +67,7 @@ Galvanic caster **(*0pt*)**:
 
 Inctense Generatorium (Opponent substract 1 from to Hit if distance is >=12") **(*5pt*)**  
 Lex Hailer (all aura ranges are increased by 3") **(*8pt*)**  
-Medicae mechadendrite (3" range reanimate a dead unit or revive a unit's wound on D6=4+) **(*10pt*)**    
+Medicae mechadendrite (3" range reanimatea dead unit or regenerate a unit's lost wound on D6=4+) **(*10pt*)**    
 Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**   
 
 #### Cost 75pt
@@ -92,7 +92,7 @@ Galvanic caster **(*0pt*)**:
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |Flechette burster|24"|Rapid fire 2|3|0|1||
-|Igniz blaze|18"|Assault D3|3|0|1|This weapon can target units that are not wisible to the firer.|
+|Igniz blaze|18"|Assault D3|3|0|1|This weapon can target units that are not visible to the firer.|
 |Kinetic hammershot|30"|Heavy 1|4|-2|1||
 
 #### Cost 18pt
@@ -118,7 +118,7 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 |Shooting|12"|Assault 1|6|-1|1|When attacking VEHICLE, D=D3|
 |Melee||Melee|+3|-1|1|When attacking VEHICLE, D=D3|
 
-2x Mag-Inverter shield (4++ InvSv agains melee attacks, on saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
+2x Mag-Inverter shield (4++ InvSv agains melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
 
 #### Cost 18pt
 
@@ -140,13 +140,13 @@ Rad-Saturation (enemy within 1" gain -1T)
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||18"|Assault 3|3|0|1|Wound on D6=6+ the hit inflicts 2 damage instead of 1|
+||18"|Assault 3|3|0|1|On wound of D6=6+ the hit inflicts 2 damage instead of 1|
 
 1x Plasma caliver **(*14pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll D6=1  the bearer is slain after all shots have been resolved)|
+||18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
 
 1x Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
 
@@ -161,8 +161,8 @@ Rad-Saturation (enemy within 1" gain -1T)
 #### Rules
 
 Canticles of the omnisiah  
-Fanatical Devotion (If the priest receives a wound, roll a D6, on 5+ wound is discarded - troll like)  
-Voltagheist Field (5++ InvSv, if the priest charges a enemy unit, the target has do roll a D6, on 6 the target model suffers a mortal wound)  
+Fanatical Devotion (If the priest receives a wound roll a D6, on 5+ the wound is discarded - troll like)  
+Voltagheist Field (5++ InvSv; If the priest charges a enemy unit, the target has do roll a D6, on 6 the target model suffers a mortal wound)  
 
 #### Equipment
 
