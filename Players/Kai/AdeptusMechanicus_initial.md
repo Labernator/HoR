@@ -19,7 +19,7 @@ Based on Build 16
 
 |Name|Ability|
 |:---|:---|
-|Soldiers of the Macine God|All troop units within range of a objective marker controls the marker. Even if there are more enemy models within range of the same marker|
+|Soldiers of the Machine God|All troop units within range of a objective marker controls the marker. Even if there are more enemy models within range of the same marker|
 
 ### Tactic points
 
