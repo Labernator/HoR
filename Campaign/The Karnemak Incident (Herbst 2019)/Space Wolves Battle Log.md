@@ -45,8 +45,14 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
 
 196 Pts
 
-Philosophy:
+<ins>Philosophy</ins>  
  - Bloodthirsty: Immediately after the first casualty of the game is removed, immediately gain 1 Tactical Point if a model from your team caused the casualty, or 2 Tactical Points if your leader did.
+ 
+<ins>Tactical Points</ins>  
+ - Destined For Greatness: Include a team leader (+3)  
+ - Death And Diversity: 8 different keywords (+1)  
+ - Boots Before Loot: No items from Armoury (+1)  
+=> 5
 
 ## Mission 1 – A Meeting of Minds (25.09.19)  
 *Kill teams meet under in the pale moonlight. Are they exchanging prisoners? Wounded? Insults? History will never know. Before they can even begin to conduct their business, the restless dead attack. The kill teams must escape, but which way?*  
