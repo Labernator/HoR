@@ -79,3 +79,11 @@ Cream Of The Crop: taking the maximum number of Special models
 according to your Model Allowance (+1)
 
 ### => 6
+
+# Errata
+
+Destined For Greatness: **+1** for including a Team Leader. This is usually compulsory, so 
+all teams will have at least 1 Tactical Point in ordinary 
+gameplay.
+In Campaign play, increase this number by 1 for each game 
+this Team Leader has taken part in before the current one
