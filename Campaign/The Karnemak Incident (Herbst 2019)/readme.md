@@ -64,3 +64,11 @@ INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, BLACKSHIELD, HELLB
 
 ### Philosophy
 Operators (2 TP) [Killteam has 3 Special Choices]
+
+#### Tactical Points
+Operators: 3 Special Choice (+2)
+Destined For Greatness: Include a team leader (+1)
+Death And Diversity: 8 different keywords (+1)
+Bound By Experience: all models in your team share at least one non-faction 
+keyword => Infantry (+1)
+### => 5
