@@ -10,14 +10,15 @@ Alle Fragen beziehen sich auf das Karnemak Incident PDF.
 *Marius*: joa... 
 
 **S.4 - Spawn**: Verstehe ich das richtig, dass die Untoten spawnen und sich dann direkt bewegen?  
-*Marius*: Nein. Die undead sequence ist move(swarm), spawn, shoot, feast(charge) (S. 4). Sie chargen aber wenn sie können 
+*Marius*: Korrekt. Und Chargen tun sie auch noch wenn nötig... 
 
 **S.12 - Ending the Game**: Erhalten wir beide den selben Reward?
-
-
+*Marius*: ich würde sagen ja. z.b. Gibt es in Szenario 4 einen reward für "cleared all undead". Das ist sicher nicht so gedacht dass das einer alleine machen muss
 
 Und zählen wir als "ein" Team: Marius tötet drei Ascended Undead und ich zwei, haben wir dann den Reward unlocked? 
+*Marius*:  ja
 Wenn Marius fünf Ascended Undead tötet, erhalte ich dann auch den Reward? 
+*Marius*: ja
 
 Was passiert mit den Units die zurückgelassen wurden?  
-*Marius*: S.2 Help is not coming sagt, du verlässt den Tisch auf 1 von 2 Arten. Über nen Ausgang oder als casualty 
+*Marius*: S.2 Help is not coming sagt, du verlässt den Tisch auf 1 von 2 Arten. Über nen Ausgang oder als casualty. Also zählt ein zurück gelassene Modell als casualty 
