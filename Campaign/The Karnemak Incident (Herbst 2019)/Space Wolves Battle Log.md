@@ -14,8 +14,7 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
  - Crozius Arcanum (0)  
  - Frag Grenade (0)  
  - Krak Grenade (0)  
- - Jump Pack (15)  
-=> 60  
+=> 45  
 
 <ins>**Core**</ins>  
 **Ronald Saveloy** (Swiftclaw) (23)  
@@ -34,25 +33,33 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
 
 <ins>**Special**</ins>   
 **Truckle the Uncivil** (Wulfen) (28)  
- - Thunder Hammer (16)  
- - Storm Shield (5)  
-=> 49  
+ - Wulfen Claws (0)  
+=> 28  
 
 **Boy Willie** (Aggressor) (21)  
  - Auto Boltstorm Gauntlets (12)  
  - Fragstorm Grenade Launcher (4)
-=> 37
+=> 37  
 
-196 Pts
+**Caleb the Ripper** (Thunderwolf Cavalry) (40)  
+ - Chainsword (0)  
+ - Boltgun (0)  
+ - Frag Grenade (0)  
+ - Krak Grenade (0)  
+ - Crushing teeth and claws (0)  
+=> 40  
+
+200 Pts
 
 <ins>Philosophy</ins>  
  - Bloodthirsty: Immediately after the first casualty of the game is removed, immediately gain 1 Tactical Point if a model from your team caused the casualty, or 2 Tactical Points if your leader did.
  
 <ins>Tactical Points</ins>  
- - Destined For Greatness: Include a team leader (+3)  
+ - Destined For Greatness: Include a team leader (+1)  
  - Death And Diversity: 8 different keywords (+1)  
  - Boots Before Loot: No items from Armoury (+1)  
-=> 5
+ - Cream of the Crop: 3 Special (+1)  
+=> 4
 
 ## Mission 1 – A Meeting of Minds (25.09.19)  
 *Kill teams meet under in the pale moonlight. Are they exchanging prisoners? Wounded? Insults? History will never know. Before they can even begin to conduct their business, the restless dead attack. The kill teams must escape, but which way?*  
