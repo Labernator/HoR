@@ -25,7 +25,7 @@ Based on Build 16
 
 |Name|TP|
 |:---|:---|
-|Destined for Greatness|+3|
+|Destined for Greatness|+1|
 |Bound by Experience|+1|
 |Death and Diversity|+1|
 
@@ -35,7 +35,7 @@ Based on Build 16
 |:---|:---|
 |Foot Soldiers of the Machine God|+1|
 
-## Resulting to *6* TP
+## Resulting to *4* TP
 
 ## Summary cost **200 pt**
 
