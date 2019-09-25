@@ -83,7 +83,7 @@ Alter Schwede, das war zwischendurch ganz schön haarig. Wenn wir jetzt nicht di
  - Killed one or more Ascended Undead on the turn after it spawned (5)  
  - No one left behind (5)  
 
-Für 18 RP kaufe ich mir die Battle Honour "Mad Minute" für den Aggressor und spare die restlichen 15 auf für schlechte Zeiten =)
+Für 15 RP kaufe ich mir die Battle Honour "Mad Minute" für den Aggressor und spare die restlichen 15 auf für schlechte Zeiten =)
 
 
 ### Space Wolves Kill Team After Game 1  
