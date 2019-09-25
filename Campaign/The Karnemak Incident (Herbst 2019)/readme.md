@@ -1,7 +1,7 @@
 # Players
 
 ## Stefan - Space Wolves  
-[Liste](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Karnemak%20Incident%20(Herbst%202019)/Space%20Wolves%20Battle%20Log.md#initial-space-wolves-kill-team)
+[Liste](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Karnemak%20Incident%20(Herbst%202019)/Space%20Wolves%20Battle%20Log.md#space-wolves-kill-team-after-game-1)
 
 ## Marius - Deathwatch
 
