@@ -83,7 +83,7 @@ Alter Schwede, das war zwischendurch ganz schön haarig. Wenn wir jetzt nicht di
  - Killed one or more Ascended Undead on the turn after it spawned (5)  
  - No one left behind (5)  
 
-Für 18 RP kaufe ich mir einen Reiver und spare die restlichen 12 auf für schlechte Zeiten =)
+Für 18 RP kaufe ich mir die Battle Honour "Mad Minute" für den Aggressor und spare die restlichen 15 auf für schlechte Zeiten =)
 
 
 ### Space Wolves Kill Team After Game 1  
@@ -111,14 +111,6 @@ Für 18 RP kaufe ich mir einen Reiver und spare die restlichen 12 auf für schle
  - Twin Boltgun (2)  
 => 25  
 
-**Old Vincent** (Reiver) (18)  
- - Heavy Bolt Pistol (0)  
- - Bolt Carabine (0)  
- - Frag Grenade (0)  
- - Krak Grenade (0)  
- - Shock Grenade (0)  
-=> 18  
-
 
 <ins>**Special**</ins>   
 **Truckle the Uncivil** (Wulfen) (28)  
@@ -127,8 +119,9 @@ Für 18 RP kaufe ich mir einen Reiver und spare die restlichen 12 auf für schle
 
 **Boy Willie** (Aggressor) (21)  
  - Auto Boltstorm Gauntlets (12)  
- - Fragstorm Grenade Launcher (4)
-=> 37  
+ - Fragstorm Grenade Launcher (4)  
+ - Battle Honour: Mad Minute (15)  
+=> 52  
 
 **Caleb the Ripper** (Thunderwolf Cavalry) (40)  
  - Chainsword (0)  
@@ -139,7 +132,7 @@ Für 18 RP kaufe ich mir einen Reiver und spare die restlichen 12 auf für schle
 => 40  
 
 <ins>**Bank**</ins>   
-12
+15
 
 230 Pts
 
