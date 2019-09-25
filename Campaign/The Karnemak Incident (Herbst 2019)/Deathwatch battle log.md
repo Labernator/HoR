@@ -98,4 +98,4 @@ Buy 3rd Intercessor (20):
 
 => 20
 
-Buy Battle Honour "Mad Minute" for Amos Burton
+Buy Battle Honour "Mad Minute" for Amos Burton (10)
