@@ -64,7 +64,7 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 => 20
 
 ### Special
-#### John Crichton - Scout (25)
+#### John Crichton - Scout (24)
 ##### And They Shall Know No Fear / Special Issue Ammunition
 ##### Concealed Positions
 During Deployment, this model can be set up anywhere on the battlefield that is more than 9” away from any enemy deployment zone.
@@ -79,7 +79,8 @@ At the beginning of the game choose an enemy model with the CHARACTER keyword. T
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Stalker Pattern Boltgun (4) [Heavy 2 – Range 30, Strength: 4, Damage: 1, AP: 1]
 
-=> 28
+Expanded Ammo Stores (5)
+=> 33
 
 #### Jayne Cobb - Aggressor (21)
 ##### And They Shall Know No Fear 
@@ -108,7 +109,7 @@ Do not suffer any penalty to your to hit rolls for Advancing and firing Assault 
 
 => 36
 
-#### ===>>> 53 + 20 + 20 + 28 + 37 + 36 = 194
+#### ===>>> 53 + 20 + 20 + 33 + 37 + 36 = 199
 
 ### Keywords (10)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, AGRESSORS, MK X GRAVIS
