@@ -7,7 +7,7 @@ May re-roll failed Morale tests.
 Before the game choose a unit name that would be found on the title of a datasheet (I.e. Dire Avenger, Tactical Squad, Necron Warrior, Hormagaunt, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
 ### Special Issue Ammunition
 When this unit fires any ranged weapons from the following list:
-#### Auto Bolt Rifle, Bolt Rifle, Bolt Pistol, Bolt Gun, Storm Bolter
+#### Auto Bolt Rifle, Bolt Rifle, Bolt Pistol, Bolt Gun, Storm Bolter,  Stalker pattern boltgun
 you can choose for it to fire special ammunition. If you do so, choose one of the following:
 #### Dragonfire bolt
 Add 1 to the hit rolls for this weapon when target is in cover.
