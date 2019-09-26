@@ -3,7 +3,7 @@
 ## Team Red (Pro-Imperium)
 
 Marius - Deathwatch
-[Kill Team Roster]()
+[Kill Team Roster](Campaign/The Fortalessa Intervention (Herbst 2019)/Rosters/Kill Team Initial.md)
 
 Kai - Adeptus Mechanicus
 
