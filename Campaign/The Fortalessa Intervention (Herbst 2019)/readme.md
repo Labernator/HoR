@@ -10,5 +10,6 @@ Kai - Adeptus Mechanicus
 ## Team Blue (Pro-Secession)
 
 Stefan - Space Wolves
+[Kill Team Roster] (https://github.com/Labernator/HoR/blob/master/Players/Stefan/Space%20Wolves%20Campaign%20Initial%20List.md) 
 
 Aaron - Tau
