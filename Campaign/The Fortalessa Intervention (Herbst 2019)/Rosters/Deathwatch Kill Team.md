@@ -19,16 +19,17 @@ Add 3” to the range of this pistol (6” if it is not a pistol) and improve th
 Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3)
 and apply the corresponding modifier. 
 
-## Team Leader
-### Joshua Nolan - Veteran Sergeant (39) 
-#### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 4 / A: 3 / LD: 9 / Save: 3+
-#### And They Shall Know No Fear / Special Issue Ammunition
-#### Inspiring Presence 
+## Initial Kill Team:
+### Team Leader
+#### Joshua Nolan - Veteran Sergeant (39) 
+##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 4 / A: 3 / LD: 9 / Save: 3+
+##### And They Shall Know No Fear / Special Issue Ammunition
+##### Inspiring Presence 
 Models within 6” of a friendly model with this rule may use either of their Leadership values for any purpose.
-#### Attack Pattern Makhaira 
+##### Attack Pattern Makhaira 
 Friendly units within 6” of this model may re-roll hit rolls of 1.
 
-#### Equipment
+##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -37,12 +38,12 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 53
 
-## Core
-### Jim Raynor - Intercessor (17)
-#### And They Shall Know No Fear / Special Issue Ammunition
-#### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+### Core
+#### Jim Raynor - Intercessor (17)
+##### And They Shall Know No Fear / Special Issue Ammunition
+##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
 
-#### Equipment
+##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -50,11 +51,11 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 20
 
-### Michael Garibaldi - Intercessor (17)
-#### And They Shall Know No Fear / Special Issue Ammunition
-#### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+#### Michael Garibaldi - Intercessor (17)
+##### And They Shall Know No Fear / Special Issue Ammunition
+##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
 
-#### Equipment
+##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -62,12 +63,12 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 20
 
-## Special
-### John Crichton - Blackshield (25)
-#### And They Shall Know No Fear / Special Issue Ammunition
-#### Atonement Through Honour [This model may make Heroic interventions as if it were a character and must do so if able.]
+### Special
+#### John Crichton - Blackshield (25)
+##### And They Shall Know No Fear / Special Issue Ammunition
+##### Atonement Through Honour [This model may make Heroic interventions as if it were a character and must do so if able.]
 
-#### Equipment
+##### Equipment
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -75,23 +76,23 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 32
 
-### Jayne Cobb - Aggressor (21)
-#### And They Shall Know No Fear 
-#### Fire Storm [This model may fire twice if it remained stationary during their turn (including when firing Overwatch).]
-#### Relentless Advance [Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons]
+#### Jayne Cobb - Aggressor (21)
+##### And They Shall Know No Fear 
+##### Fire Storm [This model may fire twice if it remained stationary during their turn (including when firing Overwatch).]
+##### Relentless Advance [Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons]
 
-#### Equipment
+##### Equipment
 - Auto Boltstorm Gauntlets (12) [Melee – Strength: *2, Damage: D3, AP: 3, -1 ToHit], 
 [Assault 6 – Range 18, Strength: 4, Damage: 1, AP: 0]
 - Fragstorm Grenade Launcher (4) [Assault D6 – Range 18, Strength: 4, Damage: 1, AP: 0]
 
 => 37
 
-### Amos Burton - Hellblaster (18)
-#### And They Shall Know No Fear / Special Issue Ammunition
-#### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+#### Amos Burton - Hellblaster (18)
+##### And They Shall Know No Fear / Special Issue Ammunition
+##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
 
-#### Equipment
+##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Assault Plasma Incinerator (17) [Assault 2 – Range 24, Strength: 6, Damage: 1, AP: 4]
@@ -99,7 +100,7 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 36
 
-### ===>>> 53 + 20 + 20 + 32 + 37 + 36 = 198
+#### ===>>> 53 + 20 + 20 + 32 + 37 + 36 = 198
 
 ### Keywords (9)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, BLACKSHIELD, HELLBLASTERS, CHARACTER, AGRESSORS, MK X GRAVIS
