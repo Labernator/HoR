@@ -42,10 +42,13 @@
 
 => 32
 
-### John Crichton - Aggressor (38)
+### John Crichton - Aggressor (21)
+#### And They Shall Know No Fear / Fire Storm / Relentless Advance
+- Auto Boltstorm Gauntlets (12) [Melee – Strength: *2, Damage: D3, AP: 3, -1 ToHit], 
+[Assault 6 – Range 18, Strength: 4, Damage: 1, AP: 0]
+- Fragstorm Grenade Launcher (4) [Assault D6 – Range 18, Strength: 4, Damage: 1, AP: 0]
 
-
-=> 39
+=> 37
 
 ### Amos Burton - Hellblaster (18)
 #### And They Shall Know No Fear / Special Issue Ammunition
@@ -57,10 +60,10 @@
 
 => 36
 
-### ===>>> 53 + 20 + 20 + 32 + 39 + 36 = 200
+### ===>>> 53 + 20 + 20 + 32 + 37 + 36 = 198
 
 ### Keywords (9)
-INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, BLACKSHIELD, HELLBLASTERS, CHARACTER, APOTHECARY
+INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, BLACKSHIELD, HELLBLASTERS, CHARACTER, AGRESSORS, MK X GRAVIS
 
 ### Philosophy
 Operators (2 TP) [Killteam has 3 Special Choices]
