@@ -28,6 +28,7 @@ Models within 6” of a friendly model with this rule may use either of their Le
 #### Attack Pattern Makhaira 
 Friendly units within 6” of this model may re-roll hit rolls of 1.
 
+#### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -40,6 +41,8 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 ### Jim Raynor - Intercessor (17)
 #### And They Shall Know No Fear / Special Issue Ammunition
 #### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+
+#### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -50,6 +53,8 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 ### Michael Garibaldi - Intercessor (17)
 #### And They Shall Know No Fear / Special Issue Ammunition
 #### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+
+#### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -59,6 +64,10 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 ## Special
 ### Jayne Cobb - Blackshield (25)
+#### And They Shall Know No Fear / Special Issue Ammunition
+#### Atonement Through Honour [This model may make Heroic interventions as if it were a character and must do so if able.]
+
+#### Equipment
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -70,6 +79,8 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 #### And They Shall Know No Fear 
 #### Fire Storm [This model may fire twice if it remained stationary during their turn (including when firing Overwatch).]
 #### Relentless Advance [Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons]
+
+#### Equipment
 - Auto Boltstorm Gauntlets (12) [Melee – Strength: *2, Damage: D3, AP: 3, -1 ToHit], 
 [Assault 6 – Range 18, Strength: 4, Damage: 1, AP: 0]
 - Fragstorm Grenade Launcher (4) [Assault D6 – Range 18, Strength: 4, Damage: 1, AP: 0]
@@ -79,6 +90,8 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 ### Amos Burton - Hellblaster (18)
 #### And They Shall Know No Fear / Special Issue Ammunition
 #### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+
+#### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Assault Plasma Incinerator (17) [Assault 2 – Range 24, Strength: 6, Damage: 1, AP: 4]
@@ -108,11 +121,3 @@ Cream Of The Crop: taking the maximum number of Special models
 according to your Model Allowance (+1)
 
 ### => 6
-
-# Errata
-
-Destined For Greatness: **+1** for including a Team Leader. This is usually compulsory, so 
-all teams will have at least 1 Tactical Point in ordinary 
-gameplay.
-In Campaign play, increase this number by 1 for each game 
-this Team Leader has taken part in before the current one
