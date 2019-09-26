@@ -66,7 +66,8 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 ### Special
 #### John Crichton - Blackshield (25)
 ##### And They Shall Know No Fear / Special Issue Ammunition
-##### Atonement Through Honour [This model may make Heroic interventions as if it were a character and must do so if able.]
+##### Atonement Through Honour 
+This model may make Heroic interventions as if it were a character and must do so if able.
 
 ##### Equipment
 - Frag Grenade (0)
@@ -78,12 +79,15 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 #### Jayne Cobb - Aggressor (21)
 ##### And They Shall Know No Fear 
-##### Fire Storm [This model may fire twice if it remained stationary during their turn (including when firing Overwatch).]
-##### Relentless Advance [Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons]
+##### Fire Storm 
+This model may fire twice if it remained stationary during their turn (including when firing Overwatch).
+##### Relentless Advance 
+Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons
 
 ##### Equipment
-- Auto Boltstorm Gauntlets (12) [Melee – Strength: *2, Damage: D3, AP: 3, -1 ToHit], 
-[Assault 6 – Range 18, Strength: 4, Damage: 1, AP: 0]
+- Auto Boltstorm Gauntlets (12) 
+  - [Melee – Strength: *2, Damage: D3, AP: 3, -1 ToHit], 
+  - [Assault 6 – Range 18, Strength: 4, Damage: 1, AP: 0]
 - Fragstorm Grenade Launcher (4) [Assault D6 – Range 18, Strength: 4, Damage: 1, AP: 0]
 
 => 37
