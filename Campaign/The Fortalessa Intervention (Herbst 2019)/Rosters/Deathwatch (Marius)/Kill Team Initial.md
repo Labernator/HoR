@@ -63,7 +63,7 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 => 20
 
 ## Special
-### Jayne Cobb - Blackshield (25)
+### John Crichton - Blackshield (25)
 #### And They Shall Know No Fear / Special Issue Ammunition
 #### Atonement Through Honour [This model may make Heroic interventions as if it were a character and must do so if able.]
 
@@ -75,7 +75,7 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 32
 
-### John Crichton - Aggressor (21)
+### Jayne Cobb - Aggressor (21)
 #### And They Shall Know No Fear 
 #### Fire Storm [This model may fire twice if it remained stationary during their turn (including when firing Overwatch).]
 #### Relentless Advance [Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons]
