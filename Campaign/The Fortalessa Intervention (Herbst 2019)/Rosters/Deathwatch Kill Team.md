@@ -21,7 +21,9 @@ and apply the corresponding modifier.
 
 ## Initial Kill Team:
 ### Team Leader
+
 #### Joshua Nolan - Veteran Sergeant (39) 
+
 ##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 4 / A: 3 / LD: 9 / Save: 3+
 ##### And They Shall Know No Fear / Special Issue Ammunition
 ##### Inspiring Presence 
@@ -39,9 +41,12 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 => 53
 
 ### Core
+
 #### Jim Raynor - Intercessor (17)
-##### And They Shall Know No Fear / Special Issue Ammunition
+
 ##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+##### And They Shall Know No Fear / Special Issue Ammunition
+
 
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
@@ -52,8 +57,9 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 => 20
 
 #### Michael Garibaldi - Intercessor (17)
-##### And They Shall Know No Fear / Special Issue Ammunition
+
 ##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+##### And They Shall Know No Fear / Special Issue Ammunition
 
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
@@ -64,7 +70,10 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 => 20
 
 ### Special
+
 #### John Crichton - Scout (24)
+
+##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 8 / Save: 4+
 ##### And They Shall Know No Fear / Special Issue Ammunition
 ##### Concealed Positions
 During Deployment, this model can be set up anywhere on the battlefield that is more than 9” away from any enemy deployment zone.
@@ -83,6 +92,8 @@ Expanded Ammo Stores (5)
 => 33
 
 #### Jayne Cobb - Aggressor (21)
+
+##### M: 5 / WS: 3+ / BS: 3+ / S: 4 / T: 5 / W: 2 / A: 2 / LD: 7 / Save: 3+
 ##### And They Shall Know No Fear 
 ##### Fire Storm 
 This model may fire twice if it remained stationary during their turn (including when firing Overwatch).
@@ -98,8 +109,9 @@ Do not suffer any penalty to your to hit rolls for Advancing and firing Assault 
 => 37
 
 #### Amos Burton - Hellblaster (18)
-##### And They Shall Know No Fear / Special Issue Ammunition
+
 ##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+##### And They Shall Know No Fear / Special Issue Ammunition
 
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
