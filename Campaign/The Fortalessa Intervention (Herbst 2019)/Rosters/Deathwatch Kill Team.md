@@ -130,6 +130,6 @@ keyword => Infantry (+1)
 Cream Of The Crop: taking the maximum number of Special models 
 according to your Model Allowance (+1)
 
-Boots before loot: (+1)
+Boots before loot: (+1) if your team does not contain any items from your Opus’ Armoury
 
 ### => 7
