@@ -30,10 +30,10 @@ Primaris Wolf Skjald (60)
 *Equipment*  
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Crozius Arcanum|Melee|Melee|+1|-1|2|/|
-|Absolvor Bolt Pistol|16"|Pistol 1|5|-1|1|/|
-|Frag Grenade|6"|Grenade D6|3|0|1|/|
-|Krak Grenade|6"|Grenade 1|6|-1|D3|/|
+|Crozius Arcanum|Melee|Melee|+1|-1|2||
+|Absolvor Bolt Pistol|16"|Pistol 1|5|-1|1||
+|Frag Grenade|6"|Grenade D6|3|0|1||
+|Krak Grenade|6"|Grenade 1|6|-1|D3||
 
 **Core**  
 Swiftclaw (25)  
