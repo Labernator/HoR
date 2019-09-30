@@ -1,53 +1,39 @@
-# Team Leader
-## Veteran Sergeant (39) 
-- Frag Grenade (0)
-- Krag Grenade (0)
+Intercessor (14)
+- Chainsword (0)
 - Storm Bolter (4)
-- Power Maul (4)
-- Tactical Processor (6)
+Veteran (14)
+- Chainsword (0)
+- Storm Bolter (4)
+Veteran (14)
+- Chainsword (0)
+- Storm Bolter (4)
+Veteran (14)
+- Chainsword (0)
+- Storm Bolter (4)
 
-=> 53
+=> 14*4 + 4*4 = 72
 
-# Core
-## Intercessor (17)
-- Frag Grenade (0)
-- Krag Grenade (0)
-- Auto Bolt Rifle (2)
-- Bolt Pistol (1)
-
-=> 20
-
-## Intercessor (17)
-- Frag Grenade (0)
-- Krag Grenade (0)
-- Auto Bolt Rifle (2)
-- Bolt Pistol (1)
-
-=> 20
-
-# Special
-## Blackshield (25)
-- Frag Grenade (0)
-- Krag Grenade (0)
-- Auto Bolt Rifle (2)
-- The Black Shield (5)
-
-=> 32
-
-## Apothecary (38)
-- Frag Grenade (0)
-- Krag Grenade (0)
-- Bolt Pistol (1)
+Veteran Sergeant (39)
+- Storm Bolter (4)
 - Chainsword (0)
 
-=> 39
+=> 43
 
-## Hellblaster (18)
-- Frag Grenade (0)
-- Krag Grenade (0)
+==> 115
+
+Hellblaster (18)
+- Assault plasma incinerator (17)
 - Bolt Pistol (1)
-- Assault Plasma Incinerator (17)
-
 => 36
 
-===>>> 53 + 20 + 20 + 32 + 39 + 36 = 200
+Aggressor (21)
+- Auto Boltstorm Gauntlets (12)
+- Fragstorm Grenade Launcher (4)
+=> 37
+
+Aggressor (21)
+- Auto Boltstorm Gauntlets (12)
+- Fragstorm Grenade Launcher (4)
+=> 37
+
+===> 187
