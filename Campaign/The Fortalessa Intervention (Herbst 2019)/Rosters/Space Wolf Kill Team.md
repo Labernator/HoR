@@ -12,6 +12,7 @@ In any turn in which a **BIKER**, **INFANTRY** or **CAVALRY** unit made a charge
 <ins>**Kill Team Team**</ins>  
 **Leader**  
 Primaris Wolf Skjald (60)  
+
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |6"|3+|3+|4|4|5|4|8|3+/4++|
@@ -33,6 +34,7 @@ Primaris Wolf Skjald (60)
 
 **Core**  
 Swiftclaw (25)  
+
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |14"|3+|4+|4|5|2|1|7|3+|
@@ -42,6 +44,7 @@ Swiftclaw (25)
 **Headstrong** - Unless this model is within 6" of a friendly **WOLF GUARD**, it must declare a charge in its Charge phase if it is possible to do so.  
 **Turbo-boost** - When this unit Advances, add 6" to its Move characteristic for that Movement phase instead of rolling a dice.  
 *Equipment*  
+
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |Chainsword|Melee|Melee|User|0|1|+1A|
@@ -51,6 +54,7 @@ Swiftclaw (25)
 
 **Special**  
 3x Aggressor (je 37)  
+
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |5"|3+|3+|4|5|2|2|7|3+|
@@ -59,6 +63,7 @@ Swiftclaw (25)
 **Fire Storm** - This model may fire twice if it remained stationary during their turn (including when firing Overwatch)  
 **Relentless Advance** - Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons  
 *Equipment*  
+
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |Auto Boltstorm Gauntlets|Melee|Melee|Sx2|-3|D3|-1 to hit|
