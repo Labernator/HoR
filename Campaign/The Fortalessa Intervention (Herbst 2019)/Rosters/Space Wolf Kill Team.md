@@ -16,11 +16,6 @@ Primaris Wolf Skjald (60)
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |6"|3+|3+|4|4|5|4|8|3+/4++|
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Melee||Melee|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
-|Shooting|12"|Assault 3|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
-
 *Special Rules*  
 **Spiritual Leader** - All friendly **SPACE WOLVES** units within 6" of this model can use the Wolf Priest’s Leadership instead of their own.  
 **Oath of War** - You can re-roll failed hit rolls in the Fight phase for friendly **SPACE WOLVES** units within 6" of this model.
@@ -28,6 +23,7 @@ Primaris Wolf Skjald (60)
 **Wolf Amulet** - This model has a 4+ invulnerable save.  
 **Shieldbearer** - You may roll a d6 each time a friendly **SPACE WOLVES** unit loses a wound whilst they are within 3” of this model; on a 2+ this unit can intercept that hit – that unit does not lose a wound, but this model suffers a mortal wound.  
 *Equipment*  
+
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |Crozius Arcanum|Melee|Melee|+1|-1|2||
