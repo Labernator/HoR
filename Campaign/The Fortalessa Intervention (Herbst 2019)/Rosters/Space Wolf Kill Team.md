@@ -12,9 +12,9 @@ In any turn in which a **BIKER**, **INFANTRY** or **CAVALRY** unit made a charge
 <ins>**Kill Team Team**</ins>  
 **Leader**  
 Primaris Wolf Skjald (60)  
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|3+|3+|4|4|5|4|8|3+|4+|
+|M|WS|BS|S|T|W|A|Ld|Sv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|6"|3+|3+|4|4|5|4|8|3+/4++|
 
 *Special Rules*  
 **Spiritual Leader** - All friendly **SPACE WOLVES** units within 6" of this model can use the Wolf Priest’s Leadership instead of their own.  
@@ -25,16 +25,16 @@ Primaris Wolf Skjald (60)
 *Equipment*  
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Crozius Arcanum|Melee|Melee|+1|-1|2|+-|
-|Absolvor Bolt Pistol|16"|Pistol 1|5|-1|1|-|
-|Frag Grenade|6"|Grenade D6|3|0|1|-|  
-|Krak Grenade|6"|Grenade 1|6|-1|D3|-|
+|Crozius Arcanum|Melee|Melee|+1|-1|2|/|
+|Absolvor Bolt Pistol|16"|Pistol 1|5|-1|1|/|
+|Frag Grenade|6"|Grenade D6|3|0|1|/|
+|Krak Grenade|6"|Grenade 1|6|-1|D3|/|
 
 **Core**  
 Swiftclaw (25)  
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|  
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|14"|3+|4+|4|5|2|1|7|3+|-|
+|M|WS|BS|S|T|W|A|Ld|Sv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|14"|3+|4+|4|5|2|1|7|3+|
 
 *Special Rules*  
 **Berserker Charge** - On a turn in which they make a successful charge, you can make 1 additional attack in the Fight phase.  
@@ -43,16 +43,16 @@ Swiftclaw (25)
 *Equipment*  
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Chainsword|Melee|Melee|User|0|1|+1A|  
-|Twin Boltgun|24"|Rapid Fire 2|4|0|1|-|
-|Frag Grenade|6"|Grenade D6|3|0|1|-|
-|Krak Grenade|6"|Grenade 1|6|-1|D3|-|
+|Chainsword|Melee|Melee|User|0|1|+1A|
+|Twin Boltgun|24"|Rapid Fire 2|4|0|1|/|
+|Frag Grenade|6"|Grenade D6|3|0|1|/|
+|Krak Grenade|6"|Grenade 1|6|-1|D3|/|
 
 **Special**  
 3x Aggressor (je 37)  
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|  
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|5"|3+|3+|4|5|2|2|7|3+|-|
+|M|WS|BS|S|T|W|A|Ld|Sv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|5"|3+|3+|4|5|2|2|7|3+|
 
 *Special Rules*  
 **Fire Storm** - This model may fire twice if it remained stationary during their turn (including when firing Overwatch)  
@@ -61,8 +61,8 @@ Swiftclaw (25)
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |Auto Boltstorm Gauntlets|Melee|Melee|Sx2|-3|D3|-1 to hit|
-|Auto Boltstorm Gauntlets|18"|Assault 6|4|0|1|-|
-|Fragstorm Grenade Launcher|18"|Assault D6|4|0|1|-|
+|Auto Boltstorm Gauntlets|18"|Assault 6|4|0|1|/|
+|Fragstorm Grenade Launcher|18"|Assault D6|4|0|1|/|
 
 <ins>**Tactical points**</ins>  
 **Destined For Greatness** - Include a team leader (+1)  
@@ -73,3 +73,5 @@ Swiftclaw (25)
 
 **Philosophy**: Bloodthirsty
 Immediately after the first casualty of the game is removed, immediately gain 1 TP if a model from your team caused the casualty, or 2 TP if your leader did.
+
+=> 5 Pts
