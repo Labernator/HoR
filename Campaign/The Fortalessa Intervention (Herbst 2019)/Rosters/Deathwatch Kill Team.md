@@ -35,10 +35,10 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
-- Power Maul (4) [Melee – Strength: +2, Damage: 1, AP: 1]
+- Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
 - Tactical Processor (6) ["When a tactical point is spent on this model, roll a d6. On a 5+, the point is refunded. Furthermore, this model may consolidate an extra 2” and may do so in any direction."]
 
-=> 53
+=> 49
 
 ### Core
 
@@ -47,7 +47,6 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 ##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
 ##### And They Shall Know No Fear / Special Issue Ammunition
 
-
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
@@ -56,18 +55,24 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 => 20
 
-#### Michael Garibaldi - Intercessor (17)
+#### Michael Garibaldi - Terminator (23)
 
-##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
-##### And They Shall Know No Fear / Special Issue Ammunition
+##### M: 5 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 8 / Save: 2+
+##### Special Issue Ammunition
+##### Unflinching
+This unit automatically passes Morale tests.
+##### Crux Terminatus
+This Model has a 5+ invulnerable save.
+##### Teleport strike
+This model is not placed on the battlefield. At the end of any of your Movement Phases this model can be set up anywhere on the battlefield that is more than 9” away from any enemy models. 
 
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
-- Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
-- Bolt Pistol (1) [Pistol 1 – Range 12, Strength: 4, Damage: 1, AP: 1]
+- Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
+- Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
 
-=> 20
+=> 27
 
 ### Special
 
@@ -82,14 +87,12 @@ Add 2 to saving throws when you receive the benefits for cover instead of 1.
 ##### Priority Alpha Orders
 At the beginning of the game choose an enemy model with the CHARACTER keyword. This model may always target that model even if it’s not the closest. 
 
-
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Stalker Pattern Boltgun (4) [Heavy 2 – Range 30, Strength: 4, Damage: 1, AP: 1]
 
-Expanded Ammo Stores (5)
-=> 33
+=> 28
 
 #### Jayne Cobb - Aggressor (21)
 
@@ -121,7 +124,7 @@ Do not suffer any penalty to your to hit rolls for Advancing and firing Assault 
 
 => 36
 
-#### ===>>> 53 + 20 + 20 + 33 + 37 + 36 = 199
+#### ===>>> 49 + 20 + 27 + 28 + 37 + 36 = 197
 
 ### Keywords (10)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, AGRESSORS, MK X GRAVIS
