@@ -16,6 +16,11 @@ Primaris Wolf Skjald (60)
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |6"|3+|3+|4|4|5|4|8|3+/4++|
 
+|Mode|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|:---|
+|Melee||Melee|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
+|Shooting|12"|Assault 3|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
+
 *Special Rules*  
 **Spiritual Leader** - All friendly **SPACE WOLVES** units within 6" of this model can use the Wolf Priest’s Leadership instead of their own.  
 **Oath of War** - You can re-roll failed hit rolls in the Fight phase for friendly **SPACE WOLVES** units within 6" of this model.
