@@ -1,4 +1,4 @@
-# Tau Empire (Aaron)
+# Tau Empire Killteam (Aaron)
 
 ## Leader (56)
 
@@ -25,3 +25,13 @@
 
 
 -> 197
+
+# Philosophy
+
+Kanyon (+1 TP)
+
+# Tactical Actions
+
+Recon Sweep (-1 TP)
+
+
