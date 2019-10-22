@@ -28,7 +28,7 @@
 => 20
 
 ### Special
-#### Jayne Cobb - Blackshield (25)
+#### Fox Mulder - Blackshield (25)
 - Frag Grenade (0)
 - Krag Grenade (0)
 - Auto Bolt Rifle (2)
@@ -99,3 +99,17 @@ Buy 3rd Intercessor (20):
 => 20
 
 Buy Battle Honour "Mad Minute" for Amos Burton (10)
+
+## postsequence after Mission 1:
+
+Gain 45 (20 survival, 5 leave no man behind, 5 killed ascended dead the turn it spawned, 10 Block a spawn zone, 5 killed 5+ ascended) 
+
+Buy Terminator (45):
+
+#### Jayne Cobb - Terminator (23)
+- Frag Grenade (0)
+- Krag Grenade (0)
+- Assault Gun (22)
+- Chain Sword (0)
+
+=> 45
