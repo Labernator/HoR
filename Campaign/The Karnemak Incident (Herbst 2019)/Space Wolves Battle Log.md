@@ -7,7 +7,6 @@ My name is Inquisitor Baldasar Drakeholm. Zagris Tertius is hereby declared Perd
 *'That was all we got. No one knew what fallback point 322 zeta was, but someone had uploaded it to the navigation cogitators. I won’t say what happened there, but from that day forth, every ship had a contingent of Imperial Inquisition operating in the open on board and over a hundred agents that I know of deployed with our ground forces over the course of the campaign.'*  
 
 ### Initial Space Wolves Kill Team  
-
 <ins>**Leader**</ins>  
 **Cohen the Barbarian** (Wolf Skjald)) (45)  
  - Bolt Pistol (0)  
@@ -87,7 +86,6 @@ Für 15 RP kaufe ich mir die Battle Honour "Mad Minute" für den Aggressor und s
 
 
 ### Space Wolves Kill Team After Game 1  
-
 <ins>**Leader**</ins>  
 **Cohen the Barbarian** (Wolf Skjald)) (45)  
  - Bolt Pistol (0)  
@@ -146,5 +144,90 @@ Für 15 RP kaufe ich mir die Battle Honour "Mad Minute" für den Aggressor und s
  - Cream of the Crop: 3 Special (+1)  
 => 5
 
-## Mission 2 – Escape Corridor ()  
+## Mission 2 – Escape Corridor (21.10.19)  
 *Still bound together by wretched fate, kill team forward operators believe they have found a corridor back to a fortified location. All you have to do is cross an area swarming with vengeful dead.*  
+
+**Battle Report**  
+Auch in dieser Mission ist unser erster Spawn-Roll gleich richtig heftig: 23 Zombies, 3 Mütter und ein Retch! Das ist doch mal eine Ansage. Durch die teilweise langen Wege am Anfang kann Labers Hellblaster allerdings ganz entspannt alle Ascended Undead entsorgen und wir rücken langsam aber ungefährdet in die Mitte vor.
+
+Das ist vermutlich auch die kritische Phase der Mission. Viele Untote von alles Seite. Schlechte Spawn/Charge Rolls können einem hier das Leben ganz schön schwer machen. Theoretisch zumindest, denn obwohl wir am Anfang und am Ende der Mission ziemlich hoch rollen kommen wir durch den mittleren Abschnitt relativ zügig durch.
+
+Gut, wir haben auch verplant, dass die Cursed Undead zwei Attacken haben… Aber mit Labers überlegener Feuerpower, meinen Tanks und dem allgegenwertigen T4 & 3+ AS lässt sich gegen die anfänglichen Untoten einigermaßen entspannt spielen.
+
+Am Ende der Mission spawnen dann zwar schon echt viele Zombies, aber zu dem Zeitpunkt sind die Wege teilweise sehr lang und wir haben uns schon gut in Position gebracht. Da können wir die Mission relativ entspannt zu Ende spielen.
+
+Die Erkenntnis vom letzten Mal war, dass wir diesmal auch alles Gold gefarmt haben was in der Mission zu holen war. Well played!
+
+**Rewards**  
+ - Took Part (20)  
+ - Killed 5+ Ascended Undead (5)  
+ - Killed one or more Ascended Undead on the turn after it spawned (5)  
+ - No one left behind (5)  
+ - Blocked a spawn zone such that no undead could spawn (10)  
+
+Das macht 45 RP zusätzlich zu den 15 die ich noch auf der Bank habe. Wir sind reich =)
+Da die Rollenverteilung sich in dieser Mission klar herauskristallisiert hat kaufe ich mir für 45 RP meinen zweiten Leader: Den Thunderwolf Cavalry Pack Leader. Ein weiterer schneller Tank um ihn vor Labers Schützen zu stellen.
+
+
+### Space Wolves Kill Team After Game 2  
+<ins>**Leader**</ins>  
+**Wolf Skjald** (45)  
+ - Bolt Pistol (0)  
+ - Crozius Arcanum (0)  
+ - Frag Grenade (0)  
+ - Krak Grenade (0)  
+=> 45  
+
+**Thunderwolf Cavalry Pack Leader** (45)  
+ - Chainsword (0)  
+ - Boltgun (0)  
+ - Frag Grenade (0)  
+ - Krak Grenade (0)  
+ - Crushing teeth and claws (0)  
+=> 45  
+
+<ins>**Core**</ins>  
+**2x Swiftclaw** (23)  
+ - Chainsword (0)  
+ - Frag Grenade (0)  
+ - Krak Grenade (0)  
+ - Twin Boltgun (2)  
+=> 2x 25 = 50  
+
+<ins>**Special**</ins>   
+**Wulfen** (28)  
+ - Wulfen Claws (0)  
+=> 28  
+
+**Aggressor** (21)  
+ - Auto Boltstorm Gauntlets (12)  
+ - Fragstorm Grenade Launcher (4)  
+ - Battle Honour: Mad Minute (15)  
+=> 52  
+
+**Thunderwolf Cavalry** (40)  
+ - Chainsword (0)  
+ - Boltgun (0)  
+ - Frag Grenade (0)  
+ - Krak Grenade (0)  
+ - Crushing teeth and claws (0)  
+=> 40  
+
+<ins>**Bank**</ins>   
+15
+
+<ins>**Kill Team Size**</ins>   
+260 Pts (+15 Battle Honours)
+
+<ins>Philosophy</ins>  
+ - Bloodthirsty: Immediately after the first casualty of the game is removed, immediately gain 1 Tactical Point if a model from your team caused the casualty, or 2 Tactical Points if your leader did.
+ 
+<ins>Tactical Points</ins>  
+ - Destined For Greatness: Include a team leader (+3)  
+ - Death And Diversity: 8 different keywords (+1)  
+ - Boots Before Loot: No items from Armoury (+1)  
+ - Cream of the Crop: 3 Special (+1)  
+=> 6
+
+## Mission 3 – Crisis Cult ()  
+*From your safe house, you notice an acolyte of some obscure Imperial sect walking through the droning hordes of undead. They seem to ignore him. Intrigued, you gather your kill teams and follow him to a cult base deep in the heart of the city. You know there is some kind of leader inside and the body of an Imperial Inquisitor is hung outside for all to see. This should be interesting.*  
