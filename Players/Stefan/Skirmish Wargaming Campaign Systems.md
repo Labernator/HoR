@@ -13,6 +13,12 @@ Im Fantasy Genre scheint es leicht zu sein, hier fällt immer genau ein Name:
 Das ist wohl der heilige Gral. Einfache Regeln, gute Balance, mindestens eine narrative Kampagne (https://ospreypublishing.com/frostgrave-thaw-of-the-lich-lord), viele Erweiterungen, miniaturenunabhängiges Setting (ob du eine Menschen-, Zwergen- oder Frosch-Warband spielst ist alles ok), zügiges Gameplay…  
 Egal wonach ich gesucht habe (auch im Sci-Fi Bereich!), Frostgrave stand immer weit oben auf der Liste. Zwei Punkte muss ich allerdings anmerken: Das System ist D20 basiert und damit deutlich weniger kalkulierbar als ein D6 System. Ob das ein Bug oder ein Feature ist, hängt von den eigenen Erwartungen ab :) Und die XP vergabe scheint in aller Regel gehouseruled zu sein, da sie zu viel Wert auf töten legt. Hier ein vorgeschlagener Fix vom Entwickler selbst (http://therenaissancetroll.blogspot.com/2016/04/frostgrave-lets-talk-experience-points.html).
 
+**Mordheim**  
+Ach ja, die alte Liebe. Bisher haben wir Mordheim nach der [Edinburgh Edition](http://whfbnarratives.blogspot.com/p/mordheim-rulebook-compendium-edinburgh.html) gespielt. Hier haben wir allerdings zum Schluss einen ganzen Berg an Houserules benötigt und wirklich glücklich war immer noch keiner. Alternativen wären: 
+ - [Vanilla Mordheim](http://broheim.net/downloads.html#corerules) (Living Rulebook, Mordheim Annual, Empire in Flames): Das ist alles was offiziell zu Mordheim Released wurde. Hier werden wir allerdings ohne Houserules (dual Wielding, Armour,…) definitiv auch nicht glücklich.
+ - [Coreheim](http://www.indadvendt.dk/2013/10/coreheim-all-documents-for-coreheim/): Stark vereinfachte und gestreamlinte Regeln, vermutlich deutlich besser gebalanct, aber auch nur 5 Warbands und wenig Gimmicks
+ - [Wyrdwars](http://www.wyrdwars.com/): Der Nachfolger von Coreheim. Die gleichen Vorteile, aber jahrelang (das Forum ist bis heute noch aktiv) von der Community weiter entwickelt. Viele Warbands und auf den ersten Blick solide Regeln. Allerdings auch ein paar tiefgreifende Änderungen, so dass ich nicht weiß wie gut sie mit potenziellen Kampagnen (Border Town Burning, Mutiny in Marienburg, …) kombinierbar sind.
+
 <ins>**Sci-Fi**</ins>  
 Auch wenn es hier keinen klaren Frontrunner gibt sind mir ein paar Systeme immer wieder begegnet:  
 **[Necromunda: Underhive](https://necromunda.com/de/)**  
@@ -24,4 +30,4 @@ Ein kleineres Indie System, dass in einem postapokalyptischen Setting spielt. Di
 **[Rogue Stars](https://ospreypublishing.com/rogue-stars)**  
 Das erwähne ich hier nur der Vollständigkeit halber. Einige sehr positive Rezensionen, allerdings auch viele Stimmen die die Regeln für zu clunky und kompliziert halten. Scheint im Großen und Ganzen mit This is not a test vergelichbar zu sein, aber deutlich komplexer. Würde ich nicht empfehlen.
 
-Mich persönlich spricht Frostgrave am meisten an. Gefolgt von Necromunda (hauptsächlich aufgrund der großen Community). Aber jetzt startet ja erstmal im Spätjahr die HoR Kampagne!
+Mich persönlich spricht Frostgrave oder Wyrdwars am meisten an. Gefolgt von Necromunda (hauptsächlich aufgrund der großen Community). Aber jetzt startet ja erstmal im Spätjahr die HoR Kampagne!
