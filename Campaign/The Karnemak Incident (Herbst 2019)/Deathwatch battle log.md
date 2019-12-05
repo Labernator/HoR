@@ -100,7 +100,7 @@ Buy 3rd Intercessor (20):
 
 Buy Battle Honour "Mad Minute" for Amos Burton (10)
 
-## postsequence after Mission 1:
+## postsequence after Mission 2:
 
 Gain 45 (20 survival, 5 leave no man behind, 5 killed ascended dead the turn it spawned, 10 Block a spawn zone, 5 killed 5+ ascended) 
 
@@ -113,3 +113,29 @@ Buy Terminator (45):
 - Chain Sword (0)
 
 => 45
+
+## postsequence after Mission 3:
+
+Gain 45 (20 survival, 5 leave no man behind, 5 killed ascended dead the turn it spawned, 10 Block a spawn zone, 5 killed 5+ ascended) 
+Gain Archaeotech Pistol (12”, Pistol 1, Str 6, AP 2, Dmg 2) and give it to John Crichton. 
+
+Buy 4th & 5th Intercessor (40):
+
+#### Jack O’Neill - Intercessor (17)
+- Frag Grenade (0)
+- Krag Grenade (0)
+- Auto Bolt Rifle (2)
+- Bolt Pistol (1)
+
+=> 20
+
+#### Jet Black - Intercessor (17)
+- Frag Grenade (0)
+- Krag Grenade (0)
+- Auto Bolt Rifle (2)
+- Bolt Pistol (1)
+
+=> 20
+
+Buy Battle Honour "Run and Gun" for Joshua Nolan.
+=> 5
