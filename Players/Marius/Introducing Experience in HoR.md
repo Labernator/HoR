@@ -31,10 +31,9 @@ This limits the book keeping to 4/5 soldiers.
 This is the tricky part...
 We need to balance XP so that it is spreaded over a variaty of possibilities.
 But we need to make sure that XP is not gained is masses so Battle Honors are something rather special than common.
+Though there has to be enough XP so a character can gain 2-3 Honors in a campaign. Any less and it become too irrelevant.
 
-Some ideas:
-#### Victory conditions and optional objectives
-+x XP per condition met/ objective grabbed
+This is a first draft:
 
 ### Requisitions:
 #### Took part 
