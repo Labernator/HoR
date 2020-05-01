@@ -33,13 +33,27 @@ We need to balance XP so that it is spreaded over a variaty of possibilities.
 But we need to make sure that XP is not gained is masses so Battle Honors are something rather special than common.
 
 Some ideas:
-#### Changing some requisitions from earning RP to earning XP:
-Considerate Commander +1? XP
-#### Adding XP in addition to RP:
-Underdog +2? XP for the leader of the team with the lowest XP total
-#### Adding XP for killing stuff:
-+1? XP per kill
-#### Adding XP for killing stuff:
-+1? XP per kill
 #### Victory conditions and optional objectives
 +x XP per condition met/ objective grabbed
+
+### Requisitions:
+#### Took part 
++0 xp
+#### Victory 
++1xp for team leader
+#### Assassin 
++1xp 
+#### Considerate Commander 
++1xp for team leader
+#### Sweeping Advance 
++1xp for team leader
+#### Linebreaker 
++1xp 
+#### Underdog 
++1xp per model if the sum of all xp of your models is the lowest among players
+
+### Battles:
+#### Each and every kill
++1xp
+#### Victory conditions
++1xp for each victory condition achieved by the model 
