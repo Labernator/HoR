@@ -5,14 +5,11 @@
 The answer is quite simple:
 We don't need it ... but it's more fun :)
 
-A campaign becomes more engaging if you have characters that earned their advances the hard way than just bought new stuff.
+A campaign becomes more engaging if you have characters that earned their advances the hard way instead of just buying stuff.
 Also HoR as it is right now does not incentivice buying Battle Honors. 
 In most cases it seems to be the better choice to buy new bodies or new equipment for existing troops. 
 
 ## What would you get for your experience?
-
-As we don't want to reinvent the wheel and create more imbalance to the game, we should pick something that already exists.
-The obvious choice:
 
 #### Battle Honors
 Instead of being able to buy them with RPs, they can be "bought" with XP. 
