@@ -22,7 +22,8 @@ Battle Honors that cost more than 8, can only be bought by the Leader.
 
 ## Who gains experience?
 
-Up to 3 Soldiers can be chosen which can accumulate experience. One of them has to be the Leader.
+Up to 3 Soldiers can be chosen which can accumulate experience. 
+> One of them has to be the Leader.
 
 ## How do you gain experience?
 
