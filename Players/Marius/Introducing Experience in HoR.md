@@ -56,3 +56,10 @@ This is a first draft:
 +1xp
 #### Victory conditions
 +1xp for each victory condition achieved by the model 
+
+
+## Idee Stefan  
+- Es gibt pro Warband 3 Modelle die XP erhalten können. Diese können frei gewählt werden. Jeder Leader muss gewählt werden.
+- 1XP für Teilnahme, 1XP für Überleben, 1XP pro Kill für jedes Modell
+- Die Hälfte (abgerundet) der erspielten VPs können in XP umgewandelt und frei verteilt werden.
+- Battle Honors werden statt mit VP mit XP bezahlt. Nur Leader können Honors erwerben die mehr als 8 XP kosten.
