@@ -29,13 +29,6 @@ Up to 3 Soldiers can be chosen which can accumulate experience. One of them has 
 #### Took part in a battle: +1XP
 #### Survived the battle: +1XP
 #### Each enemy model killed: +1XP
-
+#### Conversion of Victory Points to XP:
 Up to half of the victory points (rounded down) can be converted to experience (and thus not be used to generate requisition points).
-These extra XP can be distributed as you wish.
-
-
-## Idee Stefan  
-- Es gibt pro Warband 3 Modelle die XP erhalten können. Diese können frei gewählt werden. Jeder Leader muss gewählt werden.
-- 1XP für Teilnahme, 1XP für Überleben, 1XP pro Kill für jedes Modell
-- Die Hälfte (abgerundet) der erspielten VPs können in XP umgewandelt und frei verteilt werden.
-- Battle Honors werden statt mit VP mit XP bezahlt. Nur Leader können Honors erwerben die mehr als 8 XP kosten.
+These extra XP can be distributed as you wish among models.
