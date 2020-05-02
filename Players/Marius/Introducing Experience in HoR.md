@@ -16,9 +16,9 @@ The obvious choice:
 
 #### Battle Honors
 Instead of being able to buy them with RPs, they can be "bought" with XP. 
-With the exception of Team Honors.
-
 Battle Honors that cost more than 8, can only be bought by the Leader.
+
+#####The only exceptions are Team Honors. These can still only be purchased with requisition points. 
 
 ## Question: Who gains experience?
 
