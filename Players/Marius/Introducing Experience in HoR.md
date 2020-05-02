@@ -26,9 +26,9 @@ Up to 3 Soldiers can be chosen which can accumulate experience. One of them has 
 
 ## Question: How do you gain experience?
 
-Took part in a battle: +1XP
-Survived the battle: +1XP
-Each enemy model killed: +1XP
+#### Took part in a battle: +1XP
+#### Survived the battle: +1XP
+#### Each enemy model killed: +1XP
 
 Up to half of the victory points (rounded down) can be converted to experience (and thus not be used to generate requisition points).
 These extra XP can be distributed as you wish.
