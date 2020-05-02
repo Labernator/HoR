@@ -30,7 +30,7 @@ Took part in a battle: +1XP
 Survived the battle: +1XP
 Each enemy model killed: +1XP
 
-Up to half of the victory points can be converted to experience (and thus not be used to generate requisition points).
+Up to half of the victory points (rounded down) can be converted to experience (and thus not be used to generate requisition points).
 These extra XP can be distributed as you wish.
 
 
