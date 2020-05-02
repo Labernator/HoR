@@ -13,49 +13,25 @@ In most cases it seems to be the better choice to buy new bodies or new equipmen
 
 As we don't want to reinvent the wheel and create more imbalance to the game, we should pick something that already exists.
 The obvious choice:
+
 #### Battle Honors
-Instead of being able to buy them with RPs, they can be "bought" with XP.
+Instead of being able to buy them with RPs, they can be "bought" with XP. 
+With the exception of Team Honors.
+
+Battle Honors that cost more than 8, can only be bought by the Leader.
 
 ## Question: Who gains experience?
 
-Gaining experience means additional book keeping. So not every teeny tiny soldier should gain experience.
-Rather only elite soldiers should:
-
-#### Heros 
-#### Special choices
-
-This limits the book keeping to 4/5 soldiers.
+Up to 3 Soldiers can be chosen which can accumulate experience. One of them has to be the Leader.
 
 ## Question: How do you gain experience?
 
-This is the tricky part...
-We need to balance XP so that it is spreaded over a variaty of possibilities.
-But we need to make sure that XP is not gained is masses so Battle Honors are something rather special than common.
-Though there has to be enough XP so a character can gain 2-3 Honors in a campaign. Any less and it become too irrelevant.
+Took part in a battle: +1XP
+Survived the battle: +1XP
+Each enemy model killed: +1XP
 
-This is a first draft:
-
-### Requisitions:
-#### Took part 
-+0 xp
-#### Victory 
-+1xp for team leader
-#### Assassin 
-+1xp 
-#### Considerate Commander 
-+1xp for team leader
-#### Sweeping Advance 
-+1xp for team leader
-#### Linebreaker 
-+1xp 
-#### Underdog 
-+1xp per model if the sum of all xp of your models is the lowest among players
-
-### Battles:
-#### Each and every kill
-+1xp
-#### Victory conditions
-+1xp for each victory condition achieved by the model 
+Up to half of the victory points can be converted to experience (and thus not be used to generate requisition points).
+These extra XP can be distributed as you wish.
 
 
 ## Idee Stefan  
