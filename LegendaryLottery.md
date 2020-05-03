@@ -17,7 +17,7 @@ After the first scenario and all subsequent scenarios in a campaign a player may
 ## How can I participate in the lottery? 
 
 A lottery ticket is purchased with requisition points.   
-##### The ticket costs 40 RP.
+**The lottery ticket costs 40 RP.**
 
 ## How is the item determined that I get from the lottery? 
 
