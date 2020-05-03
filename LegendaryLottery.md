@@ -12,12 +12,12 @@ Adding legendary equipment gives players some additional options.
 ## When does the lottery take place?
 
 After the first scenario and all subsequent scenarios in a campaign a player may participate in the lottery. 
-> Each player can only participate once per turn in the lottery.
+> Each player can only buy one ticket per turn for the lottery.
 
 ## How can I participate in the lottery? 
 
 A lottery ticket is purchased with requisition points. 
-One ticket costs 20 RP. 
+'The ticket costs 20 RP.'
 
 ## How is the item determined that I get from the lottery? 
 
