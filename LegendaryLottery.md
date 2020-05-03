@@ -23,7 +23,7 @@ A lottery ticket is purchased with requisition points.
 
 Follow the rules for legendary weapon generation explained in the legendary weapons supplement to HoR:
 
-[Legendary weapons supplement] (http://heraldsofruin.net/wp-content/uploads/files/8th_edition/Rules/Legendary-Weapons-v1.1-1.pdf) 
+[Legendary weapons supplement](http://heraldsofruin.net/wp-content/uploads/files/8th_edition/Rules/Legendary-Weapons-v1.1-1.pdf) 
 
 ## Can I sell legendary equipment?
 
