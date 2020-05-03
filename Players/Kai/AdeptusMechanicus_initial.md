@@ -67,7 +67,7 @@ Galvanic caster **(*0pt*)**:
 
 Inctense Generatorium (Opponent substract 1 from to Hit if distance is >=12") **(*5pt*)**  
 Lex Hailer (all aura ranges are increased by 3") **(*8pt*)**  
-Medicae mechadendrite (3" range reanimatea dead unit or regenerate a unit's lost wound on D6=4+) **(*10pt*)**    
+Medicae mechadendrite (3" range reanimate dead unit or regenerate a unit's lost wound on D6=4+) **(*10pt*)**    
 Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**   
 
 #### Cost 75pt
@@ -83,7 +83,7 @@ Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all fri
 Canticles of the omnisiah  
 Kyropatris field Generator (5++ Inv Sv)  
 Titan Guard (Does not gain the Forgeworld Dogma benefit)  
-Blind Barrage (Once per battle, instead of shooting, enemy models have to substract 1 from their shooting to hit roll, counts until the next shootng phase for the current model)  
+Blind Barrage (Once per battle, instead of shooting, enemy models have to substract 1 from their shooting to hit roll, counts until the next shooting phase for the current model)  
 
 #### Equipment
 
@@ -118,7 +118,7 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 |Shooting|12"|Assault 1|6|-1|1|When attacking VEHICLE, D=D3|
 |Melee||Melee|+3|-1|1|When attacking VEHICLE, D=D3|
 
-2x Mag-Inverter shield (4++ InvSv agains melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
+2x Mag-Inverter shield (4++ InvSv against melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
 
 #### Cost 18pt
 
