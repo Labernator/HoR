@@ -16,12 +16,14 @@ After the first scenario and all subsequent scenarios in a campaign a player may
 
 ## How can I participate in the lottery? 
 
-A lottery ticket is purchased with requisition points. 
+A lottery ticket is purchased with requisition points.   
 `The ticket costs 20 RP.`
 
 ## How is the item determined that I get from the lottery? 
 
+Follow the rules for legendary weapon generation explained in the legendary rules supplement to HoR
 
+http://heraldsofruin.net/wp-content/uploads/files/8th_edition/Rules/Legendary-Weapons-v1.1-1.pdf
 
 ## Can I sell legendary equipment?
 
