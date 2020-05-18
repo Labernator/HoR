@@ -19,7 +19,7 @@ Primaris Wolf Skjald (60)
 
 <ins>*Special Rules*</ins>  
 **Spiritual Leader** - All friendly **SPACE WOLVES** units within 6" of this model can use the Wolf Priest’s Leadership instead of their own.  
-**Oath of War** - You can re-roll failed hit rolls in the Fight phase for friendly **SPACE WOLVES** units within 6" of this model.
+**Oath of War** - You can re-roll failed hit rolls in the Fight phase for friendly **SPACE WOLVES** units within 6" of this model.  
 **Healing Balms** - At the end of your Movement phase select a **SPACE WOLVES INFANTRY**, **BIKER** or **CAVALRY** unit within 3" of him. That unit regains up to D3 lost wounds.  
 **Wolf Amulet** - This model has a 4+ invulnerable save.  
 **Shieldbearer** - You may roll a d6 each time a friendly **SPACE WOLVES** unit loses a wound whilst they are within 3” of this model; on a 2+ this unit can intercept that hit – that unit does not lose a wound, but this model suffers a mortal wound.  
@@ -77,7 +77,7 @@ Swiftclaw (25)
 **Destined For Greatness** - Include a team leader (+1)  
 **Cream Of The Crop** - Max Special Choices (+1)  
 **Mind The Boat** - Min Core Choices (+1)  
-**Death And Diversity** - Eight different keywords (+1)
+**Death And Diversity** - Eight different keywords (+1)  
 **Boots Before Loot** - No items from armoury (+1)  
 
 **Philosophy**: Bloodthirsty
