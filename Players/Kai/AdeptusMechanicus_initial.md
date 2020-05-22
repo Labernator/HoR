@@ -54,6 +54,7 @@ Canticles of the omnisiah
 Kyropatris field Generator (5++ Inv Sv)   
 Titan Guard (Does not gain the Forgeworld Dogma benefit)   
 Veteran Secutarius (reroll D6=1 on shooting hits for all secutarii and skitarii units within 6")   
+Gains XP     
 
 #### Equipment
 
@@ -84,6 +85,7 @@ Canticles of the omnisiah
 Kyropatris field Generator (5++ Inv Sv)  
 Titan Guard (Does not gain the Forgeworld Dogma benefit)  
 Blind Barrage (Once per battle, instead of shooting, enemy models have to substract 1 from their shooting to hit roll, counts until the next shooting phase for the current model)  
+Both gain XP     
 
 #### Equipment
 
