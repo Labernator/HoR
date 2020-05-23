@@ -24,8 +24,8 @@ and apply the corresponding modifier.
 
 #### Joshua Nolan - Veteran Sergeant (39) 
 
-##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 4 / A: 3 / LD: 9 / Save: 3+
-##### And They Shall Know No Fear / Special Issue Ammunition
+> M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 4 / A: 3 / LD: 9 / Save: 3+
+`And They Shall Know No Fear / Special Issue Ammunition`
 ##### Inspiring Presence 
 Models within 6” of a friendly model with this rule may use either of their Leadership values for any purpose.
 ##### Attack Pattern Makhaira 
