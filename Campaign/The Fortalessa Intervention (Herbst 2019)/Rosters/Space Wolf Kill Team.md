@@ -11,7 +11,7 @@ In any turn in which a **BIKER**, **INFANTRY** or **CAVALRY** unit made a charge
 
 <ins>**Kill Team Team**</ins>  
 **Leader**  
-Primaris Wolf Skjald (50)  
+Wolf Skjald (50)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
