@@ -14,13 +14,13 @@ Unbeknownst to Lord Governor Curtanus, forces are at work on Fortalessa to help 
 What does the Imperium owe its citizens? Safety? Security? Justice? Vast organizations exist to provide these things, yet they all seem to have failed to do so here. Curtanus, who clearly cares about the fate of his people, did exactly what he was supposed to and billions are being punished for it. What right has the Imperium to keep a domain when it has failed to prove worthy of doing so. Why should a citizen pledge fealty and toil frequently unto death in the Emperor’s service if all they can expect is to be stabbed in the back and further exploited when they have done all that is asked of them? No. The Imperium does not deserve Ilunia. It does not deserve Lord Governor Meridius Curtanus. The best hope Ilunia now has is to be sworn to a peer of the Imperium such as a Knightly house or a chapter of the Adeptus Astartes. It has certainly shown that it is worthy of such.
 
 ### Space Wolves Initial Kill Team
-**Mance Rayder** Primaris Wolf Skjald (55)  
+**Mance Rayder** Wolf Skjald (45)  
 - Absolvor Bolt Pistol (0)  
 - Crozius Arcanum (0)  
 - Frag Grenade (0)  
 - Krak Grenade (0)  
 - Shieldbearer (5)  
-=> 60
+=> 50
 
 **The Nightrunners** Swiftclaw (23)  
 - Chainsword (0)  
@@ -29,12 +29,22 @@ What does the Imperium owe its citizens? Safety? Security? Justice? Vast organiz
 - Krak Grenade (0)  
 => 25
 
-**The Hornfoots** 3x Aggressor (3x 21)  
-- Auto Boltstorm Gauntlets (3x 12)  
-- Fragstorm Grenade Launcher (3x 4)  
-=> 111
+**Tormund Giantsbane** Aggressor (21)  
+- Auto Boltstorm Gauntlets (12)  
+- Fragstorm Grenade Launcher (4)  
+=> 37
 
-196
+**Styr** Aggressor (21)  
+- Auto Boltstorm Gauntlets (12)  
+- Fragstorm Grenade Launcher (4)  
+=> 37
+
+**Orell** Wulfen (28)  
+- Storm Shield (5)  
+- Thunder Hammer (16)  
+=> 49
+
+198
 
 ## Mission 1 – The Bounty of Ilarion
 Ever since you boarded the Bounty of Ilarion, you have been sifting through communiques and missives trying to pin down the location of an adversary that is almost certainly working to stabilize relations with the Imperium. It is equally likely that they have anticipated your arrival. It is critical that you break through and establish a base for more of your forces to follow.
