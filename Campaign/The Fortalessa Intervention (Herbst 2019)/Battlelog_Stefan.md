@@ -29,7 +29,7 @@ What does the Imperium owe its citizens? Safety? Security? Justice? Vast organiz
 - Krak Grenade (0)  
 => 25
 
-**Tormund Giantsbane** - Aggressor (21)  
+**Loboda** - Aggressor (21)  
 - Auto Boltstorm Gauntlets (12)  
 - Fragstorm Grenade Launcher (4)  
 => 37
