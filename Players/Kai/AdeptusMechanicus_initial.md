@@ -35,9 +35,23 @@ Based on Build 16
 |:---|:---|
 |Foot Soldiers of the Machine God|+1|
 
-## Resulting to *4* TP
+*Resulting to *4* TP*
 
-## Summary cost **200 pt**
+*Summary cost **200 pt***
+
+## Canticles of the Omnisiah
+
+Choose one per round, then use each canticle only once.
+Or roll a D6.
+
+|D6|Name|Effect|
+|---|---|---|
+|1|Incantation of the Iron Soul|You can reroll failed Morale tests for affected units.|
+|2|Litany of the Electromancer|Roll D6 for each enemy unit that is within 1" of any affected units; on a roll of 6, the unit being rolled for suffers D3 mortal wounds.|
+|3|Chant of the Remorseless Fist|You can reroll any hit rolls of 1 for affected units in the Fight phase.|
+|4|Shroudpsalm|Affected units gain the bonus to their armour saving throws as if they were in cover. Units already in cover are unaffected.|
+|5|Invocation of the Machine Might|Affected units have +1 Strength|
+|6|Benediction of the Omnissiah|You can reroll failed hit rolls of 1 for affected units in the Shooting phase.|
 
 ## The Team
 
@@ -71,7 +85,7 @@ Lex Hailer (all aura ranges are increased by 3") **(*8pt*)**
 Medicae mechadendrite (3" range reanimate dead unit or regenerate a unit's lost wound on D6=4+) **(*10pt*)**    
 Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**   
 
-#### Cost 75pt
+*Cost 75pt*
 
 ### 2x Secutarii Peltast **(*9pt*)**
 
@@ -97,7 +111,7 @@ Galvanic caster **(*0pt*)**:
 |Igniz blaze|18"|Assault D3|3|0|1|This weapon can target units that are not visible to the firer.|
 |Kinetic hammershot|30"|Heavy 1|4|-2|1||
 
-#### Cost 18pt
+*Cost 18pt*
 
 ### 2x Secutarii Hoplites (*9pt*)
 
@@ -122,7 +136,7 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 
 2x Mag-Inverter shield (4++ InvSv against melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
 
-#### Cost 18pt
+*Cost 18pt*
 
 ### 5x Skitarii Vanguard (*8pt*)
 
@@ -152,7 +166,7 @@ Rad-Saturation (enemy within 1" gain -1T)
 
 1x Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
 
-#### Cost 61pt
+*Cost 61pt*
 
 ### 2x Corpuscarii Electro-Priest **(*14pt*)**
 
@@ -175,4 +189,5 @@ Voltagheist Field (5++ InvSv; If the priest charges a enemy unit, the target has
 |Melee||Melee|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
 |Shooting|12"|Assault 3|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
 
-#### Cost 28pt
+*Cost 28pt*
+
