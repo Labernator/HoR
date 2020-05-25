@@ -48,3 +48,15 @@ What does the Imperium owe its citizens? Safety? Security? Justice? Vast organiz
 
 ## Mission 1 – The Bounty of Ilarion
 Ever since you boarded the Bounty of Ilarion, you have been sifting through communiques and missives trying to pin down the location of an adversary that is almost certainly working to stabilize relations with the Imperium. It is equally likely that they have anticipated your arrival. It is critical that you break through and establish a base for more of your forces to follow.
+
+*Mance sat in the Bounty of Ilarion and pondered the circumstances that had brought him here. This was a curious mission indeed: A Jarl of the great chapter Wolves of Fenris secretly infiltrating a planet of the empire to assist the Lord Governor in his rebellion against the empire. Mance shook his head in disbelief.*  
+
+*But the Adeptus Mechanicus were pillaging the worlds of this system and the ones suffering were civilians. And actions like that do not sit well with Wolf Lord Ragnar Blackmane.*  
+
+*So here they were. To call his kill team minimal would have been an overstatement. The Wolf Lord obviously couldn't send a sizeable force of the Great Company as the diplomatic consequences for the chapter would have been backbreaking. Mance grimaced. Big picture be damned, he was the one flying to war with only five warriors.*  
+
+*Mance let his eyes wander across the familiar faces of his companions. At least he was in good company! Loboda and Styr were his battle-hardened and loyal Huskarls. Mance fought along them for years and would trust them with his life in a heartbeat. The lone Nightrunner was a professional. He wouldn’t catch a bullet for you, but he knew his orders and was trained to follow them. And that was good enough for Mance. Then there was Orell. The Wulfen are a strange pack! One is never quite at ease in their company. "I suppose, it’s better to have him on our side than the other way round", Mance mused, as the ships com suddenly burst into life.*  
+
+*"Beginning descend upon Fortalessa. We drop you off near the worlds hive primus Agavar. Establish a base of operation quickly and identify any possible opposition. It is vital that you keep a low profile. For Russ and the Allfather!"*  
+
+*And with that the mission to liberate Fortalessa from the Emerpor's bane entered the critical phase.*  
