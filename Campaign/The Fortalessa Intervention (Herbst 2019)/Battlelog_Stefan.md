@@ -14,32 +14,32 @@ Unbeknownst to Lord Governor Curtanus, forces are at work on Fortalessa to help 
 What does the Imperium owe its citizens? Safety? Security? Justice? Vast organizations exist to provide these things, yet they all seem to have failed to do so here. Curtanus, who clearly cares about the fate of his people, did exactly what he was supposed to and billions are being punished for it. What right has the Imperium to keep a domain when it has failed to prove worthy of doing so. Why should a citizen pledge fealty and toil frequently unto death in the Emperor’s service if all they can expect is to be stabbed in the back and further exploited when they have done all that is asked of them? No. The Imperium does not deserve Ilunia. It does not deserve Lord Governor Meridius Curtanus. The best hope Ilunia now has is to be sworn to a peer of the Imperium such as a Knightly house or a chapter of the Adeptus Astartes. It has certainly shown that it is worthy of such.
 
 ### Space Wolves Initial Kill Team
-**Mance Rayder** Wolf Skjald (45)  
-- Absolvor Bolt Pistol (0)  
+**Mance Rayder** - Wolf Skjald (45)  
+- Bolt Pistol (0)  
 - Crozius Arcanum (0)  
 - Frag Grenade (0)  
 - Krak Grenade (0)  
 - Shieldbearer (5)  
 => 50
 
-**The Nightrunners** Swiftclaw (23)  
+**The Nightrunners** - Swiftclaw (23)  
 - Chainsword (0)  
 - Twin Boltgun (2)  
 - Frag Grenade (0)  
 - Krak Grenade (0)  
 => 25
 
-**Tormund Giantsbane** Aggressor (21)  
+**Tormund Giantsbane** - Aggressor (21)  
 - Auto Boltstorm Gauntlets (12)  
 - Fragstorm Grenade Launcher (4)  
 => 37
 
-**Styr** Aggressor (21)  
+**Styr** - Aggressor (21)  
 - Auto Boltstorm Gauntlets (12)  
 - Fragstorm Grenade Launcher (4)  
 => 37
 
-**Orell** Wulfen (28)  
+**Orell** - Wulfen (28)  
 - Storm Shield (5)  
 - Thunder Hammer (16)  
 => 49
