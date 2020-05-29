@@ -13,14 +13,15 @@ When this unit fires any ranged weapons from the following list:
 * Bolt Gun
 * Storm Bolter
 * Stalker pattern boltgun
+
 you can choose for it to fire special ammunition. If you do so, choose one of the following:
-#### Dragonfire bolt
+* Dragonfire bolt
 Add 1 to the hit rolls for this weapon when target is in cover.
-#### Hellfire round
+* Hellfire round
 This weapon always wounds on a 2+(except against VEHICLES and TITANIC units).
-#### Kraken bolt
+* Kraken bolt
 Add 3” to the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 1 (to a maximum AP of 2)
-#### Vengeance round
+* Vengeance round
 Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3)
 and apply the corresponding modifier. 
 
@@ -43,9 +44,8 @@ Friendly units within 6” of this model may re-roll hit rolls of 1.
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
 - Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
-- Tactical Processor (6) ["When a tactical point is spent on this model, roll a d6. On a 5+, the point is refunded. Furthermore, this model may consolidate an extra 2” and may do so in any direction."]
 
-=> 49
+=> 43
 
 ### Core
 
@@ -77,9 +77,9 @@ This model is not placed on the battlefield. At the end of any of your Movement 
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
-- Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
+- Power Maul (4) [Melee – Strength: User +2, Damage: 1, AP: 1]
 
-=> 27
+=> 31
 
 ### Special
 
@@ -131,7 +131,7 @@ Do not suffer any penalty to your to hit rolls for Advancing and firing Assault 
 
 => 36
 
-#### ===>>> 49 + 20 + 27 + 28 + 37 + 36 = 197
+#### ===>>> 43 + 20 + 31 + 28 + 37 + 36 = 195
 
 ### Keywords (10)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, AGRESSORS, MK X GRAVIS
