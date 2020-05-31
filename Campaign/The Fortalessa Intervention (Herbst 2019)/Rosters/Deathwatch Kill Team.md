@@ -39,6 +39,7 @@ and apply the corresponding modifier.
 | 4 | 3 | 9 | 3+ |
 
 **And They Shall Know No Fear / Special Issue Ammunition**
+
 **Inspiring Presence**
 > Models within 6” of a friendly model with this rule may use either of their Leadership values for any purpose.`
 
@@ -46,7 +47,11 @@ and apply the corresponding modifier.
 > Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 **Equipment**
-- Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
++Frag Grenade (0) 
+| Type | Range | Strength | Damage | AP |
+| Grenade D6 | 6 | 3 | 1 | 0 |
+
+[Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
 - Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
