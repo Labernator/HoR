@@ -35,7 +35,7 @@ and apply the corresponding modifier.
 
 
 | M | WS | BS  | S | T | W | A | LD | Save |
-- | - | - | - | - |
+-- | - | - | - | - |
 6 | 3+ | 3+ | 4 | 4 | 4 | 3 | 9 | 3+
 
 
