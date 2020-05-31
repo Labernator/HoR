@@ -34,9 +34,9 @@ and apply the corresponding modifier.
 | W: 4 | A: 3 | LD: 9 | Save: 3+
 
 
-| M | WS | BS  | S | T | W | A | LD | Save |
--- | - | - | - | - |
-6 | 3+ | 3+ | 4 | 4 | 4 | 3 | 9 | 3+
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 6 | 3+ | 3+ | 4 | 4 | 4 | 3 | 9 | 3+ |
 
 
 And They Shall Know No Fear / Special Issue Ammunition
