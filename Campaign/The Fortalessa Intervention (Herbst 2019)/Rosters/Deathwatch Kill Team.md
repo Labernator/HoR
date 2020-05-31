@@ -30,29 +30,28 @@ and apply the corresponding modifier.
 
 #### Joshua Nolan - Veteran Sergeant (39) 
 
-| M: 6 | WS: 3+ | BS: 3+ | S: 4 | T: 4 
-| W: 4 | A: 3 | LD: 9 | Save: 3+
+| M | WS | BS | S | T |
+| - | - | - | - | - | 
+| 6 | 3+ | 3+ | 4 | 4 | 
 
+| W | A | LD | Save |
+| - | - | - | - |
+| 4 | 3 | 9 | 3+ |
 
-| M | WS | BS | S | T | W | A | LD | Save |
-| - | - | - | - | - | - | - | - | - |
-| 6 | 3+ | 3+ | 4 | 4 | 4 | 3 | 9 | 3+ |
-
-
-And They Shall Know No Fear / Special Issue Ammunition
-Inspiring Presence 
+*And They Shall Know No Fear / Special Issue Ammunition*
+*Inspiring Presence*
 > Models within 6” of a friendly model with this rule may use either of their Leadership values for any purpose.`
 
-##### Attack Pattern Makhaira 
+*Attack Pattern Makhaira*
 > Friendly units within 6” of this model may re-roll hit rolls of 1.
 
-##### Equipment
+*Equipment*
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
 - Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
 
-=> 43
+#### => 43
 
 ### Core
 
