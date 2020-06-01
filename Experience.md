@@ -30,3 +30,7 @@ Up to 3 Soldiers can be chosen which can accumulate experience.
 #### Conversion of Victory Points to XP:
 Up to half of the victory points (rounded down) can be converted to experience (and thus not be used to generate requisition points).
 These extra XP can be distributed as you wish among models.
+
+## How is gaining experience noted in the roster Sheet?
+
+Each of the 3 selected individuals gains the rule "Cerebral".
