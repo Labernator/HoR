@@ -33,4 +33,4 @@ These extra XP can be distributed as you wish among models.
 
 ## How is gaining experience noted in the roster Sheet?
 
-Each of the 3 selected individuals gains the rule "Cerebral".
+Each of the 3 selected individuals gains the rule "**_Cerebral_**".
