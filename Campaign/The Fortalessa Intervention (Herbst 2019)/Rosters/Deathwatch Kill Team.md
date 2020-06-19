@@ -30,13 +30,9 @@ and apply the corresponding modifier.
 
 #### Joshua Nolan - Veteran Sergeant (39) 
 
-| M | WS | BS | S | T |
-| - | - | - | - | - | 
-| 6 | 3+ | 3+ | 4 | 4 | 
-
-| W | A | LD | Save |
-| - | - | - | - |
-| 4 | 3 | 9 | 3+ |
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 6 | 3+ | 3+ | 4 | 4 | 4 | 3 | 9 | 3+ |
 
 **And They Shall Know No Fear / Special Issue Ammunition**
 
@@ -112,22 +108,18 @@ At the beginning of the game choose an enemy model with the CHARACTER keyword. T
 
 => 28
 
-#### Jayne Cobb - Aggressor (21)
+#### Jayne Cobb - Hellblaster (18)
 
-##### M: 5 / WS: 3+ / BS: 3+ / S: 4 / T: 5 / W: 2 / A: 2 / LD: 7 / Save: 3+
-##### And They Shall Know No Fear 
-##### Fire Storm 
-This model may fire twice if it remained stationary during their turn (including when firing Overwatch).
-##### Relentless Advance 
-Do not suffer any penalty to your to hit rolls for Advancing and firing Assault weapons
+##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
+##### And They Shall Know No Fear / Special Issue Ammunition
 
 ##### Equipment
-- Auto Boltstorm Gauntlets (12) 
-  - [Melee – Strength: *2, Damage: D3, AP: 3, -1 ToHit], 
-  - [Assault 6 – Range 18, Strength: 4, Damage: 1, AP: 0]
-- Fragstorm Grenade Launcher (4) [Assault D6 – Range 18, Strength: 4, Damage: 1, AP: 0]
+- Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
+- Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
+- Assault Plasma Incinerator (17) [Assault 2 – Range 24, Strength: 6, Damage: 1, AP: 4]
+- Bolt Pistol (1) [Pistol 1 – Range 12, Strength: 4, Damage: 1, AP: 1]
 
-=> 37
+=> 36
 
 #### Amos Burton - Hellblaster (18)
 
@@ -142,16 +134,16 @@ Do not suffer any penalty to your to hit rolls for Advancing and firing Assault 
 
 => 36
 
-#### ===>>> 43 + 20 + 31 + 28 + 37 + 36 = 195
+#### ===>>> 43 + 20 + 31 + 28 + 36 + 36 = 194
 
 ### Keywords (10)
-INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, AGRESSORS, MK X GRAVIS
+INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, MK X GRAVIS
 
 ### Philosophy
 Operators (2 TP) [Killteam has 3 Special Choices]
 
 #### Tactical Points
-Operators: 3 Special Choice (+2)
+Operators: 3 Special Choices (+2)
 
 Destined For Greatness: Include a team leader (+1)
 
