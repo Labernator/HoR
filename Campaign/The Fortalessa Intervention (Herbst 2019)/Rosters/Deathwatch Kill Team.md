@@ -136,8 +136,8 @@ At the beginning of the game choose an enemy model with the CHARACTER keyword. T
 
 #### ===>>> 43 + 20 + 31 + 28 + 36 + 36 = 194
 
-### Keywords (10)
-INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, MK X GRAVIS
+### Keywords (9)
+INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, TERMINATORS
 
 ### Philosophy
 Operators (2 TP) [Killteam has 3 Special Choices]
