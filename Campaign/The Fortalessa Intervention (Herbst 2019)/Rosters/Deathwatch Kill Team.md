@@ -58,10 +58,13 @@ and apply the corresponding modifier.
 
 #### Jim Raynor - Intercessor (17)
 
-##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
-##### And They Shall Know No Fear / Special Issue Ammunition
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 6 | 3+ | 3+ | 4 | 4 | 2 | 2 | 7 | 3+ |
 
-##### Equipment
+**And They Shall Know No Fear / Special Issue Ammunition**
+
+**Equipment**
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
@@ -71,7 +74,10 @@ and apply the corresponding modifier.
 
 #### Michael Garibaldi - Terminator (23)
 
-##### M: 5 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 8 / Save: 2+
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 5 | 3+ | 3+ | 4 | 4 | 2 | 2 | 8 | 2+ |
+
 ##### Special Issue Ammunition
 ##### Unflinching
 This unit automatically passes Morale tests.
@@ -92,8 +98,12 @@ This model is not placed on the battlefield. At the end of any of your Movement 
 
 #### John Crichton - Scout (24)
 
-##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 8 / Save: 4+
-##### And They Shall Know No Fear / Special Issue Ammunition
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 6 | 3+ | 3+ | 4 | 4 | 2 | 2 | 8 | 4+ |
+
+**And They Shall Know No Fear / Special Issue Ammunition**
+
 ##### Concealed Positions
 During Deployment, this model can be set up anywhere on the battlefield that is more than 9” away from any enemy deployment zone.
 ##### Camo Cloak
@@ -110,8 +120,11 @@ At the beginning of the game choose an enemy model with the CHARACTER keyword. T
 
 #### Jayne Cobb - Hellblaster (18)
 
-##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
-##### And They Shall Know No Fear / Special Issue Ammunition
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 6 | 3+ | 3+ | 4 | 4 | 2 | 2 | 7 | 3+ |
+
+**And They Shall Know No Fear / Special Issue Ammunition**
 
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
@@ -123,8 +136,11 @@ At the beginning of the game choose an enemy model with the CHARACTER keyword. T
 
 #### Amos Burton - Hellblaster (18)
 
-##### M: 6 / WS: 3+ / BS: 3+ / S: 4 / T: 4 / W: 2 / A: 2 / LD: 7 / Save: 3+
-##### And They Shall Know No Fear / Special Issue Ammunition
+| M | WS | BS | S | T | W | A | LD | Save |
+| - | - | - | - | - | - | - | - | - |
+| 6 | 3+ | 3+ | 4 | 4 | 2 | 2 | 7 | 3+ |
+
+**And They Shall Know No Fear / Special Issue Ammunition**
 
 ##### Equipment
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
