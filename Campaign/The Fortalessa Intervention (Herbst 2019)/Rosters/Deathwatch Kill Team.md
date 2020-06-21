@@ -43,9 +43,10 @@ and apply the corresponding modifier.
 > Friendly units within 6” of this model may re-roll hit rolls of 1.
 
 **Equipment**
-Frag Grenade (0) 
-| Type | Range | Strength | Damage | AP |
-| Grenade D6 | 6 | 3 | 1 | 0 |
+ 
+| Name | Type | Range | Strength | Damage | AP | Points
+| - | - | - | - | - | - | - |
+| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | 0
 
 [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
