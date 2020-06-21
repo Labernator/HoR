@@ -44,16 +44,14 @@ and apply the corresponding modifier.
 
 **Equipment**
  
-| Name | Type | Range | Strength | Damage | AP | Points
+| Name | Type | Range | Strength | Damage | AP | Rules | Points
 | - | - | - | - | - | - | - |
-| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | 0
+| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | - | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | - | 0 |
+| Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | - | 4 |
+| Chainsword | Melee | - | User | 1 | 0 | +1 Attack| 0 |
 
-[Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
-- Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
-- Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
-- Chainsword (0) [Melee – Strength: user, Damage: 1, AP: 0, +1 Attack]
-
-**_ => 43 _**
+** => 43 **
 
 ### Core
 
