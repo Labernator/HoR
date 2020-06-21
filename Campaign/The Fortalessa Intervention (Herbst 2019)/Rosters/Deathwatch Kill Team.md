@@ -15,6 +15,7 @@ When this unit fires any ranged weapons from the following list:
 * Stalker pattern boltgun
 
 you can choose for it to fire special ammunition. If you do so, choose one of the following:
+
 **Dragonfire bolt**
 > Add 1 to the hit rolls for this weapon when target is in cover.
 
@@ -102,12 +103,12 @@ and apply the corresponding modifier.
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
-| Chainsword | Melee | ? | User | 1 | 0 | +1 Attack | 0 |
+| Power Maul | Melee | ? | User +2 | 1 | 1 | ? | 4 |
 
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
-- Power Maul (4) [Melee – Strength: User +2, Damage: 1, AP: 1]
+-  (4) [Melee – Strength: User +2, Damage: 1, AP: 1]
 
 => 31
 
