@@ -45,11 +45,11 @@ and apply the corresponding modifier.
 **Equipment**
  
 | Name | Type | Range | Strength | Damage | AP | Rules | Points |
-| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
-| Chainsword | Melee | ? | User | 1 | 0 | +1 Attack| 0 |
+| Chainsword | Melee | ? | User | 1 | 0 | +1 Attack | 0 |
 
 ** => 43 **
 
