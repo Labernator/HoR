@@ -105,11 +105,6 @@ and apply the corresponding modifier.
 | Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
 | Power Maul | Melee | ? | User +2 | 1 | 1 | ? | 4 |
 
-- Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
-- Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
-- Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
--  (4) [Melee – Strength: User +2, Damage: 1, AP: 1]
-
 => 31
 
 ### Special
@@ -122,17 +117,20 @@ and apply the corresponding modifier.
 
 **And They Shall Know No Fear / Special Issue Ammunition**
 
-##### Concealed Positions
-During Deployment, this model can be set up anywhere on the battlefield that is more than 9” away from any enemy deployment zone.
-##### Camo Cloak
-Add 2 to saving throws when you receive the benefits for cover instead of 1.
-##### Priority Alpha Orders
-At the beginning of the game choose an enemy model with the CHARACTER keyword. This model may always target that model even if it’s not the closest. 
+**Concealed Positions**
+> During Deployment, this model can be set up anywhere on the battlefield that is more than 9” away from any enemy deployment zone.
+**Camo Cloak**
+> Add 2 to saving throws when you receive the benefits for cover instead of 1.
+**Priority Alpha Orders**
+> At the beginning of the game choose an enemy model with the CHARACTER keyword. This model may always target that model even if it’s not the closest. 
 
-##### Equipment
-- Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
-- Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
-- Stalker Pattern Boltgun (4) [Heavy 2 – Range 30, Strength: 4, Damage: 1, AP: 1]
+**Equipment**
+
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
+| - | - | - | - | - | - | - | -|
+| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Stalker Pattern Boltgun | Heavy 2 | 30 | 4 | 1 | 1 | ? | 4 |
 
 => 28
 
