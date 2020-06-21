@@ -2,9 +2,9 @@
 
 ## Kill Team Special Rules:
 ### And They Shall Know No Fear 
-May re-roll failed Morale tests.
+> May re-roll failed Morale tests.
 ### Mission Tactics 
-Before the game choose a unit name that would be found on the title of a datasheet (I.e. Dire Avenger, Tactical Squad, Necron Warrior, Hormagaunt, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
+> Before the game choose a unit name that would be found on the title of a datasheet (I.e. Dire Avenger, Tactical Squad, Necron Warrior, Hormagaunt, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
 ### Special Issue Ammunition
 When this unit fires any ranged weapons from the following list:
 * Auto Bolt Rifle
@@ -15,14 +15,14 @@ When this unit fires any ranged weapons from the following list:
 * Stalker pattern boltgun
 
 you can choose for it to fire special ammunition. If you do so, choose one of the following:
-* Dragonfire bolt
-Add 1 to the hit rolls for this weapon when target is in cover.
-* Hellfire round
-This weapon always wounds on a 2+(except against VEHICLES and TITANIC units).
-* Kraken bolt
-Add 3” to the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 1 (to a maximum AP of 2)
-* Vengeance round
-Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3)
+**Dragonfire bolt**
+> Add 1 to the hit rolls for this weapon when target is in cover.
+**Hellfire round**
+> This weapon always wounds on a 2+(except against VEHICLES and TITANIC units).
+**Kraken bolt**
+> Add 3” to the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 1 (to a maximum AP of 2)
+**Vengeance round**
+> Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3)
 and apply the corresponding modifier. 
 
 ## Initial Kill Team:
@@ -64,10 +64,14 @@ and apply the corresponding modifier.
 **And They Shall Know No Fear / Special Issue Ammunition**
 
 **Equipment**
-- Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
-- Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
-- Auto Bolt Rifle (2) [Assault 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
-- Bolt Pistol (1) [Pistol 1 – Range 12, Strength: 4, Damage: 1, AP: 1]
+
+
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
+| - | - | - | - | - | - | - | -|
+| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Auto Bolt Rifle | Assault 2 | 24 | 4 | 1 | 0 | ? | 2 |
+| Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
 => 20
 
