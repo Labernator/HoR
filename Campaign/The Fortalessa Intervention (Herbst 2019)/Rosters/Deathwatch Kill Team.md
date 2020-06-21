@@ -17,10 +17,13 @@ When this unit fires any ranged weapons from the following list:
 you can choose for it to fire special ammunition. If you do so, choose one of the following:
 **Dragonfire bolt**
 > Add 1 to the hit rolls for this weapon when target is in cover.
+
 **Hellfire round**
 > This weapon always wounds on a 2+(except against VEHICLES and TITANIC units).
+
 **Kraken bolt**
 > Add 3” to the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 1 (to a maximum AP of 2)
+
 **Vengeance round**
 > Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3)
 and apply the corresponding modifier. 
@@ -82,14 +85,25 @@ and apply the corresponding modifier.
 | 5 | 3+ | 3+ | 4 | 4 | 2 | 2 | 8 | 2+ |
 
 ##### Special Issue Ammunition
-##### Unflinching
-This unit automatically passes Morale tests.
-##### Crux Terminatus
-This Model has a 5+ invulnerable save.
-##### Teleport strike
-This model is not placed on the battlefield. At the end of any of your Movement Phases this model can be set up anywhere on the battlefield that is more than 9” away from any enemy models. 
+**Unflinching**
+> This unit automatically passes Morale tests.
 
-##### Equipment
+**Crux Terminatus**
+> This Model has a 5+ invulnerable save.
+
+**Teleport strike**
+> This model is not placed on the battlefield. At the end of any of your Movement Phases this model can be set up anywhere on the battlefield that is more than 9” away from any enemy models. 
+
+
+**Equipment**
+
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
+| - | - | - | - | - | - | - | -|
+| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
+| Chainsword | Melee | ? | User | 1 | 0 | +1 Attack | 0 |
+
 - Frag Grenade (0) [Grenade D6 – Range 6, Strength: 3, Damage: 1, AP: 0]
 - Krag Grenade (0) [Grenade 1 – Range 6, Strength: 6, Damage: D3, AP: 1]
 - Storm Bolter (4) [Rapid Fire 2 – Range 24, Strength: 4, Damage: 1, AP: 0]
