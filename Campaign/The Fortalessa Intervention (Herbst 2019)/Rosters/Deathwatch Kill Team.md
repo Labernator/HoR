@@ -76,7 +76,7 @@ and apply the corresponding modifier.
 | Auto Bolt Rifle | Assault 2 | 24 | 4 | 1 | 0 | ? | 2 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
-=> 20
+**=> 20**
 
 #### Michael Garibaldi - Terminator (23)
 
@@ -94,7 +94,6 @@ and apply the corresponding modifier.
 **Teleport strike**
 > This model is not placed on the battlefield. At the end of any of your Movement Phases this model can be set up anywhere on the battlefield that is more than 9” away from any enemy models. 
 
-
 **Equipment**
 
 | Name | Type | Range | Strength | Damage | AP | Rules | Points |
@@ -104,7 +103,7 @@ and apply the corresponding modifier.
 | Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
 | Power Maul | Melee | ? | User +2 | 1 | 1 | ? | 4 |
 
-=> 31
+**=> 31**
 
 ### Special
 
@@ -118,8 +117,10 @@ and apply the corresponding modifier.
 
 **Concealed Positions**
 > During Deployment, this model can be set up anywhere on the battlefield that is more than 9” away from any enemy deployment zone.
+
 **Camo Cloak**
 > Add 2 to saving throws when you receive the benefits for cover instead of 1.
+
 **Priority Alpha Orders**
 > At the beginning of the game choose an enemy model with the CHARACTER keyword. This model may always target that model even if it’s not the closest. 
 
@@ -131,7 +132,7 @@ and apply the corresponding modifier.
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Stalker Pattern Boltgun | Heavy 2 | 30 | 4 | 1 | 1 | ? | 4 |
 
-=> 28
+**=> 28**
 
 #### Jayne Cobb - Hellblaster (18)
 
@@ -150,7 +151,7 @@ and apply the corresponding modifier.
 | Assault Plasma Incinerator | Assault 2 | 24 | 6 | 1 | 4 | ? | 17 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
-=> 36
+**=> 36**
 
 #### Amos Burton - Hellblaster (18)
 
@@ -169,9 +170,9 @@ and apply the corresponding modifier.
 | Assault Plasma Incinerator | Assault 2 | 24 | 6 | 1 | 4 | ? | 17 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
-=> 36
+**=> 36**
 
-#### ===>>> 43 + 20 + 31 + 28 + 36 + 36 = 194
+**===>>> 43 + 20 + 31 + 28 + 36 + 36 = 194**
 
 ### Keywords (9)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, TERMINATORS
@@ -180,18 +181,11 @@ INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTER
 Operators (2 TP) [Killteam has 3 Special Choices]
 
 #### Tactical Points
-Operators: 3 Special Choices (+2)
-
-Destined For Greatness: Include a team leader (+1)
-
-Death And Diversity: 8 different keywords (+1)
-
-Bound By Experience: all models in your team share at least one non-faction 
-keyword => Infantry (+1)
-
-Cream Of The Crop: taking the maximum number of Special models 
-according to your Model Allowance (+1)
-
-Boots before loot: (+1) if your team does not contain any items from your Opus’ Armoury
++ Operators: 3 Special Choices (+2)
++ Destined For Greatness: Include a team leader (+1)
++ Death And Diversity: 8 different keywords (+1)
++ Bound By Experience: all models in your team share at least one non-faction keyword => Infantry (+1)
++ Cream Of The Crop: taking the maximum number of Special models according to your Model Allowance (+1)
++ Boots before loot: (+1) if your team does not contain any items from your Opus’ Armoury
 
 ### => 7
