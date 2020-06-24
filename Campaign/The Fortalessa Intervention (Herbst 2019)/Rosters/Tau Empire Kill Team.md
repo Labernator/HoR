@@ -9,13 +9,13 @@
 |8"|5+|4+|5|5|3-5|3|8|3+|
 |5"|5+|4+|5|5|1-2|2|7|3+|
 
-**Keywords**: T'AU EMPIRE, <SEPT>; BATTLESUIT, JET PACK, FLY, XV8 CRISIS BATTLESUIT
+**Keywords**: T'AU EMPIRE, SEPT; BATTLESUIT, JET PACK, FLY, XV8 CRISIS BATTLESUIT
 
 **Rules**
-* Inspiring Presence (All models can use Ld in 6" range)
+* **Inspiring Presence** (All models can use Ld in 6" range)
+* **Manta Strike** (deploy later in the game (after a movement phase), 9"+ from enemy models)
 * For the Greater Good (when resolving Overwatch and within 6", also fire Overwatch)
 * Bonding Knife Ritual (when Morale test, a 6 will automatically pass)
-* Manta Strike (deploy later in the game (after a movement phase), 9"+ from enemy models)
 * Damaged Jetpack (when 1-2 wounds left, -FLY, -JET PACK)
 
 **Equipment**
@@ -28,13 +28,13 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |8"|5+|5+|3|4|1|1|6|4+|
 
-**Keywords**: T'AU EMPIRE, <SEPT>; DRONE, FLY, TACTICAL DRONES
+**Keywords**: T'AU EMPIRE, SEPT; DRONE, FLY, TACTICAL DRONES
 
 **Rules**
+* **Manta Strike** (deploy later in the game (after a movement phase), 9"+ from enemy models)
+* **Saviour Protocols** (within 3" a unit is wounded: D6 > 1 -> allocate wound to drone. "moral wound" instead of norma wound)
+* **Shield Generator** (+4 ISv, additionally when loosing a wound, D6 > 4 -> no wound)
 * For the Grater Good (when resolving Overwatch and within 6", also fire Overwatch)
-* Manta Strike (deploy later in the game (after a movement phase), 9"+ from enemy models)
-* Saviour Protocols (within 3" a unit is wounded: D6 > 1 -> allocate wound to drone. "moral wound" instead of norma wound)
-* Shield Generator (+4 ISv, additionally when loosing a wound, D6 > 4 -> no wound)
 * Drone Support (deploy near leader)
 
 ## Core (45)
@@ -45,7 +45,7 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |6"|5+|4+|3|3|1|1|6|4+|
 
-**Keywords**: T'AU EMPIRE, <SEPT>; INFANTY, PATHFINDER TEAM
+**Keywords**: T'AU EMPIRE, SEPT; INFANTY, PATHFINDER TEAM
 
 **Rules**
 * For the Greater Good (when resolving Overwatch and within 6", also fire Overwatch)
@@ -65,12 +65,12 @@
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |8"|5+|4+|5|5|3|2|8|3+|
 
-**Keywords**: T'AU EMPIRE, <SEPT>; BATTLESUIT, JET PACK, FLY, XV8 BATTLESUITS
+**Keywords**: T'AU EMPIRE, SEPT; BATTLESUIT, JET PACK, FLY, XV8 BATTLESUITS
 
 **Rules**
 * For the Greater Good (when resolving Overwatch and within 6", also fire Overwatch)
 * Bonding Knife Ritual (when Morale test, a 6 will automatically pass)
-* Manta Strike (deploy later in the game (after a movement phase), 9"+ from enemy models)
+* **Manta Strike** (deploy later in the game (after a movement phase), 9"+ from enemy models)
 
 **Equipment**
 * Fusion Blaster (2 * 21 = 42)
