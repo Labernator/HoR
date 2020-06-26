@@ -97,4 +97,4 @@ Kaufe 5 Reiver (90).
 
 **Orell** - Wulfen (49)  
 
-298 (Thread 3)
+298 davon 10 aus Battle Honors. Threat 3.
