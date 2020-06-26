@@ -73,8 +73,12 @@ None
  - Assassin (10)  
  - Considerate Commander (10)  
  - Linebreaker (5)  
- => 95
+ - Aus der Bank (2)  
+ => 97 
  
+Kaufe 5 Reiver (90).  
+7 Requisition in die Bank.  
+
 **Experience**  
 - Mance: 2 (took part, survived)  
 - Loboda: 5 (took part, survived, 3 kills) => Deadeye  
