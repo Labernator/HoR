@@ -83,3 +83,18 @@ Kaufe 5 Reiver (90).
 - Mance: 2 (took part, survived)  
 - Loboda: 5 (took part, survived, 3 kills) => Deadeye  
 - Styr: 5 (took part, survived, 2 kills, 1 converted VP) => Deadeye  
+
+### Space Wolves Kill Team After Game 1  
+**Mance Rayder** - Wolf Skjald (50)  
+
+**The Nightrunners** - 1x Swiftclaw (25)
+
+**The Thenn** - 5x Reiver (90)  
+
+**Loboda** - Aggressor (42)  
+
+**Styr** - Aggressor (42)  
+
+**Orell** - Wulfen (49)  
+
+298 (Thread 3)
