@@ -60,3 +60,41 @@ Ever since you boarded the Bounty of Ilarion, you have been sifting through comm
 *"Beginning descend upon Fortalessa. We drop you off near the worlds hive primus Agavar. Establish a base of operation quickly and identify any possible opposition. It is vital that you keep a low profile. For Russ and the Allfather!"*  
 
 *And with that the mission to liberate Fortalessa from the Emerpor's bane entered the critical phase.*  
+
+
+<ins>**Post Battle Sequence**</ins>  
+**Injuries**  
+None  
+
+**Requisition**  
+ - 9VP => 1 zu Xp konvertieren (40)  
+ - Took Part (20)  
+ - Victory (10)  
+ - Assassin (10)  
+ - Considerate Commander (10)  
+ - Linebreaker (5)  
+ - Aus der Bank (2)  
+ => 97 
+ 
+Kaufe 5 Reiver (90).  
+7 Requisition in die Bank.  
+
+**Experience**  
+- Mance: 2 (took part, survived)  
+- Loboda: 5 (took part, survived, 3 kills) => Deadeye  
+- Styr: 5 (took part, survived, 2 kills, 1 converted VP) => Deadeye  
+
+### Space Wolves Kill Team After Game 1  
+**Mance Rayder** - Wolf Skjald (50)  
+
+**The Nightrunners** - 1x Swiftclaw (25)
+
+**The Thenn** - 5x Reiver (90)  
+
+**Loboda** - Aggressor (42)  
+
+**Styr** - Aggressor (42)  
+
+**Orell** - Wulfen (49)  
+
+298 davon 10 aus Battle Honors. Threat 3.
