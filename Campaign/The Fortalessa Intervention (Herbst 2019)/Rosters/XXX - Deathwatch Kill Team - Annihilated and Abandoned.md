@@ -1,20 +1,21 @@
-
 # Alien Exterminators
 
-### Kill Team Special Rules:
-**And They Shall Know No Fear**
+## Kill Team Special Rules:
+### And They Shall Know No Fear 
 > May re-roll failed Morale tests.
-> 
-**Mission Tactics**
-> Before the game choose a unit name that would be found on the title of a datasheet (I.e. Necron Warrior, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
-> 
-**Special Issue Ammunition**  
-When this unit fires any ranged weapons from this list:
-|  |  | |
-|--|--|--|
-| Auto Bolt Rifle | Bolt Rifle | Bolt Pistol
-| Stalker pattern boltgun |  Bolt Gun | Storm Bolter |
-you can choose for it to fire one of these special ammunitions:
+### Mission Tactics 
+> Before the game choose a unit name that would be found on the title of a datasheet (I.e. Dire Avenger, Tactical Squad, Necron Warrior, Hormagaunt, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
+### Special Issue Ammunition
+When this unit fires any ranged weapons from the following list:
+* Auto Bolt Rifle
+* Bolt Rifle
+* Bolt Pistol
+* Bolt Gun
+* Storm Bolter
+* Stalker pattern boltgun
+
+you can choose for it to fire special ammunition. If you do so, choose one of the following:
+
 **Dragonfire bolt**
 > Add 1 to the hit rolls for this weapon when target is in cover.
 
@@ -25,12 +26,13 @@ you can choose for it to fire one of these special ammunitions:
 > Add 3” to the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 1 (to a maximum AP of 2)
 
 **Vengeance round**
-> Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3) and apply the corresponding modifier. 
+> Subtract 3” from the range of this pistol (6” if it is not a pistol) and improve the AP of the attack by 2 (to a maximum AP of 3)
+and apply the corresponding modifier. 
 
-# Initial Kill Team:
-## Team Leader
+## Initial Kill Team:
+### Team Leader
 
-#### Joshua Nolan - Veteran Sergeant (39+4 = 43) 
+#### Joshua Nolan - Veteran Sergeant (39) 
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -46,18 +48,18 @@ you can choose for it to fire one of these special ammunitions:
 
 **Equipment**
  
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
 | - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
 | Chainsword | Melee | ? | User | 1 | 0 | +1 Attack | 0 |
-<br></br>
-<br></br>
-<br></br>
-## Core
 
-#### Jim Raynor - Intercessor (17+3 = 20)
+** => 43 **
+
+### Core
+
+#### Jim Raynor - Intercessor (17)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -67,20 +69,22 @@ you can choose for it to fire one of these special ammunitions:
 
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
 | - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Auto Bolt Rifle | Assault 2 | 24 | 4 | 1 | 0 | ? | 2 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
-#### Michael Garibaldi - Terminator (23+8 = 31)
+**=> 20**
+
+#### Michael Garibaldi - Terminator (23)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
 | 5 | 3+ | 3+ | 4 | 4 | 2 | 2 | 8 | 2+ |
 
-**Special Issue Ammunition**
+##### Special Issue Ammunition
 **Unflinching**
 > This unit automatically passes Morale tests.
 
@@ -92,15 +96,18 @@ you can choose for it to fire one of these special ammunitions:
 
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
 | - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Storm Bolter | Rapid Fire 2 | 24 | 4 | 1 | 0 | ? | 4 |
 | Power Maul | Melee | ? | User +2 | 1 | 1 | ? | 4 |
 
-## Special
-#### John Crichton - Scout (24+4 = 28)
+**=> 31**
+
+### Special
+
+#### John Crichton - Scout (24)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -119,13 +126,15 @@ you can choose for it to fire one of these special ammunitions:
 
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
 | - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Stalker Pattern Boltgun | Heavy 2 | 30 | 4 | 1 | 1 | ? | 4 |
 
-#### Jayne Cobb - Hellblaster (18+18 = 36)
+**=> 28**
+
+#### Jayne Cobb - Hellblaster (18)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -135,14 +144,16 @@ you can choose for it to fire one of these special ammunitions:
 
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
 | - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Assault Plasma Incinerator | Assault 2 | 24 | 6 | 1 | 4 | ? | 17 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
-#### Amos Burton - Hellblaster (18+18 = 36)
+**=> 36**
+
+#### Amos Burton - Hellblaster (18)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -152,14 +163,16 @@ you can choose for it to fire one of these special ammunitions:
 
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Range | Strength | Damage | AP | Rules | Points |
 | - | - | - | - | - | - | - | -|
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
 | Assault Plasma Incinerator | Assault 2 | 24 | 6 | 1 | 4 | ? | 17 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 1 |
 
-# ===>>> 43 + 20 + 31 + 28 + 36 + 36 = 194
+**=> 36**
+
+**===>>> 43 + 20 + 31 + 28 + 36 + 36 = 194**
 
 ### Keywords (9)
 INFANTRY, SERGEANT, TACTICAL VETERAN, PRIMARIS, INTERCESSORS, SCOUT, HELLBLASTERS, CHARACTER, TERMINATORS
