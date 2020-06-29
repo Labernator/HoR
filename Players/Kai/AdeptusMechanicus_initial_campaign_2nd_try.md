@@ -38,7 +38,7 @@ Based on Build 18 excel sheet
 
 ## Resulting to *5* TP
 
-## Summary cost **197pt**
+## Summary cost **198pt**
 
 ## The Team
 
@@ -65,15 +65,15 @@ Phosphor Blaster **(*8pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||24"|Rapid fire 1|5|-1|1|Units attacked by this weapon do not gain any bonus to their saving throws for being in cover.|
+|&nbsp;|24"|Rapid fire 1|5|-1|1|Units attacked by this weapon do not gain any bonus to their saving throws for being in cover.|
 
-Power Sword **(*4pt*)**
+Arc maul **(*5pt*)**
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Melee||Melee|User|-3|1||
+|Melee|&nbsp;|Melee|+2|-1|1|When attacking VEHICLE, D=D3|
 
-#### Cost 44pt
+#### Cost 45pt
 
 ### 2x Secutarii Hoplites (*9pt*)
 
@@ -96,7 +96,7 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |Shooting|12"|Assault 1|6|-1|1|When attacking VEHICLE, D=D3|
-|Melee||Melee|+3|-1|1|When attacking VEHICLE, D=D3|
+|Melee|&nbsp;|Melee|+3|-1|1|When attacking VEHICLE, D=D3|
 
 2x Mag-Inverter shield (4++ InvSv against melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
 
@@ -122,13 +122,13 @@ Rad-Saturation (enemy within 1" gain -1T)
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||18"|Assault 3|3|0|1|On wound of D6=6+ the hit inflicts 2 damage instead of 1|
+|&nbsp;|18"|Assault 3|3|0|1|On wound of D6=6+ the hit inflicts 2 damage instead of 1|
 
 2x Plasma caliver **(*14pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
+|&nbsp;|18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
 
 1x Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
 
@@ -160,18 +160,18 @@ Heavy Tracks (Ignode distance penality when moving, charging, or advancing throu
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||36"|Heavy 2|6|-1|D3|If attacking a VEHICLE, D6 Damage|
+|&nbsp;|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE, D6 Damage|
 
 1x Cognis flamer **(*10pt*)**
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||8"|Assault 6|4|0|1|The weapon automatically hits its target. In addition when firing Overwatch with this weapon, roll two dice when determining how many attacks it makes and discard the lowest result.|
+|&nbsp;|8"|Assault 6|4|0|1|The weapon automatically hits its target. In addition when firing Overwatch with this weapon, roll two dice when determining how many attacks it makes and discard the lowest result.|
 
 1x Arc Claw **(*4pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-||Melee|Melee|+1|-1|1||
+|&nbsp;|Melee|Melee|+1|-1|1||
 
 #### Cost 60pt
