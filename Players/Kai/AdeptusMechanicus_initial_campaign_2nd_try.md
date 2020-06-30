@@ -28,7 +28,6 @@ Based on Build 18 excel sheet
 |Destined for Greatness|+1|
 |Bound by experience|+1|
 |Death and Diversity|+1|
-|Boots before Loot|+1|
 
 ### Philosophy
 
@@ -36,9 +35,9 @@ Based on Build 18 excel sheet
 |:---|:---|
 |Foot soldiers of the machine good|+1|
 
-## Resulting to *5* TP
+## Resulting to *4* TP
 
-## Summary cost **198pt**
+## Summary cost **200**
 
 ## The Team
 
@@ -57,6 +56,7 @@ Canticles of the omnisiah
 Bionics (6++ Inv Sv)   
 Veteran Skitarius (Friendly SKITARII / SCIARIAN models within 6" may reroll hit rolls of 1 in the shooting phase)   
 Radiant Aura (Reduce enemy Toughness by 1 (non VEHICLE) within 6", does not stack with Rad-Saturation)   
+Lex-Hailer (Add 3" to any of this units aura abilities)   
 Gains XP     
 
 #### Equipment
@@ -151,8 +151,8 @@ INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 Canticles of the omnisiah   
 Bionics (6++ Inv save)   
 Heavy Battle Servitor (This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3)   
-Thermas Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
-Heavy Tracks (Ignode distance penality when moving, charging, or advancing through terrain. this model can not be moved by an enemy.)   
+Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
+Heavy Tracks (Ignode distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
 
 #### Equipment
 
@@ -162,16 +162,10 @@ Heavy Tracks (Ignode distance penality when moving, charging, or advancing throu
 |:---|:---|:---|:---|:---|:---|:---|
 |&nbsp;|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE, D6 Damage|
 
-1x Cognis flamer **(*10pt*)**
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|8"|Assault 6|4|0|1|The weapon automatically hits its target. In addition when firing Overwatch with this weapon, roll two dice when determining how many attacks it makes and discard the lowest result.|
-
-1x Arc Claw **(*4pt*)**:
+2x Arc Claw **(*4pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |&nbsp;|Melee|Melee|+1|-1|1||
 
-#### Cost 60pt
+#### Cost 54pt
