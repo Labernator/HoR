@@ -41,7 +41,7 @@ Based on Build 18 excel sheet
 
 ## The Team
 
-### Dorox Exilon 27 delta 6 - Scitarii Regulus - Leader (*32pt*)
+### Dorox Exilon (32 phi 1) - Scitarii Regulus - Leader (*32pt*)
 
 INFANTRY, CHARACTER, SKITARII, REGULUS, SKITARII VANGUARD 
 
@@ -56,7 +56,7 @@ Canticles of the omnisiah
 Bionics (6++ Inv Sv)   
 Veteran Skitarius (Friendly SKITARII / SCIARIAN models within 6" may reroll hit rolls of 1 in the shooting phase)   
 Radiant Aura (Reduce enemy Toughness by 1 (non VEHICLE) within 6", does not stack with Rad-Saturation)   
-Lex-Hailer (Add 3" to any of this units aura abilities)   
+Lex-Hailer (Add 3" to any of this units aura abilities) **(*8pt*)**  
 Gains XP     
 
 #### Equipment
@@ -75,7 +75,7 @@ Arc maul **(*5pt*)**
 
 #### Cost 45pt
 
-### 2x 32 delta 1 / 2 - Secutarii Hoplites (*9pt*)
+### 2x 32 delta 1 - Secutarii Hoplites (*9pt*)
 
 INFANTRY, SECUTARII, HOPLITES
 
@@ -95,14 +95,14 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Shooting|12"|Assault 1|6|-1|1|When attacking VEHICLE, D=D3|
 |Melee|&nbsp;|Melee|+3|-1|1|When attacking VEHICLE, D=D3|
+|Shooting|12"|Assault 1|6|-1|1|When attacking VEHICLE, D=D3|
 
 2x Mag-Inverter shield (4++ InvSv against melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
 
 #### Cost 18pt
 
-### 5x Skitarii Vanguard (*8pt*)
+### 5x 27 delta - Skitarii Vanguard (*8pt*)
 
 INFANTRY, SKITARII, SKITARII VANGUARD
 
@@ -124,23 +124,25 @@ Rad-Saturation (enemy within 1" gain -1T)
 |:---|:---|:---|:---|:---|:---|:---|
 |&nbsp;|18"|Assault 3|3|0|1|On wound of D6=6+ the hit inflicts 2 damage instead of 1|
 
-2x Plasma caliver **(*14pt*)**:
+##### Tyba Ix - 27 delta 3 - Skitarii Vanguard 
+
+Plasma caliver **(*14pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
 |&nbsp;|18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
 
-1x Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
-
-##### Tyba Ix - 27 delta 3 - Vanguard 
-
-Takes the omnispex and a plasma caliver.
+Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
 
 Gains XP   
 
-##### Rho Ar - 27 delta 5 - Vanguard
+##### Rho Ar - 27 delta 5 - Skitarii Vanguard
 
-Takes one plasma caliver.   
+Plasma caliver **(*14pt*)**:
+
+|Mode|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|:---|
+|&nbsp;|18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
 
 Gains XP   
 
@@ -160,7 +162,7 @@ Canticles of the omnisiah
 Bionics (6++ Inv save)   
 Heavy Battle Servitor (This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3)   
 Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
-Heavy Tracks (Ignode distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
+Heavy Tracks (Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
 
 #### Equipment
 
