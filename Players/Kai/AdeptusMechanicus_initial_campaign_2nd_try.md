@@ -41,7 +41,7 @@ Based on Build 18 excel sheet
 
 ## The Team
 
-### Leader - Scitarii Regulus  (*32pt*)
+### Dorox Exilon 27 delta 6 - Scitarii Regulus - Leader (*32pt*)
 
 INFANTRY, CHARACTER, SKITARII, REGULUS, SKITARII VANGUARD 
 
@@ -75,7 +75,7 @@ Arc maul **(*5pt*)**
 
 #### Cost 45pt
 
-### 2x Secutarii Hoplites (*9pt*)
+### 2x 32 delta 1 / 2 - Secutarii Hoplites (*9pt*)
 
 INFANTRY, SECUTARII, HOPLITES
 
@@ -132,9 +132,17 @@ Rad-Saturation (enemy within 1" gain -1T)
 
 1x Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
 
-1 Vanguard takes the omnispex and a plasma caliver
+##### Tyba Ix - 27 delta 3 - Vanguard 
 
-The two soldiers with the plasma caliver gain XP.
+Takes the omnispex and a plasma caliver.
+
+Gains XP   
+
+##### Rho Ar - 27 delta 5 - Vanguard
+
+Takes one plasma caliver.   
+
+Gains XP   
 
 #### Cost 68pt
 
