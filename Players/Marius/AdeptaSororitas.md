@@ -129,7 +129,7 @@ Sacred Rites are active until the end of the battle.
 | - | - | - | - | - | - | - | - | - |
 | 6 | 2+ | 2+ | 3 | 3 | 4 | 3 | 9 | 3+ |
 
-**Acts of Faith, Shield of Faith, Sacred Rites**
+**Acts of Faith, Shield of Faith, Sacred Rites, Hero**
 
 **Guide the Faithful**
 > All friendly <order> models within 3” of this model may re-roll to hit rolls of 1.`
@@ -195,7 +195,7 @@ attempt can be made to intercept each attack.
 | - | - | - | - | - | - | - | - | - |
 | 6 | 3+ | 3+ | 3 | 3 | 1 | 2 | 8 | 3+ |
 
-**Acts of Faith, Shield of Faith, Sacred Rites, Bodyguard, Sworn Protectors**
+**Acts of Faith, Shield of Faith, Sacred Rites, Bodyguard, Sworn Protectors, Hero**
 
 **Equipment**
  
@@ -257,7 +257,7 @@ attempt can be made to intercept each attack.
 | - | - | - | - | - | - | - | - | - |
 | 6 | 3+ | 3+ | 3 | 3 | 2 | 2 | 8 | 3+ |
 
-**Acts of Faith, Shield of Faith, Sacred Rites**
+**Acts of Faith, Shield of Faith, Sacred Rites, Hero**
 
 **Litany of Deeds**
 > During deployment, after you have set up this model on the battlefield,
