@@ -33,7 +33,7 @@ Armour Penetration characteristic of 0 when
 resolving attacks against that unit.
 
 ## ACTS OF FAITH
-Through the prayers of the faithful is the
+> Through the prayers of the faithful is the
 Emperor’s will made manifest.
 If your army contains at least one unit with
 this ability, you can perform one Act of
@@ -134,9 +134,11 @@ Sacred Rites are active until the end of the battle.
 | 5 | The Passion | When resolving an attack made with a melee weapon by a model with this Sacred Rite, an unmodified hit roll of 6 scores 1 additional hit. |
 | 6 | Light of the Emperor | When a Morale test is taken for a unit with this Sacred Rite, you can re-roll the dice. |
 
-## SHIELD OF FAITH: Models in this unit have a 6+ invulnerable save.
+## SHIELD OF FAITH: 
+> Models in this unit have a 6+ invulnerable save.
 
-## ZEALOT: When resolving an attack made with a melee weapon by a model in this unit, you can re-roll the hit roll if that model’s unit made a charge move, was charged or performed a Heroic Intervention this turn.
+## ZEALOT:
+> When resolving an attack made with a melee weapon by a model in this unit, you can re-roll the hit roll if that model’s unit made a charge move, was charged or performed a Heroic Intervention this turn.
 
 ## Team Leader
 
