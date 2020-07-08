@@ -1,22 +1,3 @@
-	198
-	
-CELESTIAN	10
-CELESTIAN	10
-CELESTIAN	10
-Heavy Flamer	14
-CELESTIAN	10
-Heavy Bolter	10
-MINISTORUM CRUSADERS	9
-Power Sword	4
-MINISTORUM CRUSADERS	9
-Power Sword	4
-	
-ZEPHYRIM	13
-Power Sword	4
-ZEPHYRIM	13
-Power Sword	4
-IMAGIFIER	30
-
 # Adepta Sororitas
 ## Order Conviction: Valorous Heart
 > When a model with this conviction would lose a
@@ -254,8 +235,10 @@ attempt can be made to intercept each attack.
 
 **Rapturous Blow**
 > When resolving an attack made with a melee weapon by a model in this unit, you can re-roll the wound roll.
+
 **Angelic Visage**
 > The invulnerable save models in this unit receive from the Shield of Faith ability is improved by 1, to a maximum of 4+.
+
 **Sky Strike**
 > During deployment, you can set up this unit in the sky instead of setting it up on the battlefield. If you do, at the end of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" away from any enemy models.
 
@@ -287,6 +270,7 @@ treated as having an Armour Penetration characteristic of 0 when resolving attac
 against <ORDER> models whilst they are within 6" of this model.
 • Tale of the Warrior: Add 1 to the Strength characteristic of models in <ORDER>
 model whilst their model is within 6" of this model.
+
 **Equipment**
  
 | Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
