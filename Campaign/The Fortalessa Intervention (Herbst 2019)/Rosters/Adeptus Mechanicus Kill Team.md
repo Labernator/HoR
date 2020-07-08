@@ -41,7 +41,7 @@ Based on Build 18 excel sheet
 
 ## The Team
 
-### Dorox Exilon (32 phi 1) - Scitarii Regulus - Leader (*32pt*)
+### Dorox Exilon (32 delta phi 1) - Scitarii Regulus - Leader (*32pt*)
 
 INFANTRY, CHARACTER, SKITARII, REGULUS, SKITARII VANGUARD 
 
