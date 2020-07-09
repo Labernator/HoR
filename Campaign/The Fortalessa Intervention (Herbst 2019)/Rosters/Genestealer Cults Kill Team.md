@@ -22,7 +22,6 @@ Aberrant Hypermorph (41)
 |6"|3+|6+|6|4|4|3|7|5+|
 
 <ins>*Special Rules*</ins>  
-**Spiritual Leader** - All friendly **SPACE WOLVES** units within 6" of this model can use the Wolf Priest’s Leadership instead of their own.  
 **Bestial Vigour** - When inflicting damage on this model, reduce the Damage characteristic of the attack by 1 (to a minimum of 1). In addition, roll a D6 each time this model loses a wound; on a 5+ that wound is not lost.  
 **Hero** - This model can gain XP.  
 
