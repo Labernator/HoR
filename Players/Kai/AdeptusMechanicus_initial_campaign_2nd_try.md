@@ -41,7 +41,9 @@ Based on Build 18 excel sheet
 
 ## The Team
 
-### Dorox Exilon (32 delta phi 1) - Scitarii Regulus - Leader (*32pt*)
+### Dorox Exilon (32 delta phi 1) - Scitarii Regulus - Leader
+
+***32pt***
 
 INFANTRY, CHARACTER, SKITARII, REGULUS, SKITARII VANGUARD 
 
@@ -75,7 +77,9 @@ Arc maul **(*5pt*)**
 
 #### Cost 45pt
 
-### 2x 32 delta 1 - Secutarii Hoplites (*9pt*)
+### 2x 32 delta 1 - Secutarii Hoplites
+
+***9pt*** each   
 
 INFANTRY, SECUTARII, HOPLITES
 
@@ -102,7 +106,9 @@ Titan Guard (Does not gain the Forgeworld Dogma benefit)
 
 #### Cost 18pt
 
-### 5x 27 delta - Skitarii Vanguard (*8pt*)
+### 5x 27 delta - Skitarii Vanguard
+
+***8pt*** each   
 
 INFANTRY, SKITARII, SKITARII VANGUARD
 
@@ -148,7 +154,9 @@ Gains XP
 
 #### Cost 68pt
 
-### 2x Kataphron Battle Servitor **(*15pt*)**
+### 2x Kataphron Battle Servitor
+
+***15pt*** each   
 
 INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 
