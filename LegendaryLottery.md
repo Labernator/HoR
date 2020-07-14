@@ -28,3 +28,7 @@ Follow the rules for legendary weapon generation explained in the legendary weap
 ## Can I sell legendary equipment?
 
 Yes, if you really don't want to keep the awesome stuff you got, you can sell it for half the price of the lottery ticket. (10 RP) 
+
+## Who can use legendary equipment?
+
+In principle every model can use a legendary weapon as long as it has a mundane weapon of the same type that is replaced by the legendary weapon.
