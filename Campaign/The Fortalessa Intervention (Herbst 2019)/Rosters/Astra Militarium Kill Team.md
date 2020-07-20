@@ -25,7 +25,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Chainsword|Melee|Melee|+1|-1|2|+1A|
+|Chainsword|Melee|Melee|User|0|1|+1A|
 |Lasgun|24"|Rapid Fire 1|3|0|1||
 |Frag Grenade|6"|Grenade D6|3|0|1||
 
@@ -58,7 +58,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Chainsword|Melee|Melee|+1|-1|2|+1A|
+|Chainsword|Melee|Melee|User|0|1|+1A|
 |Lasgun|24"|Rapid Fire 1|3|0|1||
 |Frag Grenade|6"|Grenade D6|3|0|1||
 
@@ -93,7 +93,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 
 |Weapon|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Chainsword|Melee|Melee|+1|-1|2|+1A|
+|Chainsword|Melee|Melee|User|0|1|+1A|
 |Lasgun|24"|Rapid Fire 1|3|0|1||
 |Frag Grenade|6"|Grenade D6|3|0|1||
 
