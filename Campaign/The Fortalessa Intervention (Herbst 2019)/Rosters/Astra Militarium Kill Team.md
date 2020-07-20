@@ -106,7 +106,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 <ins>*Special Rules*</ins>  
 **Commendation: Duelist's Brassard** - Enemy units attempting to attack this model in the Fight phase suffer a -1 on their rolls to do so.  
 **Slabshield** - Add 2 to the save rolls of this model.  
-**Avalanche of Muscle** - +1A if this model charged.
+**Avalanche of Muscle** - +1A if this model charged.  
 **Hero** - This model can gain XP.  
 
 <ins>*Equipment*</ins>  
