@@ -8,7 +8,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 
 <ins>**Kill Team Team**</ins>  
 **Leader**  
-Veteran Officer (28)  
+**Veteran Officer** (28)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
