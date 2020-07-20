@@ -1,13 +1,13 @@
 ## Astra Militarium  
-<ins>**Kill Team Special Rules**</ins>  
+### Kill Team Special Rules  
 **Regimental Doctrine: Armageddon**  
 **INFANTRY** modells may double the number of attacks they make with Rapid Fire weapons at a range of 18". **VEHICLES** treat attacks against them with AP -1 as AP 0.  
 
 **Defenders of Humanity**  
 If a modell is in range of an objective marker it controls the marker even if there are more enemy models within range.   
 
-<ins>**Kill Team Team**</ins>  
-**Leader**  
+### Kill Team Team  
+<ins>**Leader**</ins>  
 **Veteran Officer** (28)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
@@ -29,7 +29,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 |Lasgun|24"|Rapid Fire 1|3|0|1||
 |Frag Grenade|6"|Grenade D6|3|0|1||
 
-**Core**  
+<ins>**Core**</ins>  
 **15 Guardsmen** (je 4 = 60)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
@@ -78,7 +78,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 |Frag Grenade|6"|Grenade D6|3|0|1||
 |Mortar|48"|Heavy D6|4|0|1|Can target units that are not visible|
 
-**Special**  
+<ins>**Special**</ins>  
 **Junior Officer** (18)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
@@ -119,7 +119,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 => 200 Points
 
 
-<ins>**Tactical points**</ins>  
+### Tactical points  
 **Destined For Greatness** - Include a team leader (+1)  
 **Death And Diversity** - Eight different keywords (+1)  
 **Bound By Experience** - All models share one keyword (infantry) (+1)  
