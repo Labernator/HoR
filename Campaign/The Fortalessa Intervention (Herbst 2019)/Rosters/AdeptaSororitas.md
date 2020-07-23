@@ -34,19 +34,11 @@ Sacred Rites are active until the end of the battle.
 
 | D6 | SACRED RITE | EFFECT |
 | - | - | - |
-| 1 | Hand of the Emperor | When a model with this Sacred Rite Advances, add 1 to the Advance roll. When you make a charge roll
-for a unit with this Sacred Rite, add 1 to the result. |
-| 2 | Spirit of the Martyr | When a model with this Sacred Rite is destroyed, roll one D6 before removing the model from
-play. On a 5+ that model can either shoot with one of its ranged weapons as if it were your
-Shooting phase, or make one attack with one of its melee weapons as if it were the Fight phase
-(if the model has a damage table, use the bottom row of that table when shooting with that ranged
-weapon or resolving that attack with a melee weapon). |
-| 3 | Aegis of the Emperor | When a Deny the Witch test is taken for a model with this Sacred Rite, add 3 to the total.
-for a unit with this Sacred Rite, add 1 to the result. |
+| 1 | Hand of the Emperor | When a model with this Sacred Rite Advances, or charges add 1 to the respective roll. 
+| 2 | Spirit of the Martyr | When a model with this Sacred Rite is destroyed, roll one D6 before removing the model from play. On a 5+ that model can either shoot with one of its ranged weapons as if it were your Shooting phase, or make one attack with one of its melee weapons as if it were the Fight phase (if the model has a damage table, use the bottom row of that table when shooting with that ranged weapon or resolving that attack with a melee weapon). |
+| 3 | Aegis of the Emperor | When a Deny the Witch test is taken for a model with this Sacred Rite, add 3 to the total. |
 | 4 | Divine Guidance | When resolving an attack made with a ranged weapon by a model with this Sacred Rite, on an unmodified wound roll of 6 the Armour Penetration characteristic of that weapon is improved by 1 for that attack (e.g. AP 0 becomes AP -1).
-for a unit with this Sacred Rite, add 1 to the result. |
 | 5 | The Passion | When resolving an attack made with a melee weapon by a model with this Sacred Rite, an unmodified hit roll of 6 scores 1 additional hit.
-for a unit with this Sacred Rite, add 1 to the result. |
 | 6 | Light of the Emperor | When a Morale test is taken for a model with this Sacred Rite, you can re-roll the dice. |
 
 # Initial Kill Team:
