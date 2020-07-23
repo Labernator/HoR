@@ -2,8 +2,12 @@
 # Holy Warriors of the one God
 
 ### Kill Team Special Rules:
-**Order = Valorous Heart**
-> Order Convictions:When a model with this conviction would lose a wound, roll one D6; on a 6 that wound is not lost.
+**<Order>**
+> Each model with the <Order> keyword benefits from the order conviction.
+ Selected Order: Valorous Heart
+ 
+**Order Conviction - Stoic Endurance**
+> When a model with this conviction would lose a wound, roll one D6; on a 6 that wound is not lost.
 In addition, when resolving an attack made with a weapon with an Armour Penetration characteristic
 of -1 against a unit with this conviction, that
 weapon has an Armour Penetration characteristic of
@@ -12,15 +16,38 @@ is under the effect of an Imagifier’s Tale of the
 Stoic ability, weapons with an Armour Penetration
 characteristic of -2 are also treated as having an Armour Penetration characteristic of 0 when
 resolving attacks against that unit.
->
+
 **Zealot**
-> Before the game choose a unit name that would be found on the title of a datasheet (I.e. Necron Warrior, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
+> When resolving an attack made with a melee weapon by this model, you can re-roll the hit roll if that model made a charge move, was charged or performed a Heroic Intervention this turn.
 
 **Shield of Faith**
-> Before the game choose a unit name that would be found on the title of a datasheet (I.e. Necron Warrior, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
+> This model has a 6+ invulnerable save.
 
 **Sacred Rites**
-> Before the game choose a unit name that would be found on the title of a datasheet (I.e. Necron Warrior, etc): you can reroll wound rolls of 1 against a model with that name. Once per battle at the start of your Movement Phase, you may change the name against which you gain the Mission Tactics.
+> Determine which Sacred Rite is active for all units from your
+army with this ability at the start of the battle. To do so, after
+deployment, but before the first battle round begins, select one Sacred Rite from the following table to be active. Alternatively, you
+can roll two D6 to randomly generate two Sacred Rites to be active
+(a duplicate result has no additional effect, but is considered to be
+active for the purposes of the Battle Rites Stratagem). In either case,
+Sacred Rites are active until the end of the battle.
+
+| D6 | SACRED RITE | EFFECT |
+| - | - | - |
+| 1 | Hand of the Emperor | When a model with this Sacred Rite Advances, add 1 to the Advance roll. When you make a charge roll
+for a unit with this Sacred Rite, add 1 to the result. |
+| 2 | Spirit of the Martyr | When a model with this Sacred Rite is destroyed, roll one D6 before removing the model from
+play. On a 5+ that model can either shoot with one of its ranged weapons as if it were your
+Shooting phase, or make one attack with one of its melee weapons as if it were the Fight phase
+(if the model has a damage table, use the bottom row of that table when shooting with that ranged
+weapon or resolving that attack with a melee weapon). |
+| 3 | Aegis of the Emperor | When a Deny the Witch test is taken for a model with this Sacred Rite, add 3 to the total.
+for a unit with this Sacred Rite, add 1 to the result. |
+| 4 | Divine Guidance | When resolving an attack made with a ranged weapon by a model with this Sacred Rite, on an unmodified wound roll of 6 the Armour Penetration characteristic of that weapon is improved by 1 for that attack (e.g. AP 0 becomes AP -1).
+for a unit with this Sacred Rite, add 1 to the result. |
+| 5 | The Passion | When resolving an attack made with a melee weapon by a model with this Sacred Rite, an unmodified hit roll of 6 scores 1 additional hit.
+for a unit with this Sacred Rite, add 1 to the result. |
+| 6 | Light of the Emperor | When a Morale test is taken for a model with this Sacred Rite, you can re-roll the dice. |
 
 # Initial Kill Team:
 ## Team Leader
