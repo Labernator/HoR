@@ -61,7 +61,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
  
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 | Boltgun | Rapid Fire 1 | 24 | 4 | 1 | 0 | ? | 0 |
 | Blessed Blade | Melee | ? | +2 | D3 | 3 | ? | 9 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
@@ -93,7 +93,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 
 | Boltgun | Rapid Fire 1 | 24 | 4 | 1 | 0 | ? | 0 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
@@ -121,7 +121,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 
 | Heavy Flamer | Heavy D6 | 8 | 5 | 1 | 1 | auto hits | 14 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
@@ -148,7 +148,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 | Power Sword | Melee | - | user | 1 | 3 | ? | 4 |
 
 **Keywords**
@@ -171,7 +171,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 | 2x Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
@@ -196,7 +196,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 | 2x Hand Flamer | Pistol D6 | 6 | 3 | 1 | 0 | auto hits | 2 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
@@ -221,7 +221,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 | Penitent Eviscerator | Melee | - | x2 | 2 | 3 | When resolving an attack made with this weapon, subtract 1 from the hit roll | 0 |
 
 **Keywords**
@@ -249,7 +249,7 @@ Sacred Rites are active until the end of the battle.
 **Equipment**
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | -|
+| - | - | - | - | - | - | - | - |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
