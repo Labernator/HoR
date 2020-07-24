@@ -58,6 +58,11 @@ Sacred Rites are active until the end of the battle.
 **Hero**
 > May gain experience
 
+**Incensor Cherub - 5 points** 
+
+> An Incensor Cherub is represented by a model on the battlefield that has the FLY keyword, a 9” Move and the
+ability to Advance. It cannot do anything else. It can be moved and targeted freely through, even occupying the same space as other models, and cannot be affected or targeted by any in-game rules or abilities except the following: Once per battle at the beginning of a phase, if it is within 3” of a friendly Adepta Sororitas model the cherub can intercede. Immediately remove the cherub from the battlefield and generate a Miracle Dice, rolling 2D6 and choosing the result to keep. That miracle dice can only be used during the current phase and only for an Act of Faith for a model within 3” of the cherub’s last location.
+
 **Equipment**
  
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
@@ -70,9 +75,6 @@ Sacred Rites are active until the end of the battle.
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Character, Canoness Regular
  
-<br></br>
-<br></br>
-<br></br>
 ## Core
 
 #### 2x Celestian (10+0 * 2 = 20)
@@ -94,7 +96,6 @@ Sacred Rites are active until the end of the battle.
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-
 | Boltgun | Rapid Fire 1 | 24 | 4 | 1 | 0 | ? | 0 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
@@ -122,7 +123,6 @@ Sacred Rites are active until the end of the battle.
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-
 | Heavy Flamer | Heavy D6 | 8 | 5 | 1 | 1 | auto hits | 14 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
@@ -154,7 +154,7 @@ Sacred Rites are active until the end of the battle.
 **Keywords**
 > Imperium, Adeptus Ministorum, Infantry, Crusader
 
-#### Seraphim (11)
+#### 2x Seraphim (11*2 = 22)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -204,32 +204,8 @@ Sacred Rites are active until the end of the battle.
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Jump, Fly, Seraphim
 
-#### Sister Repentia (13)
-
-| M | WS | BS | S | T | W | A | LD | Save |
-| - | - | - | - | - | - | - | - | - |
-| 6 | 3+ | 3+ | 3 | 3 | 1 | 2 | 8 | 7+ |
-
-**Acts of Faith / Shield of Faith / Sacred Rites**
-
-**Solace in Anguish**
-> When this model would lose a wound, roll one D6; on a 5+ that wound is not lost.
-
-**Martyrdom**
-> When this model is destroyed (other than in the Morale phase), gain one Miracle dice.
- 
-**Equipment**
-
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
-| - | - | - | - | - | - | - | - |
-| Penitent Eviscerator | Melee | - | x2 | 2 | 3 | When resolving an attack made with this weapon, subtract 1 from the hit roll | 0 |
-
-**Keywords**
-> Imperium, Adepta Sororitas, <Order>, Infantry, Sister Repentia
-
-
 ## Special
-#### Imagifier (30)
+#### Imagifier (30+5 = 35)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -250,6 +226,7 @@ Sacred Rites are active until the end of the battle.
 
 | Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
 | - | - | - | - | - | - | - | - |
+| Shard | Rapid Fire 1 | 24 | 4 | 2 | 1 | ? | 0 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
@@ -257,17 +234,20 @@ Sacred Rites are active until the end of the battle.
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier
 
-# ===>>> 44 + 20 + 48 + 13 + 11 + 13 + 13 + 30 = 192
+### 
+
+# ===>>> 49 + 20 + 48 + 13 + 22 + 13 + 35 = 200
 
 ### Keywords (14)
 Imperium, Adepta Sororitas, <Order>, Infantry, Sister Repentia, Imagifier, Jump, Fly, Seraphim, Adeptus Ministorum, Crusader, Character, Canoness Regular, Celestian
 
 ### Philosophy
-none so far
+World on Fire (+2TP)
+> Every model that can take a flame weapon has a flame weapon (flamer, combi-flamer, hand flamer, heavy flamer and the Widowmaker are flame weapons)
 
 #### Tactical Points
 + Destined For Greatness: Include a team leader (+1)
 + Death And Diversity: 8 different keywords (+1)
 + Bound By Experience: all models in your team share at least one non-faction keyword => Infantry (+1)
 + Boots Before Loot:your team does not contain any items from your Opus’ Armoury (+1)
-### => 4
+### => 6
