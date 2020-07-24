@@ -238,8 +238,8 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 
 # ===>>> 49 + 20 + 48 + 13 + 22 + 13 + 35 = 200
 
-### Keywords (14)
-Imperium, Adepta Sororitas, <Order>, Infantry, Sister Repentia, Imagifier, Jump, Fly, Seraphim, Adeptus Ministorum, Crusader, Character, Canoness Regular, Celestian
+### Keywords (13)
+Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier, Jump, Fly, Seraphim, Adeptus Ministorum, Crusader, Character, Canoness Regular, Celestian
 
 ### Philosophy
 World on Fire (+2TP)
@@ -249,5 +249,4 @@ World on Fire (+2TP)
 + Destined For Greatness: Include a team leader (+1)
 + Death And Diversity: 8 different keywords (+1)
 + Bound By Experience: all models in your team share at least one non-faction keyword => Infantry (+1)
-+ Boots Before Loot:your team does not contain any items from your Opus’ Armoury (+1)
-### => 6
+### => 5
