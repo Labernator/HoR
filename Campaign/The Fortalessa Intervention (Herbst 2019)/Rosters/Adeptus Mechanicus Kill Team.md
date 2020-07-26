@@ -178,7 +178,7 @@ Heavy Tracks (Ignore distance penality when moving, charging, or advancing throu
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE, D6 Damage|
+|&nbsp;|36"|Heavy 2|6|-2|D3|If attacking a VEHICLE, D6 Damage|
 
 2x Arc Claw **(*4pt*)**:
 
