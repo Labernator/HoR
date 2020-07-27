@@ -234,7 +234,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier
 
-### Total Points (184)
+### Total Points (197)
 => 49 + 20 + 32 + 26 + 22 + 13 + 35 = 197
 
 ### Keywords (13)
