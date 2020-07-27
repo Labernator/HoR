@@ -11,7 +11,7 @@ Stefan - Astra Militarium
 ## Team Blue (Pro-Secession)
 
 Kai - Adeptus Mechanicus
-[Kill Team Roster](https://github.com/Labernator/HoR/blob/master/Players/Kai/AdeptusMechanicus_initial.md)
+[Kill Team Roster](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Fortalessa%20Intervention%20(Herbst%202019)/Rosters/Adeptus%20Mechanicus%20Kill%20Team.md)
 
 Aaron - Tau Empire
-[Kill Team Roster](/Players/Aaron/tau-crisis_initial.md) 
+[Kill Team Roster](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Fortalessa%20Intervention%20(Herbst%202019)/Rosters/Tau%20Empire%20Kill%20Team.md) 
