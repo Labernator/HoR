@@ -1,5 +1,5 @@
 
-# Holy Warriors of the one God
+# Gods Army
 
 ### Kill Team Special Rules:
 **<Order>**
@@ -65,12 +65,12 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 
 **Equipment**
  
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| Boltgun | Rapid Fire 1 | 24 | 4 | 1 | 0 | ? | 0 |
-| Blessed Blade | Melee | ? | +2 | D3 | 3 | ? | 9 |
-| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
-| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Boltgun | Rapid Fire 1 | 24 | 4 | 0 | 1 | ? | 0 |
+| Blessed Blade | Melee | ? | +2 | 3 | D3 | ? | 9 |
+| Frag Grenade | Grenade D6 | 6 | 3 | 0 | 1 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | 1 | D3 | ? | 0 |
 
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Character, Canoness Regular
@@ -94,17 +94,17 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
  
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| Boltgun | Rapid Fire 1 | 24 | 4 | 1 | 0 | ? | 0 |
-| Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
-| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
-| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Boltgun | Rapid Fire 1 | 24 | 4 | 0 | 1 | ? | 0 |
+| Bolt Pistol | Pistol 1 | 12 | 4 | 0 | 1 | ? | 0 |
+| Frag Grenade | Grenade D6 | 6 | 3 | 0 | 1 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | 1 | D3 | ? | 0 |
 
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Celestian
  
-#### 2x Celestian [Heavy] (10+14 * 2 = 48)
+#### 2x Celestian [Flamers] (10+6 * 2 = 32)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -121,17 +121,17 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
  
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| Heavy Flamer | Heavy D6 | 8 | 5 | 1 | 1 | auto hits | 14 |
-| Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
-| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
-| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Flamer | Assault D6 | 8 | 4 | 0 | 1 | auto hits | 6 |
+| Bolt Pistol | Pistol 1 | 12 | 4 | 0 | 1 | ? | 0 |
+| Frag Grenade | Grenade D6 | 6 | 3 | 0 | 1 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | 1 | D3 | ? | 0 |
 
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Celestian
 
-#### Ministorum Crusader (9+4 = 13)
+#### 2x Ministorum Crusader (9+4*2 = 26)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -147,9 +147,9 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
  
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| Power Sword | Melee | - | user | 1 | 3 | ? | 4 |
+| Power Sword | Melee | - | user | 3 | 1 | ? | 4 |
 
 **Keywords**
 > Imperium, Adeptus Ministorum, Infantry, Crusader
@@ -195,11 +195,11 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
  
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| 2x Hand Flamer | Pistol D6 | 6 | 3 | 1 | 0 | auto hits | 2 |
-| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
-| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| 2x Hand Flamer | Pistol D6 | 6 | 3 | 0 | 1 | auto hits | 2 |
+| Frag Grenade | Grenade D6 | 6 | 3 | 0 | 1 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | 1 | D3 | ? | 0 |
 
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Jump, Fly, Seraphim
@@ -224,19 +224,18 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
  
 **Equipment**
 
-| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| Shard | Rapid Fire 1 | 24 | 4 | 2 | 1 | ? | 0 |
-| Bolt Pistol | Pistol 1 | 12 | 4 | 1 | 1 | ? | 0 |
-| Frag Grenade | Grenade D6 | 6 | 3 | 1 | 0 | ? | 0 |
-| Krag Grenade | Grenade 1 | 6 | 6 | D3 | 1 | ? | 0 |
+| Shard | Rapid Fire 1 | 24 | 4 | 1 | 2 | ? | 0 |
+| Bolt Pistol | Pistol 1 | 12 | 4 | 0 | 1 | ? | 0 |
+| Frag Grenade | Grenade D6 | 6 | 3 | 0 | 1 | ? | 0 |
+| Krag Grenade | Grenade 1 | 6 | 6 | 1 | D3 | ? | 0 |
 
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier
 
-### 
-
-# ===>>> 49 + 20 + 48 + 13 + 22 + 13 + 35 = 200
+### Total Points (197)
+=> 49 + 20 + 32 + 26 + 22 + 13 + 35 = 197
 
 ### Keywords (13)
 Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier, Jump, Fly, Seraphim, Adeptus Ministorum, Crusader, Character, Canoness Regular, Celestian
@@ -245,8 +244,8 @@ Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier, Jump, Fly, Seraphim, A
 World on Fire (+2TP)
 > Every model that can take a flame weapon has a flame weapon (flamer, combi-flamer, hand flamer, heavy flamer and the Widowmaker are flame weapons)
 
-#### Tactical Points
+### Tactical Points (2+3 = 5)
 + Destined For Greatness: Include a team leader (+1)
 + Death And Diversity: 8 different keywords (+1)
 + Bound By Experience: all models in your team share at least one non-faction keyword => Infantry (+1)
-### => 5
+
