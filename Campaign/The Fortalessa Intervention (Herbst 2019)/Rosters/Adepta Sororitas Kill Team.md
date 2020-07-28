@@ -104,7 +104,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Celestian
  
-#### 2x Celestian [Flamers] (10+6 * 2 = 32)
+#### 2x Celestian [Flamers] (10+14 * 2 = 48)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -123,7 +123,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 
 | Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
 | - | - | - | - | - | - | - | - |
-| Flamer | Assault D6 | 8 | 4 | 0 | 1 | auto hits | 6 |
+| Heavy Flamer | Heavy D6 | 8 | 5 | 1 | 1 | auto hits | 14 |
 | Bolt Pistol | Pistol 1 | 12 | 4 | 0 | 1 | ? | 0 |
 | Frag Grenade | Grenade D6 | 6 | 3 | 0 | 1 | ? | 0 |
 | Krag Grenade | Grenade 1 | 6 | 6 | 1 | D3 | ? | 0 |
@@ -131,7 +131,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Celestian
 
-#### 2x Ministorum Crusader (9+4*2 = 26)
+#### Ministorum Crusader (9+4 = 13)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -235,7 +235,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 > Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier
 
 ### Total Points (197)
-=> 49 + 20 + 32 + 26 + 22 + 13 + 35 = 197
+=> 49 + 20 + 48 + 13 + 22 + 13 + 35 = 200
 
 ### Keywords (13)
 Imperium, Adepta Sororitas, <Order>, Infantry, Imagifier, Jump, Fly, Seraphim, Adeptus Ministorum, Crusader, Character, Canoness Regular, Celestian
