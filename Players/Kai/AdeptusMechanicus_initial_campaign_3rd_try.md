@@ -31,7 +31,7 @@
 
 ## Resulting to *6* TP
 
-## Summary cost 100 + 98 = **198pt**
+## Summary cost 100 + 54 + 36 = **190pt**
 
 ## The Team
 
@@ -54,7 +54,7 @@ Master of Machines (Dominus - At the end of the movement phase the unit can repa
 Noospheric Fulcrum (Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase)    
 Magos Retiarius (Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.)    
 Heavy Armature Legs (This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**   
-Lex-hailer (Increase all auro effect range by 3") **(*8pt*)**
+Lex-hailer (Increase all aura effect range by 3") **(*8pt*)**
 Gains XP     
 
 #### Weapon
@@ -82,7 +82,7 @@ Volkite blaster **(*8pt*)**
 Ballistic mechadendrite (-1BS for this weapon, is can shoot the equipped weapon during fallback) **(*5pt*)**   
 Combi-Plasma **(*11pt*)**   
 
-Both proviles can be shot but for the to hil roll -1 has to be applied.   
+Both profiles can be shot but for the to hil roll -1 has to be applied.   
 Supercharge is not the third profile.   
 
 |Mode|Range|Type|S|AP|D|Abilities|
@@ -97,33 +97,66 @@ Supercharge is not the third profile.
 
 ***15pt*** each   
 
-INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
+INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR   
 
 |M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|4+|5|4|3|2|7|3+|6++|
+|6"|4+|4+|5|5|3|2|7|3+|6++|
 
 #### Rules
 
 Canticles of the omnisiah   
 Bionics (6++ Inv save)   
 Heavy Battle Servitor (This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3)   
-Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used - already applied to stats above)   
+Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
 Heavy Tracks (Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
 
 #### Equipment
 
-2x Heavy Grav-Cannon **(*30pt*)**:
+2x Heavy Arc Rifle **(*8pt*)**:
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
-|30"|Heavy 5|5|-3|1|f the target has a Save characteristic of 3+ or better, this weapon has a Damage characteristic of D3.|
+|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE D6 damage.|
 
 2x Arc Claw **(*4pt*)**:
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|Melee|Melee|+1|-1|1||
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|+1|-1|1|&nbsp;|
 
-#### Cost 2x 15 + 2x 30 + 2x 4 = 98pt
+#### Cost 2x 15 + 2x 8 + 2x 4 = 54pt
 
+
+### 2x Sciarian Infiltrator
+
+***12pt*** each   
+
+INFANTRY, SKITARII, SICARIAN   
+
+|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|8"|3+|3+|4|3|2|3|6|4+|6++|
+
+#### Rules
+
+Canticles of the omnisiah   
+Bionics (6++ Inv save)   
+Infiltrators -Sicarian Infiltrators- (During deployment, you can place this unit up in concealment istead of placing it on the batlefild. At the end of any of your Movemnt phase, this unit can reval its location – set i up anywher on the batlefild that is more than 9" from any enemy model.)   
+Neurostatic Aura (Enemy units within 3" af any infiltrator must substract 1 from their leadership)   
+
+#### Equipment
+
+2x Power sword **(*4pt*)**:
+
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|User|-3|1|&nbsp;|
+
+2x Stubcarbine **(*2pt*)**:
+
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|18"|Pistol 3|4|0|1|&nbsp;|
+
+#### Cost 2x 12 + 2x 4 + 2x 2 = 36pt
