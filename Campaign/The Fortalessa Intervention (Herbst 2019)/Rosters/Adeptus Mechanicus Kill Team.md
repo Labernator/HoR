@@ -1,32 +1,26 @@
 
-# Kill-Team
-
-Based on Build 18 excel sheet
+# Adeptus Mechanicus Kill-Team
 
 ## Forgeworld
-
-**Gryphonne IV - The lost Forge**
-
-### Forgeworld dogma
 
 |Name|Ability|
 |:---|:---|
 |Agripinaa – Staunch Defenders|Overwatch hits on a 5+|
 
-*All models except of the Hoplites are Forgeworld models.*
-
 ### Adeptus mechanicus special rules
 
 |Name|Ability|
 |:---|:---|
-|Soldiers of the Machine God|All troop units within range of a objective marker controls the marker. Even if there are more enemy models within range of the same marker|
+|Soldiers of the Machine God|All troop units within range of a objective marker controls the marker. Even if there are more enemy models within range of the same marker.|
 
 ### Tactic points
 
 |Name|TP|
 |:---|:---|
-|Destined for Greatness|+1|
-|Bound by experience|+1|
+|Destined for greatness|+1|
+|Mind the boat|+1|
+|Bound by Experience|+1|
+|Herohammer|+1|
 |Death and Diversity|+1|
 
 ### Philosophy
@@ -35,130 +29,75 @@ Based on Build 18 excel sheet
 |:---|:---|
 |Foot soldiers of the machine good|+1|
 
-## Resulting to *4* TP
+## Resulting to *6* TP
 
-## Summary cost **200**
+## Summary cost 100 + 54 + 36 = **190pt**
 
 ## The Team
 
-### Dorox Exilon (32 delta phi 1) - Scitarii Regulus - Leader
+### Leader - Tech Priest Procurator
 
-***32pt***
+***55pt***   
 
-INFANTRY, CHARACTER, SKITARII, REGULUS, SKITARII VANGUARD 
+INFANTRY, CHARACTER, TECHPRIEST, PROCURATOR, CULT MECHANICUS, MAGOS RETIARIUS   
 
 |M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|3+|3+|3|3|3|2|8|4+|6++|
+|6"|4+|3+|4|4|4|3|8|3+|5++|
 
 #### Rules
 
 Inspiring Presence (use leadership within 6" of the leader)   
-Canticles of the omnisiah   
-Bionics (6++ Inv Sv)   
-Veteran Skitarius (Friendly SKITARII / SCIARIAN models within 6" may reroll hit rolls of 1 in the shooting phase)   
-Radiant Aura (Reduce enemy Toughness by 1 (non VEHICLE) within 6", does not stack with Rad-Saturation)   
-Lex-Hailer (Add 3" to any of this units aura abilities) **(*8pt*)**  
+Canticles of the omnissiah    
+Advanced Bionics (5++ Inv Sv)   
+Master of Machines (Dominus - At the end of the movement phase the unit can repair a friendly FORGEWORLD unit within 3" (not himself), it regains D3 wounds. Only once per turn.)    
+Noospheric Fulcrum (Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase)    
+Magos Retiarius (Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.)    
+Heavy Armature Legs (This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**   
+Lex-hailer (Increase all aura effect range by 3") **(*8pt*)**
 Gains XP     
 
-#### Equipment
+#### Weapon
 
-Phosphor Blaster **(*8pt*)**:
+Omnissian Axe **(*0pt*)**   
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|24"|Rapid fire 1|5|-1|1|Units attacked by this weapon do not gain any bonus to their saving throws for being in cover.|
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|+1|-2|2|&nbsp;|
 
-Arc maul **(*5pt*)**
+Ballistic mechadendrite (no -1BS) **(*0pt*)**   
+Volkite blaster **(*8pt*)**   
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Melee|&nbsp;|Melee|+2|-1|1|When attacking VEHICLE, D=D3|
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|24"|Heavy 3|6|0|1|Each time you make a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.|
 
-#### Cost 45pt
+Ballistic mechadendrite (no -1BS) **(*0pt*)**   
+Volkite blaster **(*8pt*)**   
 
-### 2x 32 delta 1 - Secutarii Hoplites
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|24"|Heavy 3|6|0|1|Each time you make a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.|
 
-***9pt*** each   
+Ballistic mechadendrite (-1BS for this weapon, is can shoot the equipped weapon during fallback) **(*5pt*)**   
+Combi-Plasma **(*11pt*)**   
 
-INFANTRY, SECUTARII, HOPLITES
-
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|3+|3+|3|3|1|1|6|4+|4++/5++|
-
-#### Rules
-
-Canticles of the omnisiah  
-Kyropatris field Generator (5++ Inv Sv)  
-Titan Guard (Does not gain the Forgeworld Dogma benefit)  
-
-#### Equipment
-
-2x Arc lance **(*0pt*)**:
+Both profiles can be shot but for the to hil roll -1 has to be applied.   
+Supercharge is not the third profile.   
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Melee|&nbsp;|Melee|+3|-1|1|When attacking VEHICLE, D=D3|
-|Shooting|12"|Assault 1|6|-1|1|When attacking VEHICLE, D=D3|
+|Boltgun|24"|Rapid fire 1|5|0|1|&nbsp;|
+|Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
+|Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
 
-2x Mag-Inverter shield (4++ InvSv against melee attacks; On saving roll of 6+ the attacker suffers one mortal wound) **(*0pt*)**
-
-#### Cost 18pt
-
-### 5x 27 delta - Skitarii Vanguard
-
-***8pt*** each   
-
-INFANTRY, SKITARII, SKITARII VANGUARD
-
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|3+|3|3|1|1|6|4+|6++|
-
-#### Rules
-
-Canticles of the omnisiah  
-Bionics (6++ Inv Sv)  
-Rad-Saturation (enemy within 1" gain -1T)  
-
-#### Equipment
-
-3x Radium carbine **(*0pt*)**:
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|18"|Assault 3|3|0|1|On wound of D6=6+ the hit inflicts 2 damage instead of 1|
-
-##### Tyba Ix - 27 delta 3 - Skitarii Vanguard 
-
-Plasma caliver **(*14pt*)**:
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
-
-Omnispex (Enemy unit has no shooting cover benefit on its save roll, for all friendly units within 6") **(*7pt*)**  
-
-Gains XP   
-
-##### Rho Ar - 27 delta 5 - Skitarii Vanguard
-
-Plasma caliver **(*14pt*)**:
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|18"|Assault 2|7|-3|1|Supercharge possible (S8 D2, on hit roll of D6=1 the bearer is slain after all shots have been resolved)|
-
-Gains XP   
-
-#### Cost 68pt
+#### Cost 55 + 5 + 8 + 8 + 8 + 5 + 11 = 100pt
 
 ### 2x Kataphron Battle Servitor
 
 ***15pt*** each   
 
-INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
+INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR   
 
 |M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -176,14 +115,48 @@ Heavy Tracks (Ignore distance penality when moving, charging, or advancing throu
 
 2x Heavy Arc Rifle **(*8pt*)**:
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|36"|Heavy 2|6|-2|D3|If attacking a VEHICLE, D6 Damage|
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE D6 damage.|
 
 2x Arc Claw **(*4pt*)**:
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|Melee|Melee|+1|-1|1||
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|+1|-1|1|&nbsp;|
 
-#### Cost 54pt
+#### Cost 2x 15 + 2x 8 + 2x 4 = 54pt
+
+
+### 2x Sciarian Infiltrator
+
+***12pt*** each   
+
+INFANTRY, SKITARII, SICARIAN   
+
+|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|8"|3+|3+|4|3|2|3|6|4+|6++|
+
+#### Rules
+
+Canticles of the omnisiah   
+Bionics (6++ Inv save)   
+Infiltrators -Sicarian Infiltrators- (During deployment, you can place this unit up in concealment istead of placing it on the batlefild. At the end of any of your Movemnt phase, this unit can reval its location – set i up anywher on the batlefild that is more than 9" from any enemy model.)   
+Neurostatic Aura (Enemy units within 3" af any infiltrator must substract 1 from their leadership)   
+
+#### Equipment
+
+2x Power sword **(*4pt*)**:
+
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|User|-3|1|&nbsp;|
+
+2x Stubcarbine **(*2pt*)**:
+
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|18"|Pistol 3|4|0|1|&nbsp;|
+
+#### Cost 2x 12 + 2x 4 + 2x 2 = 36pt
