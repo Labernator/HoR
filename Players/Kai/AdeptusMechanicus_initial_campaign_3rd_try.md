@@ -31,7 +31,7 @@
 
 ## Resulting to *6* TP
 
-## Summary cost 105 + 27 + 67 = **199pt**
+## Summary cost 100 + 98 = **198pt**
 
 ## The Team
 
@@ -52,23 +52,18 @@ Canticles of the omnissiah
 Advanced Bionics (5++ Inv Sv)   
 Master of Machines (Dominus - At the end of the movement phase the unit can repair a friendly FORGEWORLD unit within 3" (not himself), it regains D3 wounds. Only once per turn.)    
 Noospheric Fulcrum (Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase)    
-Magos Retiarius (Gains two ballistic mechadendrites without -1BS penality (allready applied to profile above). Increases 1BS in general.)    
-Lex hailer (all aura are increased by 3") **(*8pt*)**    
+Magos Retiarius (Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.)    
+Heavy Armature Legs (This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**   
+Lex-hailer (Increase all auro effect range by 3") **(*8pt*)**
 Gains XP     
 
-#### Equipment
+#### Weapon
 
 Omnissian Axe **(*0pt*)**   
 
 |Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|
 |Melee|+1|-2|2|&nbsp;|
-
-Combat mechadendrite **(*5pt*)**   
-
-|S|AP|D|Abilities|
-|:---|:---|:---|:---|
-|User|0|1|2 additional attacks done with this mechadendrite, an addition of an melee weapon is possible|
 
 Ballistic mechadendrite (no -1BS) **(*0pt*)**   
 Volkite blaster **(*8pt*)**   
@@ -78,110 +73,57 @@ Volkite blaster **(*8pt*)**
 |24"|Heavy 3|6|0|1|Each time you make a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.|
 
 Ballistic mechadendrite (no -1BS) **(*0pt*)**   
-Phosphor serpenta **(*6pt*)**   
+Volkite blaster **(*8pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
-|18"|Assault 3|5|-3|1|Units attacked by this weapon do not gain any bonus to their saving throws for being in cover.|
+|24"|Heavy 3|6|0|1|Each time you make a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.|
 
-Scorpius mechadendrite (Same as ballistic mechadendrite with -1BS, is can shoot the equipped weapon on units fallback) **(*12pt*)**   
+Ballistic mechadendrite (-1BS for this weapon, is can shoot the equipped weapon during fallback) **(*5pt*)**   
 Combi-Plasma **(*11pt*)**   
 
-It is possible to choose both of the profiles, but you have to substract 1 for all hit rolls of this weapon.  
-Supercharged is not a third profile.   
+Both proviles can be shot but for the to hil roll -1 has to be applied.   
+Supercharge is not the third profile.   
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Boltgun|24"|Rapid Fire 1|5|0|1|&nbsp;|
-|Plasma gun|24"|Rapid Fire 1|7|-3|1|&nbsp;|
-|Plasma gun supercharged|24"|Rapid Fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
+|Boltgun|24"|Rapid fire 1|5|0|1|&nbsp;|
+|Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
+|Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
 
-#### Cost 55 + 8 + 5 + 8 + 6 + 12 + 11 = 105pt
+#### Cost 55 + 5 + 8 + 8 + 8 + 5 + 11 = 100pt
 
-### Kataphron Battle Servitor
+### 2x Kataphron Battle Servitor
 
-***15pt***   
+***15pt*** each   
 
-INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR   
+INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 
 |M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|4+|5|5|3|2|7|3+|6++|
+|6"|4+|4+|5|4|3|2|7|3+|6++|
 
 #### Rules
 
-Canticles of the omnissiah   
+Canticles of the omnisiah   
 Bionics (6++ Inv save)   
 Heavy Battle Servitor (This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3)   
-Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
+Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used - already applied to stats above)   
 Heavy Tracks (Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
-Gains XP     
 
 #### Equipment
 
-Heavy Arc Rifle **(*8pt*)**   
+2x Heavy Grav-Cannon **(*30pt*)**:
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
-|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE, D6 Damage|
+|30"|Heavy 5|5|-3|1|f the target has a Save characteristic of 3+ or better, this weapon has a Damage characteristic of D3.|
 
-Arc Claw **(*4pt*)**   
-
-|S|AP|D|Abilities|
-|:---|:---|:---|:---|
-|+1|-1|1|&nbsp;|
-
-#### Cost 15 + 8 + 4 = 27pt
-
-### Techpriest Auctoris
-
-***30pt***
-
-INFANTRY, TECHPRIEST, AUCTORIS, CULT MECHANICUS, MAGOS BIOLOGIS    
-
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|4+|4|4|2|2|7|3+|5++|
-
-#### Rules
-
-Magos Biologis: Friendly <FORGEWORLD> units within 6” of this model re- roll 1’s to wound.   
-Bionics (6++ Inv save)   
-Lex hailer (all aura are increased by 3") **(*8pt*)**    
-Gains XP     
-
-#### Equipment
-
-Omnissian Axe **(*0pt*)**   
-
-|S|AP|D|Abilities|
-|:---|:---|:---|:---|
-|+1|-2|2|&nbsp;|
-
-Plasma pistol **(*5pt*)**   
+2x Arc Claw **(*4pt*)**:
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|&nbsp;|12"|Pistol 1|7|-3|1|&nbsp;|
-|Supercharge|12"|Pistol 1|8|-3|2|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
+|&nbsp;|Melee|Melee|+1|-1|1||
 
-Ballistic mechadendrite (-1BS) **(*5pt*)**    
-Phosphor serpenta **(*6pt*)**    
-
-|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|
-|18"|Assault 3|5|-3|1|&nbsp;|
-
-Ballistic mechadendrite (-1BS) **(*5pt*)**   
-Combi-Flamer **(*8pt*)**   
-
-It is possible to choose both of the profiles, but you have to substract 1 for all hit rolls of this weapon.   
-Supercharged is not a third profile.   
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Boltgun|24"|Rapid Fire 1|4|0|1|&nbsp;|
-|Flamer|8"|Assault D6|4|0|1|Automatically hits|
-
-#### Cost 30 + 8 + 5 + 5 + 6 + 5 + 8 = 67pt
+#### Cost 2x 15 + 2x 30 + 2x 4 = 98pt
 
