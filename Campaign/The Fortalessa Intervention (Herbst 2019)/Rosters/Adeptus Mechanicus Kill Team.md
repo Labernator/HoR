@@ -31,7 +31,7 @@
 
 ## Resulting to *6* TP
 
-## Summary cost 100 + 54 + 36 = **200pt**
+## Summary cost 102 + 54 + 40 = **196pt**
 
 ## The Team
 
@@ -54,7 +54,6 @@ Master of Machines (Dominus - At the end of the movement phase the unit can repa
 Noospheric Fulcrum (Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase)    
 Magos Retiarius (Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.)    
 Heavy Armature Legs (This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**   
-Lex-hailer (Increase all aura effect range by 3") **(*8pt*)**   
 Medicae Mechadendrite (At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**   
 Gains XP    
 
@@ -92,7 +91,7 @@ Supercharge is not the third profile.
 |Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
 |Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
 
-#### Cost 55 + 5 + 8 + 8 + 8 + 5 + 11 = 100pt
+#### Cost 55 + 5 + 10 + 8 + 8 + 5 + 11 = 102pt
 
 ### 2x Kataphron Battle Servitor
 
@@ -128,36 +127,36 @@ Heavy Tracks (Ignore distance penality when moving, charging, or advancing throu
 
 #### Cost 2x 15 + 2x 8 + 2x 4 = 54pt
 
+## Tech Priest Auctoris
 
-### 2x Sciarian Infiltrator
+***30pt***   
 
-***12pt*** each   
-
-INFANTRY, SKITARII, SICARIAN   
+INFANTRY, TECHPRIEST, AUCTORIS, CULT MECHANICUS, MAGOS BIOLOGIS   
 
 |M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|8"|3+|3+|4|3|2|3|6|4+|6++|
+|6"|4+|4+|4|4|2|2|7|3+|6++|
 
-#### Rules
+### Rules
 
-Canticles of the omnisiah   
-Bionics (6++ Inv save)   
-Infiltrators -Sicarian Infiltrators- (During deployment, you can place this unit up in concealment istead of placing it on the batlefild. At the end of any of your Movemnt phase, this unit can reval its location – set i up anywher on the batlefild that is more than 9" from any enemy model.)   
-Neurostatic Aura (Enemy units within 3" af any infiltrator must substract 1 from their leadership)   
+Magos Biologis (reroll 1‘s to wound)   
+Canticles of the Onissiah   
+Bionics (6++ inv)   
+Medicae Mechadendrite **(*10pt*)**   
+Gains XP   
 
-#### Equipment
+### Weapon
 
-2x Power sword **(*4pt*)**:
+Omnissian Axe **(*0pt*)**   
 
 |Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|
-|Melee|User|-3|1|&nbsp;|
+|Melee|+1|-2|2|&nbsp;|
 
-2x Stubcarbine **(*2pt*)**:
+Arc Pistol **(*3pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
-|18"|Pistol 3|4|0|1|&nbsp;|
+|12"|Pistol 1|6|-1|1|When attacking a VEHICLE, this weapon has a Damage of D3.|
 
-#### Cost 2x 12 + 2x 4 + 2x 2 = 36pt
+### Cost 30 + 10 + 3 + 40pt
