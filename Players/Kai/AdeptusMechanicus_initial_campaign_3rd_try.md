@@ -31,7 +31,7 @@
 
 ## Resulting to *6* TP
 
-## Summary cost 100 + 54 + 36 = **190pt**
+## Summary cost 100 + 54 + 36 = **200pt**
 
 ## The Team
 
@@ -54,8 +54,9 @@ Master of Machines (Dominus - At the end of the movement phase the unit can repa
 Noospheric Fulcrum (Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase)    
 Magos Retiarius (Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.)    
 Heavy Armature Legs (This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**   
-Lex-hailer (Increase all aura effect range by 3") **(*8pt*)**
-Gains XP     
+Lex-hailer (Increase all aura effect range by 3") **(*8pt*)**   
+Medicae Mechadendrite (At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**   
+Gains XP    
 
 #### Weapon
 
@@ -87,7 +88,7 @@ Supercharge is not the third profile.
 
 |Mode|Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|:---|
-|Boltgun|24"|Rapid fire 1|5|0|1|&nbsp;|
+|Boltgun|24"|Rapid fire 1|4|0|1|&nbsp;|
 |Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
 |Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
 
