@@ -80,7 +80,7 @@ Volkite blaster **(*8pt*)**
 |:---|:---|:---|:---|:---|:---|
 |24"|Heavy 3|6|0|1|Each time you make a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.|
 
-Ballistic mechadendrite (-1BS for this weapon, is can shoot the equipped weapon during fallback) **(*5pt*)**   
+Ballistic mechadendrite (-1BS for this weapon) **(*5pt*)**   
 Combi-Plasma **(*11pt*)**   
 
 Both profiles can be shot but for the to hil roll -1 has to be applied.   
