@@ -110,6 +110,7 @@ Bionics (6++ Inv save)
 Heavy Battle Servitor (This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3)   
 Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
 Heavy Tracks (Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
+Gain XP   
 
 #### Equipment
 
@@ -139,11 +140,10 @@ INFANTRY, TECHPRIEST, AUCTORIS, CULT MECHANICUS, MAGOS BIOLOGIS
 
 ### Rules
 
-Magos Biologis (reroll 1‘s to wound)   
+Magos Biologis (for all friendly units reroll 1‘s to wound wirhin 6")   
 Canticles of the Onissiah   
-Bionics (6++ inv)   
-Medicae Mechadendrite **(*10pt*)**   
-Gains XP   
+Bionics (6++ Inv save)   
+Medicae Mechadendrite (At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**   
 
 ### Weapon
 
