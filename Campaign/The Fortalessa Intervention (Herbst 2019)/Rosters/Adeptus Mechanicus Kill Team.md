@@ -153,10 +153,10 @@ Omnissian Axe **(*0pt*)**
 |:---|:---|:---|:---|:---|
 |Melee|+1|-2|2|&nbsp;|
 
-Arc Pistol **(*3pt*)**   
+Laspistol **(*0pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
-|12"|Pistol 1|6|-1|1|When attacking a VEHICLE, this weapon has a Damage of D3.|
+|12"|Pistol 1|3|0|1|&nbsp;|
 
-### Cost 30 + 10 + 3 + 40pt
+### Cost 30 + 10 = 40pt
