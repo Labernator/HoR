@@ -27,9 +27,9 @@
 
 |Name|TP|
 |:---|:---|
-|Foot soldiers of the machine good|+1|
+|A More Subtle Touch|+2|
 
-## Resulting to *6* TP
+## Resulting to *7* TP
 
 ## Summary cost 102 + 54 + 40 = **196pt**
 
