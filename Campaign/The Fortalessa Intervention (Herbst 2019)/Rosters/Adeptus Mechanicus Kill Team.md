@@ -18,7 +18,6 @@
 |Name|TP|
 |:---|:---|
 |Destined for greatness|+1|
-|Mind the boat|+1|
 |Bound by Experience|+1|
 |Herohammer|+1|
 |Death and Diversity|+1|
@@ -29,9 +28,9 @@
 |:---|:---|
 |A More Subtle Touch|+2|
 
-## Resulting to *7* TP
+## Resulting to *6* TP
 
-## Summary cost 102 + 54 + 40 = **196pt**
+## Summary cost 102 + 54 + 42 = **198pt**
 
 ## The Team
 
@@ -143,7 +142,6 @@ INFANTRY, TECHPRIEST, AUCTORIS, CULT MECHANICUS, MAGOS BIOLOGIS
 Magos Biologis (for all friendly units reroll 1‘s to wound wirhin 6")   
 Canticles of the Onissiah   
 Bionics (6++ Inv save)   
-Medicae Mechadendrite (At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**   
 
 ### Weapon
 
@@ -153,10 +151,16 @@ Omnissian Axe **(*0pt*)**
 |:---|:---|:---|:---|:---|
 |Melee|+1|-2|2|&nbsp;|
 
+Servo Arm **(*12pt*)**   
+
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|x2|-2|3|Each servo arm can only be used to make one attack each time this model fights. When a model attacks with this weapon, you must subtract 1 from the hit roll.|
+
 Laspistol **(*0pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
 |12"|Pistol 1|3|0|1|&nbsp;|
 
-### Cost 30 + 10 = 40pt
+### Cost 30 + 12 = 42pt
