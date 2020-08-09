@@ -1,7 +1,7 @@
 ## Requisition  
 1.) Erhält jeder Spieler für sich Requisition, oder erhalten beide Spiele eines Teams immer die selbe Anzahl.  
-Jeder Spieler erhält einzelne Requisition
-{: .gitlab-orange}
+Jeder Spieler erhält einzelne Requisition  
+{: .gitlab-orange}  
 2.) Wie passen wir die Tablelle (S.3 , Campaigns PDF oben) für Multiplayer (zwei Teams mit jeweils zwei Spielern) an:  
  - Took part: Kriegt jeder Spieler  
  - Victory: Kriegt jeder Spieler  
