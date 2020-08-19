@@ -46,15 +46,17 @@ INFANTRY, CHARACTER, TECHPRIEST, PROCURATOR, CULT MECHANICUS, MAGOS RETIARIUS
 
 #### Rules
 
-Inspiring Presence (use leadership within 6" of the leader)   
-Canticles of the omnissiah    
-Advanced Bionics (5++ Inv Sv)   
-Master of Machines (Dominus - At the end of the movement phase the unit can repair a friendly FORGEWORLD unit within 3" (not himself), it regains D3 wounds. Only once per turn.)    
-Noospheric Fulcrum (Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase)    
-Magos Retiarius (Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.)    
-Heavy Armature Legs (This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**   
-Medicae Mechadendrite (At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**   
-Gains XP    
+|Rule|Description|
+|---|---|
+|Inspiring Presence|use leadership within 6" of the leader)|
+|Canticles of the omnissiah|&nbsp;|
+|Advanced Bionics|5++ Inv Sv|
+|Master of Machines|Dominus - At the end of the movement phase the unit can repair a friendly FORGEWORLD unit within 3" (not himself), it regains D3 wounds. Only once per turn.|
+|Noospheric Fulcrum|Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase|
+|Magos Retiarius|Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.|
+|Heavy Armature Legs|This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**|
+|Medicae Mechadendrite|At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**|
+|Gains XP|&nbsp;|
 
 #### Weapon
 
@@ -104,12 +106,14 @@ INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 
 #### Rules
 
-Canticles of the omnisiah   
-Bionics (6++ Inv save)   
-Heavy Battle Servitor (This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3)   
-Thermal Shed (-1T if Plasma culverine / Heavy Grav-cannon is used)   
-Heavy Tracks (Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.)   
-Gain XP   
+|Rule|Description|
+|---|---|
+|Canticles of the omnisiah|&nbsp;|
+|Bionics|6++ Inv save|
+|Heavy Battle Servitor|This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3|
+|Thermal Shed|-1T if Plasma culverine / Heavy Grav-cannon is used|
+|Heavy Tracks|Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.|
+|Gain XP|&nbsp;|
 
 #### Equipment
 
@@ -139,9 +143,11 @@ INFANTRY, TECHPRIEST, AUCTORIS, CULT MECHANICUS, MAGOS BIOLOGIS
 
 ### Rules
 
-Magos Biologis (for all friendly units reroll 1‘s to wound wirhin 6")   
-Canticles of the Onissiah   
-Bionics (6++ Inv save)   
+|Rule|Description|
+|---|---|
+|Magos Biologis|for all friendly units reroll 1‘s to wound wirhin 6"|
+|Canticles of the Onissiah|&nbsp;|
+|Bionics|6++ Inv save|
 
 ### Weapon
 
