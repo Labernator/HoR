@@ -44,7 +44,7 @@ Sacred Rites are active until the end of the battle.
 # Initial Kill Team:
 ## Team Leader
 
-#### Joan d'Arc - CANONESS REGULAR (35+9 = 44) 
+#### Johanna von Ophelia - CANONESS REGULAR (35+9 = 44) 
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -193,6 +193,9 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 **Sky Strike**
 > During deployment, you can set up this unit in the sky instead of setting it up on the battlefield. If ou do, at the end of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" away from any enemy models
  
+**Hero**
+> May gain experience
+
 **Equipment**
 
 | Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
