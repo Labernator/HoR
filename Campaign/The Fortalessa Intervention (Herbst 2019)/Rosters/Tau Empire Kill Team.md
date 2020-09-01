@@ -101,7 +101,7 @@
 
 |Name|TP|
 |:---|:---|
-|Destiny For Greatness|+3|
+|Destiny For Greatness|+1|
 |Death And Diversity|+1|
 |Boots Before Loot|+1|
-||5|
+||3|
