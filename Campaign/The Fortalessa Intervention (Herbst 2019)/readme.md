@@ -6,7 +6,7 @@ Marius - Adepta Sororitas
 [Kill Team Roster](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Fortalessa%20Intervention%20(Herbst%202019)/Rosters/Adepta%20Sororitas%20Kill%20Team.md)
 
 Stefan - Astra Militarium
-[Kill Team Roster](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Fortalessa%20Intervention%20(Herbst%202019)/Rosters/Astra%20Militarium%20Kill%20Team.md) 
+[Kill Team Roster](https://github.com/Labernator/HoR/blob/master/Campaign/The%20Fortalessa%20Intervention%20(Herbst%202019)/Rosters/Astra%20Militarium%20Kill%20Team.md#kill-team-f%C3%BCr-game-2) 
 
 ## Team Blue (Pro-Secession)
 
