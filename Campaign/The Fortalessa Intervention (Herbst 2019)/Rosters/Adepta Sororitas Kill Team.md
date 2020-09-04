@@ -263,14 +263,14 @@ Ministorum Crusader - Died a martyr
 Took part: 20  
 Victory: 10  
 First Blood: 5  
-6 Victory Point: 30 (1x First Strike, 1x Forward Rush, 6x Objective)  
-=> 65
+7 Victory Point: 35 (1x First Strike, 1x Forward Rush, 6x Objective)  
+=> 70
 
 ### XP
  
-Loki: +3 (all kills) +2 (Victory points) = 5 => Kauft Battle Honor "Master Blaster"
-Johanna: +1 (survival)
-Longina: +1 (survival)
+Loki: +3 (all kills) +1 (took part) +1 (Victory points) = 5 => Kauft Battle Honor "Master Blaster"
+Johanna: +1 (survival) +1 (took part) = 2
+Longina: +1 (survival) +1 (took part) = 2
 
 ### Lottery
 
@@ -282,4 +282,4 @@ Got this hot piece of holy redemption:
 
 ### Spending Requisition
 
-45 to spend
+50 to spend
