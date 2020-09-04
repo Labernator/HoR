@@ -252,3 +252,17 @@ World on Fire (+2TP)
 + Death And Diversity: 8 different keywords (+1)
 + Bound By Experience: all models in your team share at least one non-faction keyword => Infantry (+1)
 
+## Postgame Sequence - Game 1
+
+### Death and injury:
+
+Ministorum Crusader - Died a martyr 
+
+### Requisition
+
+Took part: 20
+Victory: 10
+First Blood: 5
+8 Victory Point: 40 (1x First Strike, 1x Forward Rush, 6x Objective)
+=> 75
+
