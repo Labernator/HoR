@@ -200,6 +200,9 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 
 **Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike / Hero**
 
+**Master Blaster**
+> When shooting a weapon that has a random number of attacks, roll an additional die (of the same type as the weapon profile specifies, d3 or d6) and choose the highest.
+
 **Equipment**
 
 | Name | Type | Rng | Str | AP | Dmg | Rule | Pts |
