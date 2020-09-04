@@ -21,7 +21,6 @@
 |Bound by Experience|+1|
 |Herohammer|+1|
 |Death and Diversity|+1|
-|Played scenario|+1|
 
 ### Philosophy
 
@@ -29,9 +28,9 @@
 |:---|:---|
 |A More Subtle Touch|+2|
 
-## Resulting to *7* TP
+## Resulting to *6* TP
 
-## Summary cost 102 + 54 + 58 +14 r= **228pt**
+## Summary cost 102 + 54 + 42 = **198pt**
 
 ## The Team
 
@@ -170,41 +169,31 @@ Laspistol **(*0pt*)**
 |:---|:---|:---|:---|:---|:---|
 |12"|Pistol 1|3|0|1|&nbsp;|
 
-Ballistic mechadendrite (-1BS for this weapon) **(*5pt*)**   
-Combi-Plasma **(*11pt*)**   
+### Cost 30 + 12 = 42pt
 
-Both profiles can be shot but for the to hil roll -1 has to be applied.   
-Supercharge is not the third profile.   
+# Aftergame procedure
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Boltgun|24"|Rapid fire 1|4|0|1|&nbsp;|
-|Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
-|Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
+No units lost   
++1TP   
 
-### Cost 30 + 12 + 5 + 11 = 58pt
+## Requisition points
 
-## Corpuscarii Electro-Priest
++20 Took part   
++10 Considerate commander   
 
-**(*14pt*)**
+## XP
 
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|3+|3|3|1|2|8|6+|5++|
+Servitor 1: +1 took part; +1 alive   
+Servitor 2: +1 kill; +1 took part; +1 alive   
+Leader: +1 kill; +1 took part; +1 alive   
 
-### Rules
+## Buy/Sell
 
-Canticles of the omnisiah  
-Fanatical Devotion (If the priest receives a wound roll a D6, on 5+ the wound is discarded - troll like)  
-Voltagheist Field (5++ InvSv; If the priest charges a enemy unit, the target has do roll a D6, on 6 the target model suffers a mortal wound)  
+For the Techpriest auctoris:   
+\Ballistic mechadendrite **5pt**   
+Combi Plasma **11pt**   
 
-### Equipment
+Corpuscarii Electro-Priest **14pt**
+\Electrostatic Gaunlets **0pt**
 
-Electrostatic gauntlets **(*0pt*)**   
 
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Melee||Melee|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
-|Shooting|12"|Assault 3|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
-
-### Cost 14pt
