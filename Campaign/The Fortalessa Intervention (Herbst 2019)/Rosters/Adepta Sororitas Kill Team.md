@@ -179,7 +179,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Jump, Fly, Seraphim
 
-#### Seraphim [Righteous Fire] (11+2)
+#### Loki - Seraphim (11+2)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -208,7 +208,7 @@ ability to Advance. It cannot do anything else. It can be moved and targeted fre
 > Imperium, Adepta Sororitas, <Order>, Infantry, Jump, Fly, Seraphim
 
 ## Special
-#### Imagifier (30+5 = 35)
+#### Longina - Imagifier (30+5 = 35)
 
 | M | WS | BS | S | T | W | A | LD | Save |
 | - | - | - | - | - | - | - | - | - |
@@ -263,6 +263,23 @@ Ministorum Crusader - Died a martyr
 Took part: 20  
 Victory: 10  
 First Blood: 5  
-8 Victory Point: 40 (1x First Strike, 1x Forward Rush, 6x Objective)  
-=> 75
+6 Victory Point: 30 (1x First Strike, 1x Forward Rush, 6x Objective)  
+=> 65
 
+### XP
+ 
+Loki: +3 (all kills) +2 (Victory points) = 5 => Kauft Battle Honor "Master Blaster"
+Johanna: +1 (survival)
+Longina: +1 (survival)
+
+### Lottery
+
+Got this hot piece of holy redemption:
+
+| Name | Type | Rng | Str | Dmg | AP | Rule | Pts |
+| - | - | - | - | - | - | - | - |
+| Boondock Beretta | Pistol 1 | 12 | 6 | D3 | 3 | to-Hit rolls of 6 wound automatically | 20 |
+
+### Spending Requisition
+
+45 to spend
