@@ -283,3 +283,7 @@ Got this hot piece of holy redemption:
 ### Spending Requisition
 
 50 to spend
+
+Buy 2 Seraphim for 11 each = 28
+Buy 2 Hand Flamer for 1 Seraphim for 2 = 26
+Buy 2 Ministorum Crusader for 13 each = 0
