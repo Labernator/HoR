@@ -61,8 +61,7 @@
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Jump, Fly, Seraphim
 
-
-#### Bartleby - Seraphim (11+20 = 31)
+#### Azrael - Seraphim (11+20 = 31)
 
 **Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike**
 
@@ -75,6 +74,16 @@
 #### Loki - Seraphim (11+2)
 
 **Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike / Hero**
+
+**Equipment**
+> 2x Hand Flamer / Frag Grenade / Krag Grenade
+
+**Keywords**
+> Imperium, Adepta Sororitas, <Order>, Infantry, Jump, Fly, Seraphim
+
+#### Bartleby - Seraphim (11+2)
+
+**Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike**
 
 **Equipment**
 > 2x Hand Flamer / Frag Grenade / Krag Grenade
