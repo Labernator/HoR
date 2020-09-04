@@ -270,7 +270,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 |Laspistol|12"|Pistol 1|3|0|1||
 |Mortar|48"|Heavy D6|4|0|1|Can target units that are not visible|
 
-=> 284 Points (1 gespart)  
+=> 272 Points (1 gespart)  
 
 
 ### Tactical points  
