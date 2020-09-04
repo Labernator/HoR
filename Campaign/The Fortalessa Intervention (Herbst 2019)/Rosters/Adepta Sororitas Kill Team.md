@@ -260,9 +260,9 @@ Ministorum Crusader - Died a martyr
 
 ### Requisition
 
-Took part: 20
-Victory: 10
-First Blood: 5
-8 Victory Point: 40 (1x First Strike, 1x Forward Rush, 6x Objective)
+Took part: 20  
+Victory: 10  
+First Blood: 5  
+8 Victory Point: 40 (1x First Strike, 1x Forward Rush, 6x Objective)  
 => 75
 
