@@ -11,7 +11,8 @@
 
 #### Johanna von Ophelia - CANONESS REGULAR (35+9 = 44) 
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Guide the Faithful / Hero / Incensor Cherub**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Guide the Faithful / Hero / Incensor Cherub
 
 **Equipment**
 > Boltgun / Blessed Blade / Frag Grenade / Krag Grenade
@@ -23,7 +24,8 @@
 
 #### 2x Celestian (10+0 * 2 = 20)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Bodyguard / Sworn Protectors**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Bodyguard / Sworn Protectors
 
 **Equipment**
 > Boltgun / Bolt Pistol / Frag Grenade / Krag Grenade
@@ -33,7 +35,8 @@
  
 #### 2x Celestian (10+14 * 2 = 48)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Bodyguard / Sworn Protectors**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Bodyguard / Sworn Protectors
 
 **Equipment**
 > Heavy Flamer / Bolt Pistol / Frag Grenade / Krag Grenade
@@ -43,7 +46,8 @@
 
 #### Ministorum Crusader (9+4 = 13)
 
-**Zealot / Storm Shield / Spiritual Fortitude**
+**Rules**
+> Zealot / Storm Shield / Spiritual Fortitude
 
 **Equipment**
 > Power Sword
@@ -53,7 +57,8 @@
 
 #### 2x Seraphim (11*2 = 22)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike
 
 **Equipment**
 > 2x Bolt Pistol / Frag Grenade / Krag Grenade
@@ -63,7 +68,8 @@
 
 #### Azrael - Seraphim (11+20 = 31)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike
 
 **Equipment**
 > Boondock Beretta / Bolt Pistol / Frag Grenade / Krag Grenade
@@ -73,7 +79,8 @@
 
 #### Loki - Seraphim (11+2)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike / Hero**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike / Hero
 
 **Equipment**
 > 2x Hand Flamer / Frag Grenade / Krag Grenade
@@ -83,7 +90,8 @@
 
 #### Bartleby - Seraphim (11+2)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Angelic Visage / Sky Strike
 
 **Equipment**
 > 2x Hand Flamer / Frag Grenade / Krag Grenade
@@ -94,7 +102,8 @@
 ## Special
 #### Longina - Imagifier (30+5 = 35)
 
-**Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds / Hero**
+**Rules**
+> Acts of Faith / Shield of Faith / Sacred Rites / Litany of Deeds / Hero
  
 **Equipment**
 > Shard / Bolt Pistol / Frag Grenade / Krag Grenade 
