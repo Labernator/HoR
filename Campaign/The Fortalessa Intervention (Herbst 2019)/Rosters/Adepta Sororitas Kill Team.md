@@ -44,7 +44,7 @@
 **Keywords**
 > Imperium, Adepta Sororitas, <Order>, Infantry, Celestian
 
-#### Ministorum Crusader (9+4 = 13)
+#### 2x Ministorum Crusader (9+4 = 13)
 
 **Rules**
 > Zealot / Storm Shield / Spiritual Fortitude
