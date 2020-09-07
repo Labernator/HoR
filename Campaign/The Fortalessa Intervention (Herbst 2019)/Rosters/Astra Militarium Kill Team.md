@@ -129,22 +129,22 @@ If a modell is in range of an objective marker it controls the marker even if th
  - Linebreaker: 5
  - 8 Victory Point: 40 (1x First Strike, 1x Forward Rush, 6x Objective)
  
- 85 Requisition
- 
- - 8 Guardsmen: 32
- - 3 Plasma Gun: 21 (für drei Guardsmen)
- - Tactica Ordnance Specialist + Mortar: 20
- - Smoke Grenade: 2 (Veteran Officer)
- - Heavy Weapon Team + Mortar: 9
+85 Requisition
 
-84 verbraucht
+Sell Mortar of Heavy Weapon Team and fire the Team.  
+3 Requisition
+ 
+ - 13 Guardsmen: 52
+ - 5 Plasma Gun: 35 (für fünf Guardsmen)
+
+87 verbraucht, 1 gespart.
 
 **XP**
  - Alle drei Heroes bekommen 2 XP fürs Teilnehmen und Wegrennen errrm, überleben meine ich
 
 ### Kill Team für Game 2  
 <ins>**Leader**</ins>  
-**Veteran Officer** (30, 2XP)  
+**Veteran Officer** (28, 2XP)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -154,8 +154,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 **Refractor Field** - This model has a 5+ invulnerable save.  
 **Voice of Command** - At the start of the Shooting phase, issue an order to an **INFANTRY** model within 6". The effect radiates 3". A modell may only be affected by one order per turn.  
 **Senior Officer** - May use the Voice of Command ability twice each turn.  
-**Personal Vox** - Extends the range of the Voice of Command to 18".  
-**Smoke Grenade** - One use only. During the shooting phase, place a marker within 8" of this model. No models, friend or foe, may draw line of sight through an imaginary cloud 5" around this marker. Models can shoot in and models can shoot out. Any model even partially in the area of effect gains the benefits of cover. This lasts until the start of the user's next Movement phase.  
+**Personal Vox** - Extends the range of the Voice of Command to 18".   
 **Hero** - This model can gain XP.  
 
 <ins>*Equipment*</ins>  
@@ -167,7 +166,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 |Frag Grenade|6"|Grenade D6|3|0|1||
 
 <ins>**Core**</ins>  
-**20 Guardsmen** (je 4 = 80 + 3 Plasma guns je 7 = 21 => 101)  
+**25 Guardsmen** (je 4 = 100 + 5 Plasma guns je 7 = 35 => 135)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -200,7 +199,7 @@ If a modell is in range of an objective marker it controls the marker even if th
 |Lasgun|24"|Rapid Fire 1|3|0|1||
 |Frag Grenade|6"|Grenade D6|3|0|1||
 
-**4 Heavy Weapons Team** (je 9 = 36)  
+**2 Heavy Weapons Team** (je 9 = 18)  
 
 |M|WS|BS|S|T|W|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -254,33 +253,18 @@ If a modell is in range of an objective marker it controls the marker even if th
 |Bullgryn Maul|Melee|Melee|+2|-1|2||
 |Frag Bomb|6"|Grenade D6|4|0|1||
 
-**Tactica Ordnance Specialist** (20)  
-
-|M|WS|BS|S|T|W|A|Ld|Sv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|3+|3|3|2|1|6|5+|
-
-<ins>*Special Rules*</ins>  
-- **Augmented Gunnery** - At the beginning of the Shooting Phase, choose up to two **Regiment** infantry models with heavy weapons within 6". These re-roll hit and wound rolls of 1 for the duration of the phase.  
-
-<ins>*Equipment*</ins>  
-
-|Weapon|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Laspistol|12"|Pistol 1|3|0|1||
-|Mortar|48"|Heavy D6|4|0|1|Can target units that are not visible|
-
-=> 272 Points (1 gespart)  
+=> 268 Points (1 gespart)  
 
 
 ### Tactical points  
 **Destined For Greatness** - Include a team leader (+2)  
 **Death And Diversity** - Eight different keywords (+1)  
 **Bound By Experience** - All models share one keyword (infantry) (+1)  
+**Strength in Numbers** - Max Core (+1)
 
 **Philosophy**: Light Brigade (+2)  
 The only heavy weapon used by your kill team is a mortar.
 
-=> 6 Pts
+=> 7 Pts
 
 **Keywords** - Imperium, Astra Militarum, Infantry, Character, Veteran, Officer, Veteran Officer, Armageddon, Guardsman, Sergeant, Heavy Weapons Team, Junior Officer, Ogryn, Bullgryn, Militarum Auxilia
