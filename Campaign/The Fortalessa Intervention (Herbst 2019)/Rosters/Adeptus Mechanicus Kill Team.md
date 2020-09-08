@@ -31,7 +31,9 @@
 
 ## Resulting to *7* TP
 
-## Summary cost 102 + 54 + 58 +14 r= **228pt**
+## Summary cost 102 + 54 + 42 + 33 = **231pt**
+
+## Treasure chest: *3pt*
 
 ## The Team
 
@@ -56,7 +58,7 @@ INFANTRY, CHARACTER, TECHPRIEST, PROCURATOR, CULT MECHANICUS, MAGOS RETIARIUS
 |Noospheric Fulcrum|Friendly FORGEWORLS units may reroll hit rolls of 1 in the shooting phase|
 |Magos Retiarius|Gains two ballistic mechadendrites without the -1BS penality. Increases 1BS in general, which is already applied to the base stats above.|
 |Heavy Armature Legs|This model never suffers the penality for moving and firing heavy weapons and cannot be moved by enemy models. If the equipped model advances it must always advance D3".) **(*5pt*)**|
-|Medicae Mechadendrite|At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound.) **(*10pt*)**|
+|Medicae Mechadendrite|At the end of your Movement phase, this model can attempt to heal a model or revive a single model. Nominate a model who, when removed in the previous turn, is within 3” of the healing models’ current position, on a 4+ the model is revived with 1 wound remaining. After attempting the revive the equipped model must skip it actions for all other phases this turn. Alternatively, select a wounded model within 3”, that model immediately regains 1 wound. **(*10pt*)**|
 |Cerebral|Gains XP|
 
 #### Weapon
@@ -92,6 +94,8 @@ Supercharge is not the third profile.
 |Boltgun|24"|Rapid fire 1|4|0|1|&nbsp;|
 |Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
 |Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
+
+### XP: **3xp**
 
 #### Cost 55 + 5 + 10 + 8 + 8 + 5 + 11 = 102pt
 
@@ -130,7 +134,47 @@ INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 |:---|:---|:---|:---|:---|
 |Melee|+1|-1|1|&nbsp;|
 
+#### XP Servitor 1: **2xp**
+
+#### XP Servitor 2: **3xp**
+
 #### Cost 2x 15 + 2x 8 + 2x 4 = 54pt
+
+### Kataphron Battle Servitor (Flamer)
+
+***15pt***    
+
+INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR   
+
+|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|6"|4+|4+|5|5|3|2|7|3+|6++|
+
+#### Rules
+
+|Rule|Description|
+|---|---|
+|Canticles of the omnisiah|&nbsp;|
+|Bionics|6++ Inv save|
+|Heavy Battle Servitor|This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3|
+|Thermal Shed|-1T if Plasma culverine / Heavy Grav-cannon is used|
+|Heavy Tracks|Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.|
+
+#### Equipment
+
+Heavy Arc Rifle **(*8pt*)**:
+
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE D6 damage.|
+
+Cognis Flamer **(*10pt*)**    
+
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|8"|Assault 6|4|0|1|Autohit|The weapon automatically hits its target. In addition when firing Overwatch with this weapon, roll two dice when determining how many attacks it makes and discard the lowest result.|
+
+#### Cost 15 + 8 + 10 = 33pt
 
 ## Tech Priest Auctoris
 
@@ -158,53 +202,11 @@ Omnissian Axe **(*0pt*)**
 |:---|:---|:---|:---|:---|
 |Melee|+1|-2|2|&nbsp;|
 
-Servo Arm **(*12pt*)**   
-
-|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|
-|Melee|x2|-2|3|Each servo arm can only be used to make one attack each time this model fights. When a model attacks with this weapon, you must subtract 1 from the hit roll.|
-
 Laspistol **(*0pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
 |12"|Pistol 1|3|0|1|&nbsp;|
 
-Ballistic mechadendrite (-1BS for this weapon) **(*5pt*)**   
-Combi-Plasma **(*11pt*)**   
+### Cost 30 + 12 + 5 + 11 = 42pt
 
-Both profiles can be shot but for the to hil roll -1 has to be applied.   
-Supercharge is not the third profile.   
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Boltgun|24"|Rapid fire 1|4|0|1|&nbsp;|
-|Plasma Gun|24"|Rapid fire 1|7|-3|1|&nbsp;|
-|Plasma Gun supercharged|24"|Rapid fire 1|8|-3|1|On a hit roll of 1, the bearer is slain after all of this weapon’s shots have been resolved.|
-
-### Cost 30 + 12 + 5 + 11 = 58pt
-
-## Corpuscarii Electro-Priest
-
-**(*14pt*)**
-
-|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|6"|4+|3+|3|3|1|2|8|6+|5++|
-
-### Rules
-
-Canticles of the omnisiah  
-Fanatical Devotion (If the priest receives a wound roll a D6, on 5+ the wound is discarded - troll like)  
-Voltagheist Field (5++ InvSv; If the priest charges a enemy unit, the target has do roll a D6, on 6 the target model suffers a mortal wound)  
-
-### Equipment
-
-Electrostatic gauntlets **(*0pt*)**   
-
-|Mode|Range|Type|S|AP|D|Abilities|
-|:---|:---|:---|:---|:---|:---|:---|
-|Melee||Melee|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
-|Shooting|12"|Assault 3|5|0|1|Hit roll of D6=6 inflicts 3 hits instead of 1|
-
-### Cost 14pt

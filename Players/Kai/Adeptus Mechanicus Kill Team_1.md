@@ -189,11 +189,13 @@ Leader: +1 kill; +1 took part; +1 alive
 
 ## Buy/Sell
 
-For the Techpriest auctoris:   
-\Ballistic mechadendrite **5pt**   
-Combi Plasma **11pt**   
+Sell Servo-Arm: +6pt
 
-Corpuscarii Electro-Priest **14pt**
-\Electrostatic Gaunlets **0pt**
+=> 36pt available
 
+Buy Kataphron Battle Servitor: -15pt
+Heavy Arc Rifle: -8pt    
+Cognis Flamer: -10pt
+
+=> 3pt left
 
