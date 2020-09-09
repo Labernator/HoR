@@ -31,7 +31,7 @@
 
 ## Resulting to *7* TP
 
-## Summary cost 102 + 54 + 42 + 33 = **231pt**
+## Summary cost 102 + 27 + 27 + 33 + 42 = **231pt**
 
 ## Treasure chest: *3pt*
 
@@ -99,9 +99,9 @@ Supercharge is not the third profile.
 
 #### Cost 55 + 5 + 10 + 8 + 8 + 5 + 11 = 102pt
 
-### 2x Kataphron Battle Servitor
+### Kataphron Battle Servitor 1
 
-***15pt*** each   
+***15pt***      
 
 INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR   
 
@@ -122,13 +122,13 @@ INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 
 #### Equipment
 
-2x Heavy Arc Rifle **(*8pt*)**:
+Heavy Arc Rifle **(*8pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
 |36"|Heavy 2|6|-1|D3|If attacking a VEHICLE D6 damage.|
 
-2x Arc Claw **(*4pt*)**:
+Arc Claw **(*4pt*)**    
 
 |Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|
@@ -136,11 +136,48 @@ INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 
 #### XP Servitor 1: **2xp**
 
-#### XP Servitor 2: **3xp**
+#### Cost 15 + 8 + 4 = 27pt
 
-#### Cost 2x 15 + 2x 8 + 2x 4 = 54pt
+### Kataphron Battle Servitor 2
 
-### Kataphron Battle Servitor (Flamer)
+***15pt***   
+
+INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR   
+
+|M|WS|BS|S|T|W|A|Ld|Sv|InvSv|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|6"|4+|4+|5|5|3|2|7|3+|6++|
+
+#### Rules
+
+|Rule|Description|
+|---|---|
+|Canticles of the omnisiah|&nbsp;|
+|Bionics|6++ Inv save|
+|Heavy Battle Servitor|This unit do not suffer the penality for firing a Heavy weapon after moving, but can only advance D3|
+|Thermal Shed|-1T if Plasma culverine / Heavy Grav-cannon is used|
+|Heavy Tracks|Ignore distance penality when moving, charging, or advancing through terrain. This model can not be moved by an enemy.|
+|Cerebral|Gain XP|
+
+#### Equipment
+
+Heavy Arc Rifle **(*8pt*)**   
+
+|Range|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|:---|
+|36"|Heavy 2|6|-1|D3|If attacking a VEHICLE D6 damage.|
+
+Arc Claw **(*4pt*)**   
+
+|Type|S|AP|D|Abilities|
+|:---|:---|:---|:---|:---|
+|Melee|+1|-1|1|&nbsp;|
+
+#### XP: **3xp**
+
+#### Cost 15 + 8 + 4 = 27pt
+
+### Kataphron Battle Servitor 3 (Flamer)
 
 ***15pt***    
 
@@ -162,13 +199,13 @@ INFANTRY, CULT MECHANICUS, KATAPHRON SERVITOR, SERVITOR
 
 #### Equipment
 
-Heavy Arc Rifle **(*8pt*)**:
+Heavy Arc Rifle **(*8pt*)**   
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
 |36"|Heavy 2|6|-1|D3|If attacking a VEHICLE D6 damage.|
 
-Cognis Flamer **(*10pt*)**    
+Cognis Flamer **(*10pt*)**      
 
 |Range|Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|:---|
@@ -196,7 +233,7 @@ INFANTRY, TECHPRIEST, AUCTORIS, CULT MECHANICUS, MAGOS BIOLOGIS
 
 ### Weapon
 
-Omnissian Axe **(*0pt*)**   
+Omnissian Axe **(*0pt*)**    
 
 |Type|S|AP|D|Abilities|
 |:---|:---|:---|:---|:---|
