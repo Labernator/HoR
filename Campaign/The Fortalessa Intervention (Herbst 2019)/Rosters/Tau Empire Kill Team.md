@@ -105,3 +105,31 @@
 |Death And Diversity|+1|
 |Boots Before Loot|+1|
 ||3|
+
+
+# Battle logs
+
+## Post Game 1
+
+### Injuries
+
+* 1x Pathfinder dead
+* 1x Crisis Shas'ui -2Ld (bekomme das mit dem Aussetzen im nächsten Spiel nicht mehr zusammen. )
+
+### Requisition
+
+* Took part: +20
+* Victory: +10 ?
+* First Blood: +5
+* 0 Victory Points: +0*5
+
+### XP
+
+* Crisis Shas'vre (Boss): +1xp took part, +1xp survived
+* 2x Crisis Shas'ui: +1xp kill, +1xp took part, +1xp survived
+
+### "Money" to spent:
+
+* 35 Requisition
+* 3 Points
+=> 38 Geld :)
